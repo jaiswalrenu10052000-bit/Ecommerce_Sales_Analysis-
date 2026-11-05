@@ -1,0 +1,1001 @@
+﻿Order_ID,Order_Date,Customer_ID,Customer_Age,Gender,City,State,Product_ID,Product_Name,Category,Quantity,Unit_Price_INR,Discount_Percent,Discount_Amount_INR,Shipping_Charge_INR,Order_Value_INR,Payment_Method,Order_Status,Sales_Channel,order_validation
+ORD100001,2025-11-24,CUST1057,52,Female,Delhi,Delhi,PRD109,Backpack,Fashion,1,1799,0,0,0,1799,Wallet,Delivered,Marketplace,Valid
+ORD100002,2025-08-05,CUST1016,59,Other,Delhi,Delhi,PRD103,USB-C Cable,Electronics,1,399,5,19.95,40,419.05,Wallet,Delivered,Marketplace,Valid
+ORD100003,2025-08-03,CUST1112,45,Male,Chennai,Tamil Nadu,PRD109,Backpack,Fashion,3,1799,0,0,0,5397,Wallet,Returned,Mobile App,Valid
+ORD100004,2025-03-21,CUST1110,34,Female,Indore,Madhya Pradesh,PRD111,Water Bottle,Home & Kitchen,1,499,5,24.95,60,534.05,Net Banking,Returned,Marketplace,Valid
+ORD100005,2025-08-24,CUST1274,54,Female,Noida,Uttar Pradesh,PRD113,Face Moisturizer,Beauty,1,699,0,0,80,779,Debit Card,Delivered,Marketplace,Valid
+ORD100006,2025-02-05,CUST1023,42,Male,Lucknow,Uttar Pradesh,PRD108,Running Shoes,Fashion,3,2499,20,1499.4,0,5997.6,UPI,Returned,Mobile App,Valid
+ORD100007,2025-11-22,CUST1186,59,Female,Gurugram,Haryana,PRD112,Cookware Set,Home & Kitchen,1,2899,10,289.9,0,2609.1,Wallet,Delivered,Marketplace,Valid
+ORD100008,2025-11-22,CUST1087,62,Other,Kolkata,West Bengal,PRD108,Running Shoes,Fashion,1,2499,5,124.95,0,2374.05,Wallet,Processing,Website,Valid
+ORD100009,2025-12-17,CUST1166,22,Female,Bhopal,Madhya Pradesh,PRD102,Bluetooth Speaker,Electronics,1,2199,0,0,0,2199,Debit Card,Delivered,Marketplace,Valid
+ORD100010,2025-06-11,CUST1108,33,Other,Lucknow,Uttar Pradesh,PRD116,Notebook Pack,Books & Stationery,1,299,15,44.85,60,314.15,Credit Card,Delivered,Marketplace,Valid
+ORD100011,2025-10-03,CUST1134,50,Male,Ahmedabad,Gujarat,PRD114,Shampoo,Beauty,3,349,5,52.35,40,1034.65,Credit Card,Processing,Website,Valid
+ORD100012,2025-01-25,CUST1056,56,Male,Gurugram,Haryana,PRD106,Cotton T-Shirt,Fashion,3,599,5,89.85,0,1707.15,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100013,2025-05-09,CUST1005,39,Female,Lucknow,Uttar Pradesh,PRD104,Laptop Stand,Electronics,2,1499,5,149.9,0,2848.1,Wallet,Delivered,Mobile App,Valid
+ORD100014,2025-08-11,CUST1080,29,Other,Chennai,Tamil Nadu,PRD101,Wireless Mouse,Electronics,4,799,15,479.4,0,2716.6,Net Banking,Delivered,Website,Valid
+ORD100015,2025-11-17,CUST1152,18,Other,Bhopal,Madhya Pradesh,PRD117,Desk Organizer,Books & Stationery,2,649,0,0,40,1338,Net Banking,Delivered,Mobile App,Valid
+ORD100016,2025-09-08,CUST1009,33,Other,Noida,Uttar Pradesh,PRD112,Cookware Set,Home & Kitchen,3,2899,15,1304.55,0,7392.45,UPI,Delivered,Website,Valid
+ORD100017,2025-02-13,CUST1248,48,Other,Bhopal,Madhya Pradesh,PRD103,USB-C Cable,Electronics,5,399,5,99.75,0,1895.25,Wallet,Delivered,Website,Valid
+ORD100018,2025-05-16,CUST1270,37,Male,Bhopal,Madhya Pradesh,PRD114,Shampoo,Beauty,4,349,15,209.4,80,1266.6,Wallet,Delivered,Marketplace,Valid
+ORD100019,2025-11-29,CUST1191,53,Female,Chennai,Tamil Nadu,PRD117,Desk Organizer,Books & Stationery,1,649,0,0,40,689,Net Banking,Delivered,Marketplace,Valid
+ORD100020,2025-04-23,CUST1003,50,Female,Noida,Uttar Pradesh,PRD102,Bluetooth Speaker,Electronics,1,2199,15,329.85,0,1869.15,UPI,Returned,Mobile App,Valid
+ORD100021,2025-12-09,CUST1248,48,Male,Mumbai,Maharashtra,PRD118,Novel,Books & Stationery,1,449,15,67.35,80,461.65,Credit Card,Delivered,Website,Valid
+ORD100022,2025-02-18,CUST1049,59,Female,Lucknow,Uttar Pradesh,PRD114,Shampoo,Beauty,1,349,5,17.45,80,411.55,Wallet,Delivered,Website,Valid
+ORD100023,2025-07-26,CUST1173,35,Male,Indore,Madhya Pradesh,PRD104,Laptop Stand,Electronics,1,1499,0,0,60,1559,Credit Card,Delivered,Website,Valid
+ORD100024,2025-02-08,CUST1226,33,Female,Indore,Madhya Pradesh,PRD118,Novel,Books & Stationery,1,449,10,44.9,80,484.1,UPI,Returned,Mobile App,Valid
+ORD100025,2025-09-06,CUST1246,34,Male,Mumbai,Maharashtra,PRD113,Face Moisturizer,Beauty,4,699,0,0,0,2796,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100026,2025-08-05,CUST1249,65,Male,Gurugram,Haryana,PRD107,Jeans,Fashion,1,1299,20,259.8,80,1119.2,UPI,Cancelled,Website,Valid
+ORD100027,2025-01-26,CUST1244,56,Female,Kolkata,West Bengal,PRD117,Desk Organizer,Books & Stationery,1,649,20,129.8,40,559.2,UPI,Returned,Marketplace,Valid
+ORD100028,2025-05-01,CUST1206,55,Other,Noida,Uttar Pradesh,PRD108,Running Shoes,Fashion,2,2499,0,0,0,4998,Wallet,Delivered,Marketplace,Valid
+ORD100029,2025-06-11,CUST1133,38,Female,Mumbai,Maharashtra,PRD111,Water Bottle,Home & Kitchen,1,499,5,24.95,80,554.05,Cash on Delivery,Delivered,Website,Valid
+ORD100030,2025-08-23,CUST1051,41,Male,Noida,Uttar Pradesh,PRD118,Novel,Books & Stationery,1,449,0,0,60,509,Credit Card,Shipped,Website,Valid
+ORD100031,2025-08-13,CUST1278,60,Other,Ahmedabad,Gujarat,PRD110,Bedsheet Set,Home & Kitchen,2,1599,20,639.6,0,2558.4,UPI,Delivered,Mobile App,Valid
+ORD100032,2025-12-06,CUST1053,35,Male,Patna,Bihar,PRD105,Smart Watch,Electronics,1,3499,15,524.85,0,2974.15,Credit Card,Cancelled,Marketplace,Valid
+ORD100033,2025-04-18,CUST1175,23,Other,Mumbai,Maharashtra,PRD109,Backpack,Fashion,1,1799,0,0,0,1799,UPI,Shipped,Mobile App,Valid
+ORD100034,2025-05-22,CUST1022,53,Other,Delhi,Delhi,PRD111,Water Bottle,Home & Kitchen,3,499,10,149.7,60,1407.3,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100035,2025-10-15,CUST1004,55,Other,Noida,Uttar Pradesh,PRD103,USB-C Cable,Electronics,4,399,10,159.6,40,1476.4,Debit Card,Delivered,Website,Valid
+ORD100036,2025-08-09,CUST1065,61,Female,Delhi,Delhi,PRD110,Bedsheet Set,Home & Kitchen,1,1599,15,239.85,40,1399.15,Credit Card,Shipped,Marketplace,Valid
+ORD100037,2025-02-22,CUST1181,28,Female,Indore,Madhya Pradesh,PRD118,Novel,Books & Stationery,3,449,5,67.35,80,1359.65,Credit Card,Cancelled,Mobile App,Valid
+ORD100038,2025-01-13,CUST1091,35,Female,Ahmedabad,Gujarat,PRD111,Water Bottle,Home & Kitchen,3,499,5,74.85,80,1502.15,Credit Card,Returned,Marketplace,Valid
+ORD100039,2025-02-25,CUST1195,40,Male,Bhopal,Madhya Pradesh,PRD102,Bluetooth Speaker,Electronics,3,2199,0,0,0,6597,Cash on Delivery,Returned,Website,Valid
+ORD100040,2025-04-25,CUST1012,40,Other,Lucknow,Uttar Pradesh,PRD107,Jeans,Fashion,1,1299,0,0,40,1339,Debit Card,Processing,Marketplace,Valid
+ORD100041,2025-07-24,CUST1274,20,Female,Bengaluru,Karnataka,PRD101,Wireless Mouse,Electronics,1,799,20,159.8,40,679.2,Debit Card,Delivered,Marketplace,Valid
+ORD100042,2025-08-11,CUST1176,30,Male,Ahmedabad,Gujarat,PRD111,Water Bottle,Home & Kitchen,1,499,20,99.8,40,439.2,Net Banking,Delivered,Website,Valid
+ORD100043,2025-12-29,CUST1223,65,Other,Delhi,Delhi,PRD117,Desk Organizer,Books & Stationery,4,649,5,129.8,0,2466.2,Wallet,Delivered,Website,Valid
+ORD100044,2025-07-06,CUST1220,50,Male,Noida,Uttar Pradesh,PRD111,Water Bottle,Home & Kitchen,2,499,10,99.8,40,938.2,Debit Card,Delivered,Marketplace,Valid
+ORD100045,2025-07-29,CUST1167,61,Other,Hyderabad,Telangana,PRD110,Bedsheet Set,Home & Kitchen,2,1599,0,0,0,3198,Cash on Delivery,Delivered,Website,Valid
+ORD100046,2025-11-12,CUST1154,56,Other,Hyderabad,Telangana,PRD118,Novel,Books & Stationery,3,449,0,0,40,1387,Net Banking,Delivered,Mobile App,Valid
+ORD100047,2025-08-27,CUST1226,36,Other,Chennai,Tamil Nadu,PRD107,Jeans,Fashion,1,1299,10,129.9,80,1249.1,UPI,Delivered,Marketplace,Valid
+ORD100048,2025-11-21,CUST1171,20,Female,Noida,Uttar Pradesh,PRD108,Running Shoes,Fashion,2,2499,0,0,0,4998,UPI,Delivered,Mobile App,Valid
+ORD100049,2025-11-09,CUST1037,43,Female,Chennai,Tamil Nadu,PRD114,Shampoo,Beauty,3,349,10,104.7,80,1022.3,Cash on Delivery,Delivered,Website,Valid
+ORD100050,2025-12-02,CUST1002,51,Male,Patna,Bihar,PRD104,Laptop Stand,Electronics,3,1499,0,0,0,4497,Wallet,Returned,Website,Valid
+ORD100051,2025-10-13,CUST1127,56,Male,Patna,Bihar,PRD104,Laptop Stand,Electronics,1,1499,15,224.85,80,1354.15,Net Banking,Delivered,Mobile App,Valid
+ORD100052,2025-11-10,CUST1258,58,Male,Hyderabad,Telangana,PRD118,Novel,Books & Stationery,1,449,0,0,60,509,Credit Card,Delivered,Marketplace,Valid
+ORD100053,2025-09-06,CUST1122,23,Female,Pune,Maharashtra,PRD115,Sunscreen,Beauty,1,599,0,0,60,659,Net Banking,Delivered,Website,Valid
+ORD100054,2025-04-29,CUST1196,47,Male,Ahmedabad,Gujarat,PRD105,Smart Watch,Electronics,2,3499,0,0,0,6998,Net Banking,Delivered,Website,Valid
+ORD100055,2025-04-16,CUST1215,40,Male,Hyderabad,Telangana,PRD101,Wireless Mouse,Electronics,3,799,10,239.7,0,2157.3,UPI,Delivered,Mobile App,Valid
+ORD100056,2025-08-03,CUST1275,49,Female,Ahmedabad,Gujarat,PRD118,Novel,Books & Stationery,3,449,15,202.05,60,1204.95,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100057,2025-06-22,CUST1207,19,Male,Ahmedabad,Gujarat,PRD106,Cotton T-Shirt,Fashion,3,599,15,269.55,0,1527.45,Net Banking,Processing,Marketplace,Valid
+ORD100058,2025-10-16,CUST1013,31,Male,Noida,Uttar Pradesh,PRD114,Shampoo,Beauty,1,349,5,17.45,40,371.55,Debit Card,Delivered,Mobile App,Valid
+ORD100059,2025-06-22,CUST1194,40,Female,Pune,Maharashtra,PRD114,Shampoo,Beauty,1,349,0,0,40,389,UPI,Cancelled,Marketplace,Valid
+ORD100060,2025-02-05,CUST1020,33,Female,Indore,Madhya Pradesh,PRD101,Wireless Mouse,Electronics,4,799,0,0,0,3196,Credit Card,Delivered,Mobile App,Valid
+ORD100061,2025-12-09,CUST1058,65,Other,Jaipur,Rajasthan,PRD107,Jeans,Fashion,1,1299,0,0,60,1359,Net Banking,Delivered,Website,Valid
+ORD100062,2025-03-25,CUST1159,43,Other,Noida,Uttar Pradesh,PRD101,Wireless Mouse,Electronics,4,799,10,319.6,0,2876.4,Cash on Delivery,Shipped,Website,Valid
+ORD100063,2025-02-08,CUST1124,20,Male,Noida,Uttar Pradesh,PRD110,Bedsheet Set,Home & Kitchen,3,1599,10,479.7,0,4317.3,Net Banking,Delivered,Marketplace,Valid
+ORD100064,2025-08-08,CUST1189,45,Male,Noida,Uttar Pradesh,PRD117,Desk Organizer,Books & Stationery,2,649,0,0,60,1358,UPI,Returned,Marketplace,Valid
+ORD100065,2025-08-24,CUST1078,48,Male,Hyderabad,Telangana,PRD106,Cotton T-Shirt,Fashion,2,599,20,239.6,60,1018.4,Net Banking,Delivered,Mobile App,Valid
+ORD100066,2025-10-31,CUST1137,47,Other,Bengaluru,Karnataka,PRD108,Running Shoes,Fashion,3,2499,0,0,0,7497,Credit Card,Shipped,Marketplace,Valid
+ORD100067,2025-12-09,CUST1194,39,Male,Bengaluru,Karnataka,PRD101,Wireless Mouse,Electronics,1,799,0,0,60,859,Debit Card,Delivered,Marketplace,Valid
+ORD100068,2025-12-26,CUST1141,53,Female,Kolkata,West Bengal,PRD101,Wireless Mouse,Electronics,1,799,0,0,40,839,Cash on Delivery,Cancelled,Marketplace,Valid
+ORD100069,2025-09-01,CUST1251,55,Male,Chennai,Tamil Nadu,PRD101,Wireless Mouse,Electronics,1,799,0,0,80,879,Wallet,Delivered,Mobile App,Valid
+ORD100070,2025-10-11,CUST1271,35,Male,Bengaluru,Karnataka,PRD114,Shampoo,Beauty,5,349,10,174.5,0,1570.5,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100071,2025-04-29,CUST1061,65,Male,Ahmedabad,Gujarat,PRD107,Jeans,Fashion,1,1299,10,129.9,80,1249.1,Credit Card,Delivered,Mobile App,Valid
+ORD100072,2025-10-29,CUST1268,29,Male,Jaipur,Rajasthan,PRD110,Bedsheet Set,Home & Kitchen,5,1599,15,1199.25,0,6795.75,Debit Card,Delivered,Website,Valid
+ORD100073,2025-12-29,CUST1273,58,Male,Gurugram,Haryana,PRD109,Backpack,Fashion,1,1799,0,0,0,1799,Credit Card,Delivered,Website,Valid
+ORD100074,2025-01-07,CUST1145,25,Female,Chennai,Tamil Nadu,PRD116,Notebook Pack,Books & Stationery,1,299,0,0,40,339,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100075,2025-09-09,CUST1037,33,Female,Jaipur,Rajasthan,PRD102,Bluetooth Speaker,Electronics,1,2199,15,329.85,0,1869.15,UPI,Shipped,Marketplace,Valid
+ORD100076,2025-08-02,CUST1115,37,Other,Indore,Madhya Pradesh,PRD117,Desk Organizer,Books & Stationery,1,649,15,97.35,60,611.65,Cash on Delivery,Returned,Marketplace,Valid
+ORD100077,2025-01-31,CUST1050,29,Other,Indore,Madhya Pradesh,PRD107,Jeans,Fashion,2,1299,0,0,0,2598,Credit Card,Delivered,Website,Valid
+ORD100078,2025-03-22,CUST1001,36,Other,Hyderabad,Telangana,PRD115,Sunscreen,Beauty,2,599,5,59.9,40,1178.1,Wallet,Delivered,Mobile App,Valid
+ORD100079,2025-02-06,CUST1119,45,Female,Patna,Bihar,PRD109,Backpack,Fashion,3,1799,10,539.7,0,4857.3,Credit Card,Delivered,Marketplace,Valid
+ORD100080,2025-04-26,CUST1076,56,Other,Patna,Bihar,PRD109,Backpack,Fashion,3,1799,0,0,0,5397,Debit Card,Delivered,Marketplace,Valid
+ORD100081,2025-05-28,CUST1224,46,Female,Noida,Uttar Pradesh,PRD115,Sunscreen,Beauty,2,599,10,119.8,60,1138.2,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100082,2025-01-21,CUST1221,55,Female,Ahmedabad,Gujarat,PRD111,Water Bottle,Home & Kitchen,2,499,0,0,40,1038,Net Banking,Processing,Marketplace,Valid
+ORD100083,2025-05-18,CUST1020,45,Other,Indore,Madhya Pradesh,PRD106,Cotton T-Shirt,Fashion,1,599,10,59.9,60,599.1,Net Banking,Delivered,Mobile App,Valid
+ORD100084,2025-02-16,CUST1240,49,Male,Bengaluru,Karnataka,PRD114,Shampoo,Beauty,1,349,10,34.9,40,354.1,Wallet,Delivered,Marketplace,Valid
+ORD100085,2025-07-25,CUST1018,60,Other,Chennai,Tamil Nadu,PRD103,USB-C Cable,Electronics,1,399,0,0,60,459,UPI,Returned,Mobile App,Valid
+ORD100086,2025-07-31,CUST1027,31,Male,Mumbai,Maharashtra,PRD117,Desk Organizer,Books & Stationery,1,649,10,64.9,80,664.1,UPI,Delivered,Marketplace,Valid
+ORD100087,2025-03-09,CUST1147,28,Male,Chennai,Tamil Nadu,PRD116,Notebook Pack,Books & Stationery,1,299,20,59.8,80,319.2,Wallet,Cancelled,Marketplace,Valid
+ORD100088,2025-01-08,CUST1208,59,Female,Noida,Uttar Pradesh,PRD108,Running Shoes,Fashion,5,2499,15,1874.25,0,10620.75,UPI,Delivered,Mobile App,Valid
+ORD100089,2025-05-30,CUST1260,53,Female,Ahmedabad,Gujarat,PRD109,Backpack,Fashion,1,1799,5,89.95,0,1709.05,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100090,2025-04-08,CUST1260,39,Other,Ahmedabad,Gujarat,PRD105,Smart Watch,Electronics,3,3499,0,0,0,10497,Cash on Delivery,Cancelled,Mobile App,Valid
+ORD100091,2025-01-02,CUST1144,46,Other,Ahmedabad,Gujarat,PRD110,Bedsheet Set,Home & Kitchen,3,1599,10,479.7,0,4317.3,Credit Card,Delivered,Mobile App,Valid
+ORD100092,2025-06-26,CUST1170,54,Male,Kolkata,West Bengal,PRD118,Novel,Books & Stationery,1,449,15,67.35,40,421.65,Credit Card,Processing,Website,Valid
+ORD100093,2025-07-30,CUST1022,27,Male,Bengaluru,Karnataka,PRD116,Notebook Pack,Books & Stationery,2,299,15,89.7,60,568.3,Wallet,Processing,Website,Valid
+ORD100094,2025-03-06,CUST1257,18,Other,Jaipur,Rajasthan,PRD111,Water Bottle,Home & Kitchen,3,499,15,224.55,60,1332.45,Cash on Delivery,Delivered,Website,Valid
+ORD100095,2025-07-29,CUST1079,23,Male,Noida,Uttar Pradesh,PRD116,Notebook Pack,Books & Stationery,3,299,0,0,80,977,Wallet,Delivered,Marketplace,Valid
+ORD100096,2025-10-01,CUST1194,36,Female,Bengaluru,Karnataka,PRD116,Notebook Pack,Books & Stationery,3,299,0,0,40,937,Wallet,Delivered,Marketplace,Valid
+ORD100097,2025-02-16,CUST1222,36,Male,Noida,Uttar Pradesh,PRD104,Laptop Stand,Electronics,1,1499,10,149.9,40,1389.1,UPI,Delivered,Mobile App,Valid
+ORD100098,2025-08-09,CUST1074,57,Male,Mumbai,Maharashtra,PRD117,Desk Organizer,Books & Stationery,1,649,10,64.9,40,624.1,UPI,Delivered,Marketplace,Valid
+ORD100099,2025-12-16,CUST1123,18,Male,Chennai,Tamil Nadu,PRD105,Smart Watch,Electronics,1,3499,10,349.9,0,3149.1,Wallet,Delivered,Mobile App,Valid
+ORD100100,2025-12-13,CUST1279,62,Male,Gurugram,Haryana,PRD103,USB-C Cable,Electronics,1,399,0,0,80,479,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100101,2025-06-04,CUST1101,36,Female,Hyderabad,Telangana,PRD116,Notebook Pack,Books & Stationery,1,299,5,14.95,60,344.05,Wallet,Delivered,Marketplace,Valid
+ORD100102,2025-07-22,CUST1140,32,Other,Delhi,Delhi,PRD102,Bluetooth Speaker,Electronics,4,2199,10,879.6,0,7916.4,Debit Card,Returned,Mobile App,Valid
+ORD100103,2025-04-23,CUST1097,58,Female,Jaipur,Rajasthan,PRD109,Backpack,Fashion,2,1799,10,359.8,0,3238.2,Credit Card,Delivered,Marketplace,Valid
+ORD100104,2025-11-27,CUST1020,38,Other,Pune,Maharashtra,PRD115,Sunscreen,Beauty,1,599,5,29.95,40,609.05,Debit Card,Delivered,Mobile App,Valid
+ORD100105,2025-03-31,CUST1102,34,Male,Gurugram,Haryana,PRD118,Novel,Books & Stationery,3,449,5,67.35,80,1359.65,Credit Card,Shipped,Mobile App,Valid
+ORD100106,2025-06-23,CUST1058,53,Male,Chennai,Tamil Nadu,PRD103,USB-C Cable,Electronics,1,399,20,79.8,80,399.2,Cash on Delivery,Cancelled,Website,Valid
+ORD100107,2025-07-22,CUST1007,42,Other,Pune,Maharashtra,PRD118,Novel,Books & Stationery,1,449,5,22.45,80,506.55,Net Banking,Delivered,Mobile App,Valid
+ORD100108,2025-02-25,CUST1119,59,Female,Chennai,Tamil Nadu,PRD101,Wireless Mouse,Electronics,2,799,15,239.7,60,1418.3,Credit Card,Shipped,Marketplace,Valid
+ORD100109,2025-08-26,CUST1154,25,Female,Lucknow,Uttar Pradesh,PRD114,Shampoo,Beauty,1,349,0,0,40,389,Cash on Delivery,Delivered,Website,Valid
+ORD100110,2025-10-03,CUST1069,55,Other,Hyderabad,Telangana,PRD115,Sunscreen,Beauty,1,599,15,89.85,80,589.15,Cash on Delivery,Shipped,Marketplace,Valid
+ORD100111,2025-03-21,CUST1212,20,Other,Lucknow,Uttar Pradesh,PRD104,Laptop Stand,Electronics,3,1499,10,449.7,0,4047.3,Debit Card,Shipped,Mobile App,Valid
+ORD100112,2025-04-22,CUST1227,59,Male,Chennai,Tamil Nadu,PRD108,Running Shoes,Fashion,3,2499,0,0,0,7497,Net Banking,Delivered,Website,Valid
+ORD100113,2025-07-23,CUST1141,59,Other,Mumbai,Maharashtra,PRD104,Laptop Stand,Electronics,4,1499,15,899.4,0,5096.6,Credit Card,Delivered,Marketplace,Valid
+ORD100114,2025-01-11,CUST1025,31,Other,Indore,Madhya Pradesh,PRD111,Water Bottle,Home & Kitchen,1,499,0,0,80,579,Net Banking,Delivered,Website,Valid
+ORD100115,2025-04-30,CUST1168,26,Other,Indore,Madhya Pradesh,PRD105,Smart Watch,Electronics,3,3499,10,1049.7,0,9447.3,Credit Card,Delivered,Mobile App,Valid
+ORD100116,2025-03-31,CUST1056,29,Male,Lucknow,Uttar Pradesh,PRD101,Wireless Mouse,Electronics,1,799,5,39.95,40,799.05,UPI,Delivered,Website,Valid
+ORD100117,2025-03-06,CUST1215,55,Female,Kolkata,West Bengal,PRD104,Laptop Stand,Electronics,2,1499,5,149.9,0,2848.1,Net Banking,Cancelled,Mobile App,Valid
+ORD100118,2025-09-15,CUST1113,47,Other,Jaipur,Rajasthan,PRD102,Bluetooth Speaker,Electronics,2,2199,15,659.7,0,3738.3,Debit Card,Delivered,Website,Valid
+ORD100119,2025-02-01,CUST1245,23,Male,Bhopal,Madhya Pradesh,PRD113,Face Moisturizer,Beauty,1,699,0,0,80,779,UPI,Shipped,Marketplace,Valid
+ORD100120,2025-03-17,CUST1033,56,Other,Gurugram,Haryana,PRD109,Backpack,Fashion,2,1799,10,359.8,0,3238.2,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100121,2025-08-21,CUST1258,64,Female,Jaipur,Rajasthan,PRD114,Shampoo,Beauty,1,349,10,34.9,80,394.1,Net Banking,Delivered,Mobile App,Valid
+ORD100122,2025-08-20,CUST1116,38,Other,Hyderabad,Telangana,PRD111,Water Bottle,Home & Kitchen,3,499,5,74.85,80,1502.15,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100123,2025-07-11,CUST1078,65,Male,Lucknow,Uttar Pradesh,PRD116,Notebook Pack,Books & Stationery,1,299,15,44.85,40,294.15,Wallet,Delivered,Website,Valid
+ORD100124,2025-10-12,CUST1030,45,Other,Jaipur,Rajasthan,PRD118,Novel,Books & Stationery,2,449,10,89.8,60,868.2,Wallet,Delivered,Website,Valid
+ORD100125,2025-05-28,CUST1159,24,Male,Bengaluru,Karnataka,PRD104,Laptop Stand,Electronics,2,1499,0,0,0,2998,Credit Card,Delivered,Marketplace,Valid
+ORD100126,2025-07-08,CUST1058,57,Other,Indore,Madhya Pradesh,PRD109,Backpack,Fashion,2,1799,15,539.7,0,3058.3,Net Banking,Returned,Marketplace,Valid
+ORD100127,2025-10-13,CUST1013,40,Female,Jaipur,Rajasthan,PRD109,Backpack,Fashion,1,1799,0,0,0,1799,Debit Card,Cancelled,Website,Valid
+ORD100128,2025-03-15,CUST1205,31,Male,Noida,Uttar Pradesh,PRD105,Smart Watch,Electronics,2,3499,20,1399.6,0,5598.4,Net Banking,Delivered,Mobile App,Valid
+ORD100129,2025-08-21,CUST1174,23,Female,Gurugram,Haryana,PRD112,Cookware Set,Home & Kitchen,1,2899,0,0,0,2899,Net Banking,Shipped,Website,Valid
+ORD100130,2025-03-22,CUST1025,35,Female,Lucknow,Uttar Pradesh,PRD103,USB-C Cable,Electronics,1,399,10,39.9,60,419.1,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100131,2025-02-28,CUST1176,20,Female,Hyderabad,Telangana,PRD104,Laptop Stand,Electronics,1,1499,10,149.9,60,1409.1,Debit Card,Delivered,Mobile App,Valid
+ORD100132,2025-11-03,CUST1028,38,Female,Delhi,Delhi,PRD107,Jeans,Fashion,1,1299,0,0,40,1339,Debit Card,Cancelled,Website,Valid
+ORD100133,2025-09-12,CUST1220,40,Female,Gurugram,Haryana,PRD105,Smart Watch,Electronics,1,3499,10,349.9,0,3149.1,Wallet,Delivered,Mobile App,Valid
+ORD100134,2025-01-22,CUST1223,43,Other,Delhi,Delhi,PRD115,Sunscreen,Beauty,4,599,15,359.4,0,2036.6,Net Banking,Delivered,Marketplace,Valid
+ORD100135,2025-08-02,CUST1148,41,Female,Noida,Uttar Pradesh,PRD113,Face Moisturizer,Beauty,1,699,0,0,80,779,Wallet,Delivered,Mobile App,Valid
+ORD100136,2025-02-24,CUST1124,39,Female,Hyderabad,Telangana,PRD113,Face Moisturizer,Beauty,2,699,5,69.9,60,1388.1,Credit Card,Cancelled,Website,Valid
+ORD100137,2025-09-19,CUST1058,27,Female,Kolkata,West Bengal,PRD117,Desk Organizer,Books & Stationery,1,649,10,64.9,60,644.1,Wallet,Cancelled,Website,Valid
+ORD100138,2025-03-16,CUST1131,49,Male,Mumbai,Maharashtra,PRD106,Cotton T-Shirt,Fashion,2,599,10,119.8,80,1158.2,Wallet,Delivered,Marketplace,Valid
+ORD100139,2025-10-24,CUST1229,46,Other,Lucknow,Uttar Pradesh,PRD111,Water Bottle,Home & Kitchen,3,499,10,149.7,40,1387.3,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100140,2025-05-21,CUST1028,22,Other,Bengaluru,Karnataka,PRD117,Desk Organizer,Books & Stationery,1,649,5,32.45,40,656.55,Debit Card,Delivered,Website,Valid
+ORD100141,2025-11-11,CUST1259,54,Other,Hyderabad,Telangana,PRD115,Sunscreen,Beauty,2,599,20,239.6,80,1038.4,Cash on Delivery,Shipped,Website,Valid
+ORD100142,2025-06-14,CUST1243,63,Female,Kolkata,West Bengal,PRD105,Smart Watch,Electronics,4,3499,5,699.8,0,13296.2,Debit Card,Returned,Marketplace,Valid
+ORD100143,2025-11-27,CUST1088,28,Male,Delhi,Delhi,PRD108,Running Shoes,Fashion,2,2499,20,999.6,0,3998.4,Net Banking,Delivered,Mobile App,Valid
+ORD100144,2025-05-25,CUST1198,39,Female,Hyderabad,Telangana,PRD111,Water Bottle,Home & Kitchen,2,499,0,0,80,1078,UPI,Delivered,Marketplace,Valid
+ORD100145,2025-12-14,CUST1197,39,Female,Pune,Maharashtra,PRD109,Backpack,Fashion,2,1799,10,359.8,0,3238.2,Credit Card,Shipped,Marketplace,Valid
+ORD100146,2025-12-06,CUST1072,56,Other,Patna,Bihar,PRD112,Cookware Set,Home & Kitchen,1,2899,10,289.9,0,2609.1,Credit Card,Delivered,Website,Valid
+ORD100147,2025-06-08,CUST1192,23,Other,Lucknow,Uttar Pradesh,PRD111,Water Bottle,Home & Kitchen,3,499,10,149.7,80,1427.3,Net Banking,Processing,Marketplace,Valid
+ORD100148,2025-08-05,CUST1260,30,Female,Bengaluru,Karnataka,PRD101,Wireless Mouse,Electronics,1,799,0,0,40,839,Cash on Delivery,Delivered,Website,Valid
+ORD100149,2025-03-21,CUST1039,60,Male,Pune,Maharashtra,PRD104,Laptop Stand,Electronics,1,1499,5,74.95,80,1504.05,UPI,Shipped,Marketplace,Valid
+ORD100150,2025-03-09,CUST1192,64,Male,Gurugram,Haryana,PRD106,Cotton T-Shirt,Fashion,1,599,10,59.9,80,619.1,Credit Card,Returned,Website,Valid
+ORD100151,2025-07-30,CUST1186,32,Other,Lucknow,Uttar Pradesh,PRD108,Running Shoes,Fashion,4,2499,10,999.6,0,8996.4,Cash on Delivery,Cancelled,Website,Valid
+ORD100152,2025-06-08,CUST1240,42,Other,Patna,Bihar,PRD107,Jeans,Fashion,1,1299,15,194.85,60,1164.15,Debit Card,Delivered,Marketplace,Valid
+ORD100153,2025-08-03,CUST1082,48,Male,Bhopal,Madhya Pradesh,PRD107,Jeans,Fashion,3,1299,0,0,0,3897,Wallet,Delivered,Marketplace,Valid
+ORD100154,2025-02-22,CUST1264,27,Male,Bhopal,Madhya Pradesh,PRD104,Laptop Stand,Electronics,1,1499,10,149.9,60,1409.1,Net Banking,Delivered,Website,Valid
+ORD100155,2025-04-24,CUST1230,33,Male,Patna,Bihar,PRD112,Cookware Set,Home & Kitchen,4,2899,5,579.8,0,11016.2,Debit Card,Delivered,Website,Valid
+ORD100156,2025-07-11,CUST1114,26,Female,Delhi,Delhi,PRD111,Water Bottle,Home & Kitchen,4,499,15,299.4,0,1696.6,Credit Card,Delivered,Mobile App,Valid
+ORD100157,2025-08-30,CUST1071,27,Other,Indore,Madhya Pradesh,PRD116,Notebook Pack,Books & Stationery,1,299,0,0,40,339,Credit Card,Delivered,Marketplace,Valid
+ORD100158,2025-11-08,CUST1270,44,Other,Hyderabad,Telangana,PRD104,Laptop Stand,Electronics,3,1499,0,0,0,4497,Credit Card,Delivered,Marketplace,Valid
+ORD100159,2025-08-23,CUST1032,27,Male,Noida,Uttar Pradesh,PRD116,Notebook Pack,Books & Stationery,2,299,0,0,80,678,Wallet,Delivered,Mobile App,Valid
+ORD100160,2025-01-01,CUST1180,51,Other,Mumbai,Maharashtra,PRD114,Shampoo,Beauty,1,349,10,34.9,80,394.1,UPI,Processing,Marketplace,Valid
+ORD100161,2025-09-17,CUST1010,40,Female,Hyderabad,Telangana,PRD116,Notebook Pack,Books & Stationery,1,299,5,14.95,60,344.05,UPI,Delivered,Mobile App,Valid
+ORD100162,2025-05-04,CUST1053,61,Male,Indore,Madhya Pradesh,PRD111,Water Bottle,Home & Kitchen,1,499,5,24.95,60,534.05,Credit Card,Returned,Marketplace,Valid
+ORD100163,2025-09-03,CUST1093,30,Female,Indore,Madhya Pradesh,PRD105,Smart Watch,Electronics,1,3499,10,349.9,0,3149.1,Debit Card,Delivered,Website,Valid
+ORD100164,2025-01-22,CUST1161,59,Female,Patna,Bihar,PRD110,Bedsheet Set,Home & Kitchen,1,1599,20,319.8,80,1359.2,UPI,Delivered,Mobile App,Valid
+ORD100165,2025-07-02,CUST1024,46,Male,Bhopal,Madhya Pradesh,PRD111,Water Bottle,Home & Kitchen,1,499,10,49.9,60,509.1,Wallet,Shipped,Mobile App,Valid
+ORD100166,2025-04-06,CUST1254,45,Female,Ahmedabad,Gujarat,PRD116,Notebook Pack,Books & Stationery,1,299,10,29.9,60,329.1,Wallet,Returned,Mobile App,Valid
+ORD100167,2025-11-05,CUST1092,46,Other,Kolkata,West Bengal,PRD110,Bedsheet Set,Home & Kitchen,1,1599,0,0,0,1599,Debit Card,Delivered,Marketplace,Valid
+ORD100168,2025-08-07,CUST1085,35,Other,Ahmedabad,Gujarat,PRD115,Sunscreen,Beauty,1,599,0,0,60,659,Cash on Delivery,Delivered,Website,Valid
+ORD100169,2025-02-08,CUST1207,56,Other,Bengaluru,Karnataka,PRD117,Desk Organizer,Books & Stationery,3,649,10,194.7,0,1752.3,Credit Card,Processing,Mobile App,Valid
+ORD100170,2025-01-18,CUST1064,20,Other,Noida,Uttar Pradesh,PRD108,Running Shoes,Fashion,3,2499,5,374.85,0,7122.15,Net Banking,Delivered,Website,Valid
+ORD100171,2025-12-14,CUST1230,43,Male,Bengaluru,Karnataka,PRD112,Cookware Set,Home & Kitchen,1,2899,0,0,0,2899,Debit Card,Delivered,Marketplace,Valid
+ORD100172,2025-05-23,CUST1127,25,Male,Noida,Uttar Pradesh,PRD101,Wireless Mouse,Electronics,2,799,5,79.9,0,1518.1,Net Banking,Delivered,Mobile App,Valid
+ORD100173,2025-12-27,CUST1228,22,Male,Mumbai,Maharashtra,PRD110,Bedsheet Set,Home & Kitchen,2,1599,20,639.6,0,2558.4,Credit Card,Delivered,Website,Valid
+ORD100174,2025-08-16,CUST1044,28,Other,Indore,Madhya Pradesh,PRD111,Water Bottle,Home & Kitchen,2,499,10,99.8,80,978.2,Debit Card,Delivered,Marketplace,Valid
+ORD100175,2025-12-25,CUST1089,33,Male,Indore,Madhya Pradesh,PRD112,Cookware Set,Home & Kitchen,1,2899,0,0,0,2899,Credit Card,Delivered,Website,Valid
+ORD100176,2025-07-04,CUST1188,64,Male,Chennai,Tamil Nadu,PRD118,Novel,Books & Stationery,1,449,15,67.35,40,421.65,Wallet,Delivered,Marketplace,Valid
+ORD100177,2025-07-30,CUST1209,51,Male,Bhopal,Madhya Pradesh,PRD103,USB-C Cable,Electronics,1,399,0,0,40,439,Wallet,Delivered,Website,Valid
+ORD100178,2025-10-10,CUST1093,51,Female,Indore,Madhya Pradesh,PRD105,Smart Watch,Electronics,1,3499,15,524.85,0,2974.15,UPI,Delivered,Mobile App,Valid
+ORD100179,2025-03-26,CUST1082,34,Female,Bengaluru,Karnataka,PRD108,Running Shoes,Fashion,1,2499,15,374.85,0,2124.15,UPI,Shipped,Marketplace,Valid
+ORD100180,2025-10-10,CUST1140,55,Female,Gurugram,Haryana,PRD110,Bedsheet Set,Home & Kitchen,2,1599,0,0,0,3198,Net Banking,Delivered,Website,Valid
+ORD100181,2025-12-04,CUST1172,54,Male,Bhopal,Madhya Pradesh,PRD102,Bluetooth Speaker,Electronics,3,2199,0,0,0,6597,Wallet,Delivered,Marketplace,Valid
+ORD100182,2025-04-18,CUST1213,48,Female,Jaipur,Rajasthan,PRD101,Wireless Mouse,Electronics,1,799,10,79.9,60,779.1,Debit Card,Delivered,Marketplace,Valid
+ORD100183,2025-07-27,CUST1152,39,Other,Chennai,Tamil Nadu,PRD103,USB-C Cable,Electronics,2,399,0,0,60,858,Credit Card,Delivered,Website,Valid
+ORD100184,2025-06-10,CUST1163,24,Male,Ahmedabad,Gujarat,PRD112,Cookware Set,Home & Kitchen,5,2899,0,0,0,14495,Net Banking,Delivered,Website,Valid
+ORD100185,2025-08-27,CUST1062,44,Female,Pune,Maharashtra,PRD115,Sunscreen,Beauty,1,599,0,0,60,659,Net Banking,Shipped,Website,Valid
+ORD100186,2025-06-17,CUST1160,19,Female,Mumbai,Maharashtra,PRD106,Cotton T-Shirt,Fashion,1,599,5,29.95,60,629.05,Cash on Delivery,Shipped,Mobile App,Valid
+ORD100187,2025-09-16,CUST1234,59,Other,Mumbai,Maharashtra,PRD107,Jeans,Fashion,2,1299,0,0,0,2598,Net Banking,Delivered,Mobile App,Valid
+ORD100188,2025-05-27,CUST1274,41,Female,Delhi,Delhi,PRD104,Laptop Stand,Electronics,1,1499,15,224.85,80,1354.15,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100189,2025-01-27,CUST1099,57,Other,Bengaluru,Karnataka,PRD118,Novel,Books & Stationery,1,449,5,22.45,60,486.55,Debit Card,Cancelled,Marketplace,Valid
+ORD100190,2025-03-02,CUST1065,30,Other,Noida,Uttar Pradesh,PRD113,Face Moisturizer,Beauty,1,699,20,139.8,80,639.2,Credit Card,Shipped,Marketplace,Valid
+ORD100191,2025-07-25,CUST1256,47,Female,Delhi,Delhi,PRD102,Bluetooth Speaker,Electronics,1,2199,10,219.9,0,1979.1,Net Banking,Returned,Marketplace,Valid
+ORD100192,2025-09-21,CUST1071,39,Other,Bengaluru,Karnataka,PRD111,Water Bottle,Home & Kitchen,1,499,20,99.8,80,479.2,Net Banking,Returned,Marketplace,Valid
+ORD100193,2025-09-30,CUST1250,44,Other,Ahmedabad,Gujarat,PRD110,Bedsheet Set,Home & Kitchen,1,1599,0,0,0,1599,UPI,Delivered,Mobile App,Valid
+ORD100194,2025-12-19,CUST1013,21,Other,Jaipur,Rajasthan,PRD116,Notebook Pack,Books & Stationery,1,299,10,29.9,80,349.1,Wallet,Delivered,Mobile App,Valid
+ORD100195,2025-03-29,CUST1268,25,Female,Lucknow,Uttar Pradesh,PRD113,Face Moisturizer,Beauty,1,699,10,69.9,40,669.1,Wallet,Delivered,Website,Valid
+ORD100196,2025-08-14,CUST1160,48,Other,Hyderabad,Telangana,PRD105,Smart Watch,Electronics,1,3499,0,0,0,3499,Net Banking,Delivered,Marketplace,Valid
+ORD100197,2025-02-01,CUST1070,38,Female,Kolkata,West Bengal,PRD107,Jeans,Fashion,2,1299,20,519.6,0,2078.4,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100198,2025-09-30,CUST1175,34,Other,Kolkata,West Bengal,PRD112,Cookware Set,Home & Kitchen,2,2899,15,869.7,0,4928.3,Wallet,Delivered,Mobile App,Valid
+ORD100199,2025-04-09,CUST1126,31,Other,Pune,Maharashtra,PRD118,Novel,Books & Stationery,1,449,15,67.35,60,441.65,Wallet,Cancelled,Marketplace,Valid
+ORD100200,2025-09-08,CUST1162,25,Other,Chennai,Tamil Nadu,PRD112,Cookware Set,Home & Kitchen,2,2899,15,869.7,0,4928.3,Debit Card,Cancelled,Marketplace,Valid
+ORD100201,2025-10-06,CUST1194,20,Male,Patna,Bihar,PRD113,Face Moisturizer,Beauty,3,699,20,419.4,0,1677.6,Debit Card,Returned,Marketplace,Valid
+ORD100202,2025-02-10,CUST1177,35,Other,Patna,Bihar,PRD115,Sunscreen,Beauty,2,599,10,119.8,40,1118.2,Net Banking,Delivered,Marketplace,Valid
+ORD100203,2025-05-20,CUST1070,32,Female,Noida,Uttar Pradesh,PRD108,Running Shoes,Fashion,1,2499,10,249.9,0,2249.1,Wallet,Delivered,Website,Valid
+ORD100204,2025-07-31,CUST1169,44,Other,Ahmedabad,Gujarat,PRD116,Notebook Pack,Books & Stationery,1,299,10,29.9,40,309.1,Credit Card,Processing,Mobile App,Valid
+ORD100205,2025-09-02,CUST1102,52,Other,Indore,Madhya Pradesh,PRD110,Bedsheet Set,Home & Kitchen,1,1599,10,159.9,40,1479.1,Credit Card,Delivered,Marketplace,Valid
+ORD100206,2025-01-20,CUST1089,29,Other,Hyderabad,Telangana,PRD106,Cotton T-Shirt,Fashion,4,599,0,0,0,2396,Cash on Delivery,Returned,Mobile App,Valid
+ORD100207,2025-01-20,CUST1004,52,Other,Pune,Maharashtra,PRD104,Laptop Stand,Electronics,4,1499,0,0,0,5996,Wallet,Delivered,Mobile App,Valid
+ORD100208,2025-03-10,CUST1258,59,Male,Chennai,Tamil Nadu,PRD109,Backpack,Fashion,1,1799,0,0,0,1799,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100209,2025-04-06,CUST1007,43,Male,Ahmedabad,Gujarat,PRD111,Water Bottle,Home & Kitchen,3,499,10,149.7,40,1387.3,Wallet,Delivered,Marketplace,Valid
+ORD100210,2025-06-17,CUST1044,34,Male,Hyderabad,Telangana,PRD104,Laptop Stand,Electronics,1,1499,0,0,60,1559,UPI,Shipped,Website,Valid
+ORD100211,2025-08-17,CUST1136,62,Female,Bengaluru,Karnataka,PRD110,Bedsheet Set,Home & Kitchen,2,1599,10,319.8,0,2878.2,Debit Card,Delivered,Website,Valid
+ORD100212,2025-12-08,CUST1060,25,Other,Chennai,Tamil Nadu,PRD110,Bedsheet Set,Home & Kitchen,1,1599,10,159.9,80,1519.1,Wallet,Cancelled,Mobile App,Valid
+ORD100213,2025-07-08,CUST1113,44,Other,Mumbai,Maharashtra,PRD105,Smart Watch,Electronics,1,3499,5,174.95,0,3324.05,Debit Card,Processing,Marketplace,Valid
+ORD100214,2025-08-30,CUST1275,51,Male,Indore,Madhya Pradesh,PRD107,Jeans,Fashion,2,1299,10,259.8,0,2338.2,UPI,Delivered,Marketplace,Valid
+ORD100215,2025-12-27,CUST1185,27,Female,Noida,Uttar Pradesh,PRD104,Laptop Stand,Electronics,1,1499,5,74.95,80,1504.05,Net Banking,Delivered,Mobile App,Valid
+ORD100216,2025-09-24,CUST1226,21,Male,Noida,Uttar Pradesh,PRD107,Jeans,Fashion,2,1299,5,129.9,0,2468.1,Cash on Delivery,Shipped,Website,Valid
+ORD100217,2025-09-20,CUST1212,43,Male,Chennai,Tamil Nadu,PRD102,Bluetooth Speaker,Electronics,2,2199,10,439.8,0,3958.2,UPI,Delivered,Website,Valid
+ORD100218,2025-04-22,CUST1037,48,Female,Delhi,Delhi,PRD114,Shampoo,Beauty,1,349,0,0,40,389,UPI,Shipped,Mobile App,Valid
+ORD100219,2025-07-29,CUST1092,41,Male,Indore,Madhya Pradesh,PRD105,Smart Watch,Electronics,2,3499,20,1399.6,0,5598.4,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100220,2025-07-13,CUST1192,43,Other,Noida,Uttar Pradesh,PRD118,Novel,Books & Stationery,1,449,15,67.35,40,421.65,Net Banking,Delivered,Website,Valid
+ORD100221,2025-04-25,CUST1001,52,Male,Indore,Madhya Pradesh,PRD101,Wireless Mouse,Electronics,5,799,5,199.75,0,3795.25,Cash on Delivery,Delivered,Website,Valid
+ORD100222,2025-05-07,CUST1235,20,Other,Bengaluru,Karnataka,PRD105,Smart Watch,Electronics,1,3499,15,524.85,0,2974.15,UPI,Cancelled,Mobile App,Valid
+ORD100223,2025-11-11,CUST1008,21,Female,Mumbai,Maharashtra,PRD107,Jeans,Fashion,1,1299,10,129.9,60,1229.1,Wallet,Delivered,Marketplace,Valid
+ORD100224,2025-01-23,CUST1205,50,Male,Chennai,Tamil Nadu,PRD108,Running Shoes,Fashion,2,2499,10,499.8,0,4498.2,Credit Card,Cancelled,Website,Valid
+ORD100225,2025-10-22,CUST1163,37,Male,Jaipur,Rajasthan,PRD111,Water Bottle,Home & Kitchen,1,499,15,74.85,80,504.15,Cash on Delivery,Delivered,Website,Valid
+ORD100226,2025-10-13,CUST1089,42,Other,Lucknow,Uttar Pradesh,PRD114,Shampoo,Beauty,2,349,0,0,60,758,Wallet,Shipped,Mobile App,Valid
+ORD100227,2025-12-23,CUST1213,32,Male,Hyderabad,Telangana,PRD105,Smart Watch,Electronics,1,3499,0,0,0,3499,Credit Card,Delivered,Marketplace,Valid
+ORD100228,2025-03-15,CUST1237,42,Female,Patna,Bihar,PRD102,Bluetooth Speaker,Electronics,2,2199,20,879.6,0,3518.4,Credit Card,Delivered,Mobile App,Valid
+ORD100229,2025-04-15,CUST1169,21,Male,Lucknow,Uttar Pradesh,PRD103,USB-C Cable,Electronics,4,399,15,239.4,40,1396.6,Credit Card,Delivered,Mobile App,Valid
+ORD100230,2025-12-11,CUST1020,48,Female,Bhopal,Madhya Pradesh,PRD103,USB-C Cable,Electronics,1,399,10,39.9,80,439.1,Credit Card,Delivered,Mobile App,Valid
+ORD100231,2025-06-05,CUST1007,33,Other,Mumbai,Maharashtra,PRD107,Jeans,Fashion,4,1299,0,0,0,5196,Cash on Delivery,Processing,Marketplace,Valid
+ORD100232,2025-12-27,CUST1104,59,Male,Hyderabad,Telangana,PRD108,Running Shoes,Fashion,2,2499,10,499.8,0,4498.2,Net Banking,Delivered,Mobile App,Valid
+ORD100233,2025-05-14,CUST1184,31,Male,Kolkata,West Bengal,PRD116,Notebook Pack,Books & Stationery,1,299,15,44.85,80,334.15,Debit Card,Delivered,Mobile App,Valid
+ORD100234,2025-07-31,CUST1023,55,Other,Jaipur,Rajasthan,PRD108,Running Shoes,Fashion,2,2499,0,0,0,4998,Net Banking,Delivered,Mobile App,Valid
+ORD100235,2025-06-01,CUST1078,61,Male,Mumbai,Maharashtra,PRD111,Water Bottle,Home & Kitchen,1,499,10,49.9,40,489.1,Wallet,Delivered,Mobile App,Valid
+ORD100236,2025-09-08,CUST1251,29,Other,Chennai,Tamil Nadu,PRD106,Cotton T-Shirt,Fashion,2,599,5,59.9,40,1178.1,Cash on Delivery,Cancelled,Marketplace,Valid
+ORD100237,2025-01-31,CUST1268,32,Female,Delhi,Delhi,PRD103,USB-C Cable,Electronics,4,399,10,159.6,40,1476.4,Wallet,Delivered,Marketplace,Valid
+ORD100238,2025-03-19,CUST1004,48,Other,Mumbai,Maharashtra,PRD117,Desk Organizer,Books & Stationery,1,649,0,0,80,729,Net Banking,Delivered,Mobile App,Valid
+ORD100239,2025-01-09,CUST1003,19,Other,Kolkata,West Bengal,PRD118,Novel,Books & Stationery,1,449,0,0,80,529,Debit Card,Delivered,Marketplace,Valid
+ORD100240,2025-12-12,CUST1220,51,Male,Indore,Madhya Pradesh,PRD106,Cotton T-Shirt,Fashion,1,599,0,0,40,639,Net Banking,Delivered,Mobile App,Valid
+ORD100241,2025-05-17,CUST1203,32,Male,Noida,Uttar Pradesh,PRD112,Cookware Set,Home & Kitchen,4,2899,5,579.8,0,11016.2,Wallet,Delivered,Marketplace,Valid
+ORD100242,2025-02-11,CUST1016,28,Female,Noida,Uttar Pradesh,PRD113,Face Moisturizer,Beauty,1,699,10,69.9,40,669.1,Wallet,Delivered,Mobile App,Valid
+ORD100243,2025-08-11,CUST1169,54,Male,Jaipur,Rajasthan,PRD104,Laptop Stand,Electronics,3,1499,15,674.55,0,3822.45,Wallet,Delivered,Mobile App,Valid
+ORD100244,2025-01-24,CUST1038,19,Female,Lucknow,Uttar Pradesh,PRD109,Backpack,Fashion,3,1799,10,539.7,0,4857.3,Debit Card,Delivered,Marketplace,Valid
+ORD100245,2025-03-15,CUST1203,61,Other,Patna,Bihar,PRD103,USB-C Cable,Electronics,1,399,10,39.9,80,439.1,Cash on Delivery,Returned,Mobile App,Valid
+ORD100246,2025-07-16,CUST1071,22,Male,Indore,Madhya Pradesh,PRD103,USB-C Cable,Electronics,1,399,20,79.8,40,359.2,Credit Card,Delivered,Marketplace,Valid
+ORD100247,2025-11-11,CUST1203,53,Male,Indore,Madhya Pradesh,PRD111,Water Bottle,Home & Kitchen,1,499,0,0,60,559,Debit Card,Delivered,Mobile App,Valid
+ORD100248,2025-04-06,CUST1194,42,Other,Noida,Uttar Pradesh,PRD110,Bedsheet Set,Home & Kitchen,3,1599,10,479.7,0,4317.3,Credit Card,Delivered,Marketplace,Valid
+ORD100249,2025-03-20,CUST1199,35,Female,Bengaluru,Karnataka,PRD112,Cookware Set,Home & Kitchen,1,2899,0,0,0,2899,Debit Card,Delivered,Website,Valid
+ORD100250,2025-02-14,CUST1095,53,Female,Hyderabad,Telangana,PRD115,Sunscreen,Beauty,2,599,5,59.9,40,1178.1,Debit Card,Delivered,Marketplace,Valid
+ORD100251,2025-11-03,CUST1166,33,Other,Bhopal,Madhya Pradesh,PRD113,Face Moisturizer,Beauty,1,699,5,34.95,40,704.05,Net Banking,Cancelled,Marketplace,Valid
+ORD100252,2025-03-28,CUST1194,45,Male,Gurugram,Haryana,PRD105,Smart Watch,Electronics,1,3499,0,0,0,3499,Credit Card,Delivered,Mobile App,Valid
+ORD100253,2025-06-03,CUST1247,57,Female,Indore,Madhya Pradesh,PRD103,USB-C Cable,Electronics,1,399,15,59.85,80,419.15,Net Banking,Delivered,Mobile App,Valid
+ORD100254,2025-02-24,CUST1069,46,Male,Pune,Maharashtra,PRD101,Wireless Mouse,Electronics,4,799,0,0,0,3196,Debit Card,Delivered,Mobile App,Valid
+ORD100255,2025-11-30,CUST1069,38,Male,Pune,Maharashtra,PRD111,Water Bottle,Home & Kitchen,2,499,10,99.8,60,958.2,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100256,2025-12-22,CUST1251,25,Other,Jaipur,Rajasthan,PRD108,Running Shoes,Fashion,1,2499,0,0,0,2499,Debit Card,Cancelled,Website,Valid
+ORD100257,2025-10-31,CUST1279,62,Female,Gurugram,Haryana,PRD118,Novel,Books & Stationery,1,449,10,44.9,80,484.1,Debit Card,Delivered,Mobile App,Valid
+ORD100258,2025-12-11,CUST1255,22,Male,Gurugram,Haryana,PRD110,Bedsheet Set,Home & Kitchen,1,1599,10,159.9,80,1519.1,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100259,2025-09-03,CUST1205,41,Other,Kolkata,West Bengal,PRD117,Desk Organizer,Books & Stationery,4,649,15,389.4,0,2206.6,UPI,Delivered,Marketplace,Valid
+ORD100260,2025-11-01,CUST1043,54,Other,Noida,Uttar Pradesh,PRD108,Running Shoes,Fashion,2,2499,5,249.9,0,4748.1,UPI,Delivered,Marketplace,Valid
+ORD100261,2025-11-28,CUST1204,32,Other,Indore,Madhya Pradesh,PRD111,Water Bottle,Home & Kitchen,4,499,5,99.8,0,1896.2,Debit Card,Delivered,Marketplace,Valid
+ORD100262,2025-09-23,CUST1113,27,Male,Chennai,Tamil Nadu,PRD112,Cookware Set,Home & Kitchen,1,2899,10,289.9,0,2609.1,Net Banking,Delivered,Website,Valid
+ORD100263,2025-09-05,CUST1053,39,Male,Pune,Maharashtra,PRD114,Shampoo,Beauty,4,349,0,0,80,1476,Debit Card,Delivered,Website,Valid
+ORD100264,2025-09-24,CUST1247,20,Other,Bengaluru,Karnataka,PRD116,Notebook Pack,Books & Stationery,1,299,10,29.9,60,329.1,Debit Card,Delivered,Website,Valid
+ORD100265,2025-01-12,CUST1175,51,Female,Lucknow,Uttar Pradesh,PRD104,Laptop Stand,Electronics,2,1499,0,0,0,2998,Credit Card,Processing,Marketplace,Valid
+ORD100266,2025-03-23,CUST1169,58,Other,Kolkata,West Bengal,PRD114,Shampoo,Beauty,4,349,0,0,60,1456,Credit Card,Delivered,Mobile App,Valid
+ORD100267,2025-07-22,CUST1014,35,Other,Ahmedabad,Gujarat,PRD107,Jeans,Fashion,1,1299,5,64.95,40,1274.05,Credit Card,Delivered,Website,Valid
+ORD100268,2025-10-23,CUST1052,49,Other,Indore,Madhya Pradesh,PRD118,Novel,Books & Stationery,1,449,0,0,60,509,Wallet,Delivered,Marketplace,Valid
+ORD100269,2025-06-10,CUST1198,63,Male,Jaipur,Rajasthan,PRD113,Face Moisturizer,Beauty,2,699,0,0,60,1458,Wallet,Delivered,Marketplace,Valid
+ORD100270,2025-10-30,CUST1043,62,Female,Lucknow,Uttar Pradesh,PRD105,Smart Watch,Electronics,1,3499,0,0,0,3499,Debit Card,Delivered,Marketplace,Valid
+ORD100271,2025-07-18,CUST1214,62,Other,Jaipur,Rajasthan,PRD105,Smart Watch,Electronics,2,3499,5,349.9,0,6648.1,Net Banking,Delivered,Website,Valid
+ORD100272,2025-10-12,CUST1085,40,Female,Chennai,Tamil Nadu,PRD110,Bedsheet Set,Home & Kitchen,1,1599,0,0,0,1599,UPI,Delivered,Mobile App,Valid
+ORD100273,2025-03-11,CUST1099,49,Male,Bhopal,Madhya Pradesh,PRD113,Face Moisturizer,Beauty,4,699,5,139.8,0,2656.2,Wallet,Delivered,Marketplace,Valid
+ORD100274,2025-08-16,CUST1250,32,Other,Gurugram,Haryana,PRD103,USB-C Cable,Electronics,2,399,10,79.8,40,758.2,Debit Card,Delivered,Mobile App,Valid
+ORD100275,2025-03-28,CUST1234,41,Other,Jaipur,Rajasthan,PRD116,Notebook Pack,Books & Stationery,2,299,0,0,40,638,Net Banking,Delivered,Website,Valid
+ORD100276,2025-08-14,CUST1279,46,Male,Mumbai,Maharashtra,PRD114,Shampoo,Beauty,1,349,15,52.35,40,336.65,UPI,Delivered,Mobile App,Valid
+ORD100277,2025-02-14,CUST1224,62,Male,Bhopal,Madhya Pradesh,PRD104,Laptop Stand,Electronics,3,1499,0,0,0,4497,Net Banking,Returned,Marketplace,Valid
+ORD100278,2025-11-09,CUST1219,40,Other,Gurugram,Haryana,PRD105,Smart Watch,Electronics,3,3499,15,1574.55,0,8922.45,Net Banking,Returned,Mobile App,Valid
+ORD100279,2025-11-02,CUST1275,61,Female,Gurugram,Haryana,PRD111,Water Bottle,Home & Kitchen,5,499,0,0,0,2495,Net Banking,Delivered,Website,Valid
+ORD100280,2025-07-30,CUST1030,33,Other,Pune,Maharashtra,PRD105,Smart Watch,Electronics,2,3499,0,0,0,6998,Debit Card,Delivered,Mobile App,Valid
+ORD100281,2025-09-08,CUST1072,43,Other,Jaipur,Rajasthan,PRD109,Backpack,Fashion,2,1799,5,179.9,0,3418.1,UPI,Delivered,Marketplace,Valid
+ORD100282,2025-05-23,CUST1188,58,Other,Chennai,Tamil Nadu,PRD116,Notebook Pack,Books & Stationery,1,299,0,0,80,379,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100283,2025-07-03,CUST1032,36,Male,Indore,Madhya Pradesh,PRD118,Novel,Books & Stationery,1,449,20,89.8,40,399.2,Debit Card,Delivered,Marketplace,Valid
+ORD100284,2025-10-23,CUST1066,47,Female,Jaipur,Rajasthan,PRD116,Notebook Pack,Books & Stationery,3,299,15,134.55,40,802.45,Wallet,Delivered,Website,Valid
+ORD100285,2025-03-22,CUST1225,59,Male,Chennai,Tamil Nadu,PRD101,Wireless Mouse,Electronics,5,799,5,199.75,0,3795.25,Credit Card,Processing,Website,Valid
+ORD100286,2025-05-21,CUST1047,21,Male,Lucknow,Uttar Pradesh,PRD112,Cookware Set,Home & Kitchen,1,2899,5,144.95,0,2754.05,Credit Card,Shipped,Marketplace,Valid
+ORD100287,2025-06-06,CUST1119,32,Other,Hyderabad,Telangana,PRD103,USB-C Cable,Electronics,2,399,0,0,60,858,Net Banking,Delivered,Marketplace,Valid
+ORD100288,2025-08-16,CUST1004,22,Female,Delhi,Delhi,PRD111,Water Bottle,Home & Kitchen,3,499,20,299.4,60,1257.6,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100289,2025-02-15,CUST1052,59,Other,Noida,Uttar Pradesh,PRD111,Water Bottle,Home & Kitchen,1,499,0,0,60,559,Credit Card,Cancelled,Website,Valid
+ORD100290,2025-02-05,CUST1271,58,Other,Jaipur,Rajasthan,PRD101,Wireless Mouse,Electronics,2,799,0,0,0,1598,Credit Card,Delivered,Website,Valid
+ORD100291,2025-07-30,CUST1226,40,Male,Bhopal,Madhya Pradesh,PRD107,Jeans,Fashion,1,1299,0,0,40,1339,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100292,2025-03-13,CUST1126,19,Other,Pune,Maharashtra,PRD103,USB-C Cable,Electronics,1,399,10,39.9,80,439.1,Wallet,Delivered,Mobile App,Valid
+ORD100293,2025-04-16,CUST1265,49,Male,Jaipur,Rajasthan,PRD117,Desk Organizer,Books & Stationery,1,649,5,32.45,80,696.55,Credit Card,Delivered,Website,Valid
+ORD100294,2025-05-04,CUST1255,42,Other,Lucknow,Uttar Pradesh,PRD103,USB-C Cable,Electronics,2,399,20,159.6,60,698.4,Credit Card,Shipped,Mobile App,Valid
+ORD100295,2025-07-07,CUST1279,18,Male,Lucknow,Uttar Pradesh,PRD106,Cotton T-Shirt,Fashion,2,599,20,239.6,40,998.4,UPI,Delivered,Website,Valid
+ORD100296,2025-01-21,CUST1030,62,Male,Indore,Madhya Pradesh,PRD113,Face Moisturizer,Beauty,1,699,10,69.9,80,709.1,Cash on Delivery,Cancelled,Website,Valid
+ORD100297,2025-11-24,CUST1274,27,Other,Kolkata,West Bengal,PRD105,Smart Watch,Electronics,1,3499,0,0,0,3499,Credit Card,Delivered,Mobile App,Valid
+ORD100298,2025-07-20,CUST1033,25,Male,Pune,Maharashtra,PRD114,Shampoo,Beauty,2,349,15,104.7,40,633.3,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100299,2025-11-08,CUST1028,40,Other,Pune,Maharashtra,PRD106,Cotton T-Shirt,Fashion,1,599,10,59.9,80,619.1,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100300,2025-05-13,CUST1085,19,Male,Bengaluru,Karnataka,PRD105,Smart Watch,Electronics,2,3499,15,1049.7,0,5948.3,UPI,Cancelled,Mobile App,Valid
+ORD100301,2025-05-20,CUST1268,50,Male,Noida,Uttar Pradesh,PRD109,Backpack,Fashion,2,1799,10,359.8,0,3238.2,Cash on Delivery,Delivered,Website,Valid
+ORD100302,2025-09-13,CUST1085,32,Other,Bengaluru,Karnataka,PRD106,Cotton T-Shirt,Fashion,1,599,0,0,80,679,UPI,Delivered,Marketplace,Valid
+ORD100303,2025-01-02,CUST1022,20,Other,Bhopal,Madhya Pradesh,PRD101,Wireless Mouse,Electronics,1,799,5,39.95,60,819.05,Credit Card,Shipped,Marketplace,Valid
+ORD100304,2025-12-02,CUST1214,54,Male,Mumbai,Maharashtra,PRD111,Water Bottle,Home & Kitchen,1,499,15,74.85,60,484.15,UPI,Delivered,Website,Valid
+ORD100305,2025-09-15,CUST1026,47,Male,Gurugram,Haryana,PRD108,Running Shoes,Fashion,3,2499,20,1499.4,0,5997.6,UPI,Processing,Mobile App,Valid
+ORD100306,2025-06-17,CUST1044,57,Female,Kolkata,West Bengal,PRD115,Sunscreen,Beauty,1,599,0,0,80,679,Wallet,Cancelled,Mobile App,Valid
+ORD100307,2025-07-08,CUST1252,18,Male,Indore,Madhya Pradesh,PRD107,Jeans,Fashion,2,1299,5,129.9,0,2468.1,Credit Card,Cancelled,Website,Valid
+ORD100308,2025-04-30,CUST1277,64,Male,Bengaluru,Karnataka,PRD101,Wireless Mouse,Electronics,4,799,0,0,0,3196,Wallet,Delivered,Website,Valid
+ORD100309,2025-04-16,CUST1271,20,Female,Mumbai,Maharashtra,PRD114,Shampoo,Beauty,1,349,0,0,40,389,UPI,Delivered,Marketplace,Valid
+ORD100310,2025-07-31,CUST1190,55,Other,Chennai,Tamil Nadu,PRD103,USB-C Cable,Electronics,2,399,5,39.9,80,838.1,UPI,Returned,Website,Valid
+ORD100311,2025-08-11,CUST1066,65,Male,Mumbai,Maharashtra,PRD110,Bedsheet Set,Home & Kitchen,1,1599,0,0,0,1599,Wallet,Returned,Mobile App,Valid
+ORD100312,2025-08-20,CUST1139,27,Female,Mumbai,Maharashtra,PRD103,USB-C Cable,Electronics,4,399,0,0,0,1596,UPI,Cancelled,Website,Valid
+ORD100313,2025-08-19,CUST1238,34,Female,Bengaluru,Karnataka,PRD114,Shampoo,Beauty,1,349,5,17.45,40,371.55,Cash on Delivery,Delivered,Website,Valid
+ORD100314,2025-03-22,CUST1155,33,Male,Bhopal,Madhya Pradesh,PRD102,Bluetooth Speaker,Electronics,1,2199,15,329.85,0,1869.15,Wallet,Delivered,Mobile App,Valid
+ORD100315,2025-09-20,CUST1025,53,Other,Lucknow,Uttar Pradesh,PRD110,Bedsheet Set,Home & Kitchen,1,1599,20,319.8,40,1319.2,Cash on Delivery,Processing,Marketplace,Valid
+ORD100316,2025-05-08,CUST1048,26,Female,Chennai,Tamil Nadu,PRD104,Laptop Stand,Electronics,3,1499,0,0,0,4497,Credit Card,Delivered,Mobile App,Valid
+ORD100317,2025-07-10,CUST1043,59,Male,Jaipur,Rajasthan,PRD109,Backpack,Fashion,4,1799,0,0,0,7196,Credit Card,Processing,Website,Valid
+ORD100318,2025-02-17,CUST1169,64,Male,Noida,Uttar Pradesh,PRD102,Bluetooth Speaker,Electronics,4,2199,0,0,0,8796,Cash on Delivery,Shipped,Mobile App,Valid
+ORD100319,2025-01-16,CUST1195,27,Female,Lucknow,Uttar Pradesh,PRD114,Shampoo,Beauty,1,349,0,0,40,389,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100320,2025-11-14,CUST1125,42,Female,Lucknow,Uttar Pradesh,PRD110,Bedsheet Set,Home & Kitchen,1,1599,15,239.85,60,1419.15,Debit Card,Delivered,Mobile App,Valid
+ORD100321,2025-04-13,CUST1269,49,Male,Mumbai,Maharashtra,PRD118,Novel,Books & Stationery,3,449,20,269.4,80,1157.6,Net Banking,Delivered,Marketplace,Valid
+ORD100322,2025-09-15,CUST1164,21,Male,Hyderabad,Telangana,PRD109,Backpack,Fashion,1,1799,0,0,0,1799,Debit Card,Delivered,Marketplace,Valid
+ORD100323,2025-07-03,CUST1119,21,Female,Gurugram,Haryana,PRD104,Laptop Stand,Electronics,1,1499,0,0,80,1579,Wallet,Returned,Marketplace,Valid
+ORD100324,2025-07-18,CUST1181,19,Other,Patna,Bihar,PRD106,Cotton T-Shirt,Fashion,1,599,10,59.9,80,619.1,Net Banking,Delivered,Marketplace,Valid
+ORD100325,2025-06-30,CUST1072,37,Female,Jaipur,Rajasthan,PRD107,Jeans,Fashion,3,1299,15,584.55,0,3312.45,Net Banking,Processing,Mobile App,Valid
+ORD100326,2025-01-20,CUST1046,57,Female,Delhi,Delhi,PRD108,Running Shoes,Fashion,2,2499,0,0,0,4998,Debit Card,Delivered,Website,Valid
+ORD100327,2025-06-24,CUST1090,51,Male,Patna,Bihar,PRD111,Water Bottle,Home & Kitchen,1,499,0,0,80,579,UPI,Shipped,Website,Valid
+ORD100328,2025-07-11,CUST1202,58,Male,Jaipur,Rajasthan,PRD104,Laptop Stand,Electronics,1,1499,0,0,40,1539,Cash on Delivery,Cancelled,Marketplace,Valid
+ORD100329,2025-06-12,CUST1089,29,Male,Ahmedabad,Gujarat,PRD118,Novel,Books & Stationery,2,449,15,134.7,60,823.3,Net Banking,Delivered,Mobile App,Valid
+ORD100330,2025-12-19,CUST1150,20,Female,Gurugram,Haryana,PRD106,Cotton T-Shirt,Fashion,2,599,15,179.7,80,1098.3,Net Banking,Delivered,Marketplace,Valid
+ORD100331,2025-06-12,CUST1113,40,Male,Lucknow,Uttar Pradesh,PRD104,Laptop Stand,Electronics,4,1499,0,0,0,5996,Credit Card,Cancelled,Website,Valid
+ORD100332,2025-11-22,CUST1045,34,Female,Bhopal,Madhya Pradesh,PRD111,Water Bottle,Home & Kitchen,1,499,0,0,40,539,Debit Card,Delivered,Marketplace,Valid
+ORD100333,2025-01-01,CUST1024,40,Other,Hyderabad,Telangana,PRD115,Sunscreen,Beauty,2,599,20,239.6,60,1018.4,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100334,2025-02-21,CUST1245,19,Male,Indore,Madhya Pradesh,PRD108,Running Shoes,Fashion,1,2499,0,0,0,2499,Debit Card,Returned,Mobile App,Valid
+ORD100335,2025-02-23,CUST1037,39,Other,Bengaluru,Karnataka,PRD106,Cotton T-Shirt,Fashion,3,599,0,0,0,1797,UPI,Delivered,Marketplace,Valid
+ORD100336,2025-09-05,CUST1015,30,Male,Hyderabad,Telangana,PRD106,Cotton T-Shirt,Fashion,2,599,5,59.9,40,1178.1,Credit Card,Delivered,Marketplace,Valid
+ORD100337,2025-10-11,CUST1276,49,Female,Pune,Maharashtra,PRD110,Bedsheet Set,Home & Kitchen,1,1599,0,0,0,1599,Net Banking,Delivered,Website,Valid
+ORD100338,2025-07-04,CUST1001,19,Female,Hyderabad,Telangana,PRD103,USB-C Cable,Electronics,1,399,10,39.9,80,439.1,UPI,Delivered,Website,Valid
+ORD100339,2025-11-23,CUST1149,34,Female,Noida,Uttar Pradesh,PRD116,Notebook Pack,Books & Stationery,3,299,0,0,60,957,Wallet,Delivered,Marketplace,Valid
+ORD100340,2025-10-06,CUST1198,46,Male,Gurugram,Haryana,PRD112,Cookware Set,Home & Kitchen,3,2899,5,434.85,0,8262.15,Debit Card,Delivered,Mobile App,Valid
+ORD100341,2025-04-26,CUST1137,40,Other,Jaipur,Rajasthan,PRD102,Bluetooth Speaker,Electronics,1,2199,10,219.9,0,1979.1,Wallet,Delivered,Mobile App,Valid
+ORD100342,2025-10-29,CUST1116,61,Male,Kolkata,West Bengal,PRD102,Bluetooth Speaker,Electronics,3,2199,15,989.55,0,5607.45,Net Banking,Delivered,Marketplace,Valid
+ORD100343,2025-05-01,CUST1243,54,Other,Pune,Maharashtra,PRD103,USB-C Cable,Electronics,1,399,15,59.85,40,379.15,Net Banking,Delivered,Marketplace,Valid
+ORD100344,2025-03-17,CUST1061,20,Male,Indore,Madhya Pradesh,PRD115,Sunscreen,Beauty,1,599,20,119.8,40,519.2,Credit Card,Returned,Website,Valid
+ORD100345,2025-12-16,CUST1222,23,Male,Mumbai,Maharashtra,PRD105,Smart Watch,Electronics,3,3499,0,0,0,10497,UPI,Shipped,Marketplace,Valid
+ORD100346,2025-07-23,CUST1166,57,Other,Bhopal,Madhya Pradesh,PRD109,Backpack,Fashion,1,1799,15,269.85,0,1529.15,Wallet,Delivered,Marketplace,Valid
+ORD100347,2025-08-03,CUST1057,24,Other,Hyderabad,Telangana,PRD105,Smart Watch,Electronics,1,3499,10,349.9,0,3149.1,UPI,Cancelled,Website,Valid
+ORD100348,2025-05-27,CUST1274,56,Male,Patna,Bihar,PRD112,Cookware Set,Home & Kitchen,3,2899,0,0,0,8697,Net Banking,Delivered,Website,Valid
+ORD100349,2025-03-30,CUST1141,39,Other,Hyderabad,Telangana,PRD105,Smart Watch,Electronics,2,3499,10,699.8,0,6298.2,Cash on Delivery,Delivered,Website,Valid
+ORD100350,2025-01-26,CUST1243,37,Male,Patna,Bihar,PRD109,Backpack,Fashion,3,1799,0,0,0,5397,Debit Card,Returned,Mobile App,Valid
+ORD100351,2025-12-23,CUST1050,35,Other,Bhopal,Madhya Pradesh,PRD108,Running Shoes,Fashion,1,2499,20,499.8,0,1999.2,Debit Card,Delivered,Mobile App,Valid
+ORD100352,2025-11-06,CUST1045,41,Female,Mumbai,Maharashtra,PRD115,Sunscreen,Beauty,1,599,15,89.85,80,589.15,Net Banking,Delivered,Marketplace,Valid
+ORD100353,2025-03-23,CUST1033,29,Female,Pune,Maharashtra,PRD117,Desk Organizer,Books & Stationery,1,649,10,64.9,80,664.1,UPI,Shipped,Website,Valid
+ORD100354,2025-01-30,CUST1127,50,Male,Delhi,Delhi,PRD115,Sunscreen,Beauty,1,599,5,29.95,40,609.05,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100355,2025-03-05,CUST1015,55,Other,Mumbai,Maharashtra,PRD112,Cookware Set,Home & Kitchen,1,2899,5,144.95,0,2754.05,Cash on Delivery,Processing,Mobile App,Valid
+ORD100356,2025-06-26,CUST1083,21,Female,Bhopal,Madhya Pradesh,PRD109,Backpack,Fashion,2,1799,10,359.8,0,3238.2,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100357,2025-04-20,CUST1113,61,Female,Lucknow,Uttar Pradesh,PRD108,Running Shoes,Fashion,2,2499,0,0,0,4998,UPI,Delivered,Mobile App,Valid
+ORD100358,2025-03-09,CUST1088,59,Male,Jaipur,Rajasthan,PRD101,Wireless Mouse,Electronics,1,799,10,79.9,60,779.1,Wallet,Delivered,Mobile App,Valid
+ORD100359,2025-07-12,CUST1178,43,Other,Chennai,Tamil Nadu,PRD109,Backpack,Fashion,1,1799,0,0,0,1799,Net Banking,Delivered,Website,Valid
+ORD100360,2025-01-04,CUST1261,24,Male,Lucknow,Uttar Pradesh,PRD112,Cookware Set,Home & Kitchen,2,2899,10,579.8,0,5218.2,Wallet,Delivered,Website,Valid
+ORD100361,2025-06-22,CUST1141,37,Female,Lucknow,Uttar Pradesh,PRD111,Water Bottle,Home & Kitchen,3,499,0,0,80,1577,Wallet,Processing,Website,Valid
+ORD100362,2025-09-22,CUST1123,38,Other,Patna,Bihar,PRD102,Bluetooth Speaker,Electronics,3,2199,15,989.55,0,5607.45,Wallet,Delivered,Website,Valid
+ORD100363,2025-01-14,CUST1254,63,Other,Pune,Maharashtra,PRD109,Backpack,Fashion,4,1799,5,359.8,0,6836.2,Net Banking,Cancelled,Website,Valid
+ORD100364,2025-06-25,CUST1113,28,Other,Lucknow,Uttar Pradesh,PRD118,Novel,Books & Stationery,2,449,5,44.9,80,933.1,Debit Card,Delivered,Marketplace,Valid
+ORD100365,2025-04-03,CUST1150,61,Male,Noida,Uttar Pradesh,PRD116,Notebook Pack,Books & Stationery,1,299,0,0,80,379,Credit Card,Cancelled,Marketplace,Valid
+ORD100366,2025-02-15,CUST1113,41,Male,Bengaluru,Karnataka,PRD108,Running Shoes,Fashion,2,2499,0,0,0,4998,Debit Card,Cancelled,Marketplace,Valid
+ORD100367,2025-05-31,CUST1237,22,Male,Bhopal,Madhya Pradesh,PRD104,Laptop Stand,Electronics,1,1499,15,224.85,80,1354.15,Net Banking,Delivered,Website,Valid
+ORD100368,2025-09-14,CUST1061,39,Male,Bhopal,Madhya Pradesh,PRD113,Face Moisturizer,Beauty,2,699,5,69.9,40,1368.1,Credit Card,Delivered,Marketplace,Valid
+ORD100369,2025-08-23,CUST1073,38,Other,Bengaluru,Karnataka,PRD106,Cotton T-Shirt,Fashion,3,599,5,89.85,0,1707.15,Credit Card,Delivered,Website,Valid
+ORD100370,2025-01-03,CUST1231,23,Female,Pune,Maharashtra,PRD107,Jeans,Fashion,2,1299,0,0,0,2598,Cash on Delivery,Cancelled,Marketplace,Valid
+ORD100371,2025-08-11,CUST1219,41,Female,Hyderabad,Telangana,PRD114,Shampoo,Beauty,4,349,5,69.8,40,1366.2,Wallet,Delivered,Mobile App,Valid
+ORD100372,2025-09-29,CUST1097,37,Female,Delhi,Delhi,PRD101,Wireless Mouse,Electronics,2,799,0,0,0,1598,Debit Card,Delivered,Website,Valid
+ORD100373,2025-07-16,CUST1257,64,Other,Jaipur,Rajasthan,PRD110,Bedsheet Set,Home & Kitchen,1,1599,15,239.85,60,1419.15,Cash on Delivery,Shipped,Marketplace,Valid
+ORD100374,2025-09-26,CUST1172,28,Male,Hyderabad,Telangana,PRD105,Smart Watch,Electronics,1,3499,15,524.85,0,2974.15,Credit Card,Delivered,Website,Valid
+ORD100375,2025-04-27,CUST1114,41,Other,Ahmedabad,Gujarat,PRD105,Smart Watch,Electronics,1,3499,0,0,0,3499,UPI,Delivered,Marketplace,Valid
+ORD100376,2025-01-20,CUST1192,60,Female,Patna,Bihar,PRD109,Backpack,Fashion,3,1799,10,539.7,0,4857.3,UPI,Delivered,Marketplace,Valid
+ORD100377,2025-01-11,CUST1024,27,Female,Ahmedabad,Gujarat,PRD104,Laptop Stand,Electronics,1,1499,5,74.95,80,1504.05,Wallet,Delivered,Marketplace,Valid
+ORD100378,2025-12-18,CUST1004,26,Male,Pune,Maharashtra,PRD114,Shampoo,Beauty,2,349,10,69.8,60,688.2,Wallet,Delivered,Website,Valid
+ORD100379,2025-09-19,CUST1060,51,Female,Pune,Maharashtra,PRD104,Laptop Stand,Electronics,3,1499,5,224.85,0,4272.15,Debit Card,Delivered,Mobile App,Valid
+ORD100380,2025-12-27,CUST1209,39,Female,Pune,Maharashtra,PRD106,Cotton T-Shirt,Fashion,1,599,5,29.95,40,609.05,Cash on Delivery,Delivered,Website,Valid
+ORD100381,2025-01-07,CUST1045,50,Female,Patna,Bihar,PRD104,Laptop Stand,Electronics,3,1499,10,449.7,0,4047.3,UPI,Delivered,Marketplace,Valid
+ORD100382,2025-02-21,CUST1131,24,Female,Lucknow,Uttar Pradesh,PRD108,Running Shoes,Fashion,1,2499,20,499.8,0,1999.2,UPI,Delivered,Website,Valid
+ORD100383,2025-05-29,CUST1184,60,Other,Indore,Madhya Pradesh,PRD111,Water Bottle,Home & Kitchen,1,499,0,0,40,539,Credit Card,Delivered,Website,Valid
+ORD100384,2025-06-18,CUST1183,39,Female,Patna,Bihar,PRD115,Sunscreen,Beauty,4,599,0,0,0,2396,Debit Card,Cancelled,Website,Valid
+ORD100385,2025-07-25,CUST1204,59,Female,Chennai,Tamil Nadu,PRD109,Backpack,Fashion,3,1799,10,539.7,0,4857.3,Cash on Delivery,Delivered,Website,Valid
+ORD100386,2025-03-09,CUST1030,46,Female,Bhopal,Madhya Pradesh,PRD106,Cotton T-Shirt,Fashion,1,599,15,89.85,60,569.15,Wallet,Returned,Marketplace,Valid
+ORD100387,2025-07-14,CUST1183,48,Male,Jaipur,Rajasthan,PRD101,Wireless Mouse,Electronics,3,799,15,359.55,0,2037.45,Credit Card,Cancelled,Website,Valid
+ORD100388,2025-07-30,CUST1225,65,Other,Delhi,Delhi,PRD103,USB-C Cable,Electronics,1,399,0,0,80,479,Net Banking,Returned,Marketplace,Valid
+ORD100389,2025-10-17,CUST1114,64,Female,Lucknow,Uttar Pradesh,PRD111,Water Bottle,Home & Kitchen,1,499,10,49.9,80,529.1,Wallet,Delivered,Mobile App,Valid
+ORD100390,2025-06-27,CUST1197,50,Male,Gurugram,Haryana,PRD118,Novel,Books & Stationery,3,449,10,134.7,40,1252.3,Credit Card,Delivered,Mobile App,Valid
+ORD100391,2025-03-26,CUST1038,53,Other,Indore,Madhya Pradesh,PRD116,Notebook Pack,Books & Stationery,1,299,0,0,60,359,Credit Card,Delivered,Mobile App,Valid
+ORD100392,2025-07-26,CUST1120,38,Female,Noida,Uttar Pradesh,PRD115,Sunscreen,Beauty,1,599,10,59.9,40,579.1,Cash on Delivery,Returned,Mobile App,Valid
+ORD100393,2025-12-01,CUST1009,57,Other,Noida,Uttar Pradesh,PRD113,Face Moisturizer,Beauty,1,699,10,69.9,40,669.1,Net Banking,Returned,Mobile App,Valid
+ORD100394,2025-09-18,CUST1105,47,Male,Lucknow,Uttar Pradesh,PRD115,Sunscreen,Beauty,4,599,5,119.8,0,2276.2,Credit Card,Delivered,Marketplace,Valid
+ORD100395,2025-11-14,CUST1242,18,Male,Ahmedabad,Gujarat,PRD112,Cookware Set,Home & Kitchen,2,2899,0,0,0,5798,Credit Card,Cancelled,Mobile App,Valid
+ORD100396,2025-11-21,CUST1149,65,Other,Kolkata,West Bengal,PRD117,Desk Organizer,Books & Stationery,1,649,0,0,40,689,Wallet,Delivered,Mobile App,Valid
+ORD100397,2025-02-24,CUST1130,63,Male,Jaipur,Rajasthan,PRD107,Jeans,Fashion,1,1299,15,194.85,60,1164.15,Credit Card,Delivered,Website,Valid
+ORD100398,2025-08-01,CUST1023,26,Male,Patna,Bihar,PRD104,Laptop Stand,Electronics,3,1499,5,224.85,0,4272.15,Net Banking,Delivered,Website,Valid
+ORD100399,2025-09-29,CUST1024,62,Other,Kolkata,West Bengal,PRD114,Shampoo,Beauty,3,349,5,52.35,80,1074.65,Credit Card,Cancelled,Website,Valid
+ORD100400,2025-03-07,CUST1053,35,Male,Hyderabad,Telangana,PRD111,Water Bottle,Home & Kitchen,1,499,5,24.95,80,554.05,Credit Card,Shipped,Mobile App,Valid
+ORD100401,2025-05-31,CUST1231,37,Other,Indore,Madhya Pradesh,PRD105,Smart Watch,Electronics,1,3499,10,349.9,0,3149.1,Net Banking,Shipped,Marketplace,Valid
+ORD100402,2025-06-10,CUST1111,26,Other,Mumbai,Maharashtra,PRD107,Jeans,Fashion,2,1299,0,0,0,2598,Wallet,Delivered,Marketplace,Valid
+ORD100403,2025-04-02,CUST1257,60,Other,Kolkata,West Bengal,PRD111,Water Bottle,Home & Kitchen,2,499,10,99.8,80,978.2,Net Banking,Delivered,Mobile App,Valid
+ORD100404,2025-12-12,CUST1273,60,Female,Pune,Maharashtra,PRD114,Shampoo,Beauty,3,349,5,52.35,40,1034.65,UPI,Delivered,Website,Valid
+ORD100405,2025-05-17,CUST1082,52,Female,Pune,Maharashtra,PRD109,Backpack,Fashion,1,1799,0,0,0,1799,Credit Card,Cancelled,Mobile App,Valid
+ORD100406,2025-08-20,CUST1052,62,Male,Jaipur,Rajasthan,PRD118,Novel,Books & Stationery,3,449,10,134.7,80,1292.3,Net Banking,Delivered,Marketplace,Valid
+ORD100407,2025-12-07,CUST1024,21,Female,Patna,Bihar,PRD113,Face Moisturizer,Beauty,1,699,20,139.8,80,639.2,Net Banking,Delivered,Marketplace,Valid
+ORD100408,2025-05-09,CUST1103,41,Other,Jaipur,Rajasthan,PRD115,Sunscreen,Beauty,3,599,15,269.55,0,1527.45,Wallet,Delivered,Marketplace,Valid
+ORD100409,2025-11-05,CUST1100,65,Other,Indore,Madhya Pradesh,PRD107,Jeans,Fashion,1,1299,0,0,80,1379,Credit Card,Delivered,Website,Valid
+ORD100410,2025-07-13,CUST1020,18,Male,Hyderabad,Telangana,PRD109,Backpack,Fashion,2,1799,0,0,0,3598,Debit Card,Delivered,Mobile App,Valid
+ORD100411,2025-12-30,CUST1079,57,Other,Delhi,Delhi,PRD105,Smart Watch,Electronics,4,3499,10,1399.6,0,12596.4,Wallet,Cancelled,Mobile App,Valid
+ORD100412,2025-09-09,CUST1183,28,Male,Noida,Uttar Pradesh,PRD111,Water Bottle,Home & Kitchen,2,499,20,199.6,80,878.4,Net Banking,Delivered,Marketplace,Valid
+ORD100413,2025-10-02,CUST1206,36,Female,Noida,Uttar Pradesh,PRD112,Cookware Set,Home & Kitchen,1,2899,0,0,0,2899,Debit Card,Delivered,Marketplace,Valid
+ORD100414,2025-09-29,CUST1243,57,Female,Kolkata,West Bengal,PRD101,Wireless Mouse,Electronics,1,799,0,0,40,839,Net Banking,Shipped,Website,Valid
+ORD100415,2025-12-16,CUST1164,41,Other,Hyderabad,Telangana,PRD104,Laptop Stand,Electronics,1,1499,5,74.95,60,1484.05,Net Banking,Delivered,Marketplace,Valid
+ORD100416,2025-08-17,CUST1249,28,Other,Delhi,Delhi,PRD110,Bedsheet Set,Home & Kitchen,3,1599,0,0,0,4797,UPI,Delivered,Marketplace,Valid
+ORD100417,2025-01-04,CUST1033,62,Other,Mumbai,Maharashtra,PRD107,Jeans,Fashion,3,1299,5,194.85,0,3702.15,Net Banking,Delivered,Mobile App,Valid
+ORD100418,2025-11-28,CUST1036,21,Female,Ahmedabad,Gujarat,PRD105,Smart Watch,Electronics,1,3499,10,349.9,0,3149.1,UPI,Delivered,Mobile App,Valid
+ORD100419,2025-10-13,CUST1036,45,Male,Jaipur,Rajasthan,PRD108,Running Shoes,Fashion,4,2499,5,499.8,0,9496.2,Cash on Delivery,Delivered,Website,Valid
+ORD100420,2025-07-19,CUST1060,22,Male,Kolkata,West Bengal,PRD101,Wireless Mouse,Electronics,2,799,10,159.8,80,1518.2,Wallet,Delivered,Marketplace,Valid
+ORD100421,2025-02-24,CUST1148,43,Other,Indore,Madhya Pradesh,PRD110,Bedsheet Set,Home & Kitchen,2,1599,0,0,0,3198,Cash on Delivery,Shipped,Website,Valid
+ORD100422,2025-08-31,CUST1080,36,Other,Kolkata,West Bengal,PRD108,Running Shoes,Fashion,1,2499,5,124.95,0,2374.05,Net Banking,Cancelled,Website,Valid
+ORD100423,2025-06-02,CUST1191,43,Other,Delhi,Delhi,PRD118,Novel,Books & Stationery,3,449,0,0,40,1387,Net Banking,Delivered,Marketplace,Valid
+ORD100424,2025-02-13,CUST1156,28,Female,Mumbai,Maharashtra,PRD112,Cookware Set,Home & Kitchen,1,2899,15,434.85,0,2464.15,Credit Card,Returned,Website,Valid
+ORD100425,2025-11-12,CUST1129,47,Other,Mumbai,Maharashtra,PRD104,Laptop Stand,Electronics,1,1499,10,149.9,40,1389.1,Net Banking,Returned,Marketplace,Valid
+ORD100426,2025-02-07,CUST1148,40,Female,Lucknow,Uttar Pradesh,PRD103,USB-C Cable,Electronics,1,399,0,0,80,479,Debit Card,Delivered,Marketplace,Valid
+ORD100427,2025-12-02,CUST1120,39,Other,Noida,Uttar Pradesh,PRD110,Bedsheet Set,Home & Kitchen,2,1599,15,479.7,0,2718.3,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100428,2025-06-06,CUST1078,33,Female,Jaipur,Rajasthan,PRD112,Cookware Set,Home & Kitchen,3,2899,20,1739.4,0,6957.6,Debit Card,Delivered,Marketplace,Valid
+ORD100429,2025-11-25,CUST1223,46,Male,Pune,Maharashtra,PRD112,Cookware Set,Home & Kitchen,1,2899,10,289.9,0,2609.1,Cash on Delivery,Shipped,Mobile App,Valid
+ORD100430,2025-09-07,CUST1055,34,Other,Gurugram,Haryana,PRD103,USB-C Cable,Electronics,3,399,15,179.55,40,1057.45,Credit Card,Shipped,Marketplace,Valid
+ORD100431,2025-02-09,CUST1038,43,Other,Patna,Bihar,PRD101,Wireless Mouse,Electronics,3,799,10,239.7,0,2157.3,Net Banking,Returned,Website,Valid
+ORD100432,2025-01-19,CUST1133,64,Male,Kolkata,West Bengal,PRD118,Novel,Books & Stationery,1,449,10,44.9,60,464.1,Net Banking,Delivered,Website,Valid
+ORD100433,2025-08-26,CUST1256,61,Female,Kolkata,West Bengal,PRD103,USB-C Cable,Electronics,1,399,5,19.95,80,459.05,Net Banking,Delivered,Marketplace,Valid
+ORD100434,2025-03-13,CUST1228,40,Female,Gurugram,Haryana,PRD106,Cotton T-Shirt,Fashion,2,599,10,119.8,40,1118.2,Cash on Delivery,Cancelled,Website,Valid
+ORD100435,2025-09-07,CUST1118,42,Male,Noida,Uttar Pradesh,PRD109,Backpack,Fashion,1,1799,0,0,0,1799,Debit Card,Delivered,Mobile App,Valid
+ORD100436,2025-01-24,CUST1020,34,Other,Lucknow,Uttar Pradesh,PRD111,Water Bottle,Home & Kitchen,1,499,20,99.8,80,479.2,Wallet,Returned,Marketplace,Valid
+ORD100437,2025-10-19,CUST1089,32,Other,Hyderabad,Telangana,PRD113,Face Moisturizer,Beauty,1,699,10,69.9,40,669.1,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100438,2025-06-30,CUST1176,22,Other,Chennai,Tamil Nadu,PRD116,Notebook Pack,Books & Stationery,3,299,0,0,40,937,Credit Card,Delivered,Marketplace,Valid
+ORD100439,2025-05-24,CUST1108,39,Other,Gurugram,Haryana,PRD106,Cotton T-Shirt,Fashion,1,599,10,59.9,40,579.1,Cash on Delivery,Delivered,Website,Valid
+ORD100440,2025-09-04,CUST1245,20,Female,Chennai,Tamil Nadu,PRD107,Jeans,Fashion,2,1299,10,259.8,0,2338.2,Credit Card,Delivered,Marketplace,Valid
+ORD100441,2025-10-31,CUST1082,51,Male,Gurugram,Haryana,PRD117,Desk Organizer,Books & Stationery,1,649,10,64.9,40,624.1,Credit Card,Delivered,Marketplace,Valid
+ORD100442,2025-10-16,CUST1009,48,Female,Patna,Bihar,PRD110,Bedsheet Set,Home & Kitchen,4,1599,0,0,0,6396,Cash on Delivery,Delivered,Website,Valid
+ORD100443,2025-07-30,CUST1073,47,Other,Indore,Madhya Pradesh,PRD106,Cotton T-Shirt,Fashion,2,599,5,59.9,40,1178.1,Debit Card,Cancelled,Marketplace,Valid
+ORD100444,2025-02-05,CUST1117,61,Male,Hyderabad,Telangana,PRD113,Face Moisturizer,Beauty,1,699,0,0,80,779,Net Banking,Returned,Website,Valid
+ORD100445,2025-11-07,CUST1049,23,Male,Gurugram,Haryana,PRD116,Notebook Pack,Books & Stationery,4,299,10,119.6,80,1156.4,UPI,Delivered,Marketplace,Valid
+ORD100446,2025-03-08,CUST1276,44,Male,Bhopal,Madhya Pradesh,PRD101,Wireless Mouse,Electronics,3,799,10,239.7,0,2157.3,Net Banking,Delivered,Website,Valid
+ORD100447,2025-12-24,CUST1271,55,Other,Hyderabad,Telangana,PRD108,Running Shoes,Fashion,4,2499,5,499.8,0,9496.2,Debit Card,Cancelled,Marketplace,Valid
+ORD100448,2025-10-22,CUST1050,36,Other,Hyderabad,Telangana,PRD105,Smart Watch,Electronics,1,3499,10,349.9,0,3149.1,UPI,Shipped,Marketplace,Valid
+ORD100449,2025-07-29,CUST1131,18,Male,Mumbai,Maharashtra,PRD101,Wireless Mouse,Electronics,2,799,10,159.8,80,1518.2,Net Banking,Delivered,Marketplace,Valid
+ORD100450,2025-04-16,CUST1161,52,Male,Hyderabad,Telangana,PRD112,Cookware Set,Home & Kitchen,1,2899,5,144.95,0,2754.05,Debit Card,Delivered,Marketplace,Valid
+ORD100451,2025-07-07,CUST1141,53,Other,Lucknow,Uttar Pradesh,PRD113,Face Moisturizer,Beauty,2,699,5,69.9,80,1408.1,Debit Card,Delivered,Mobile App,Valid
+ORD100452,2025-05-10,CUST1157,25,Other,Jaipur,Rajasthan,PRD112,Cookware Set,Home & Kitchen,3,2899,5,434.85,0,8262.15,Wallet,Delivered,Website,Valid
+ORD100453,2025-08-17,CUST1082,63,Female,Noida,Uttar Pradesh,PRD107,Jeans,Fashion,1,1299,10,129.9,80,1249.1,Wallet,Delivered,Website,Valid
+ORD100454,2025-07-19,CUST1002,34,Female,Indore,Madhya Pradesh,PRD103,USB-C Cable,Electronics,3,399,5,59.85,80,1217.15,UPI,Delivered,Mobile App,Valid
+ORD100455,2025-02-10,CUST1019,63,Other,Ahmedabad,Gujarat,PRD113,Face Moisturizer,Beauty,4,699,5,139.8,0,2656.2,Debit Card,Delivered,Website,Valid
+ORD100456,2025-03-31,CUST1253,56,Other,Chennai,Tamil Nadu,PRD101,Wireless Mouse,Electronics,1,799,10,79.9,80,799.1,UPI,Delivered,Marketplace,Valid
+ORD100457,2025-12-24,CUST1118,23,Male,Jaipur,Rajasthan,PRD106,Cotton T-Shirt,Fashion,2,599,5,59.9,80,1218.1,Credit Card,Delivered,Mobile App,Valid
+ORD100458,2025-06-30,CUST1202,36,Other,Hyderabad,Telangana,PRD107,Jeans,Fashion,1,1299,10,129.9,40,1209.1,Net Banking,Shipped,Marketplace,Valid
+ORD100459,2025-10-26,CUST1178,18,Male,Bengaluru,Karnataka,PRD109,Backpack,Fashion,1,1799,20,359.8,60,1499.2,Net Banking,Shipped,Website,Valid
+ORD100460,2025-07-28,CUST1259,52,Other,Noida,Uttar Pradesh,PRD118,Novel,Books & Stationery,1,449,0,0,40,489,Debit Card,Returned,Mobile App,Valid
+ORD100461,2025-12-22,CUST1226,19,Male,Hyderabad,Telangana,PRD116,Notebook Pack,Books & Stationery,2,299,10,59.8,60,598.2,Net Banking,Delivered,Website,Valid
+ORD100462,2025-05-13,CUST1034,51,Other,Hyderabad,Telangana,PRD108,Running Shoes,Fashion,2,2499,0,0,0,4998,Debit Card,Delivered,Website,Valid
+ORD100463,2025-12-25,CUST1134,48,Male,Mumbai,Maharashtra,PRD110,Bedsheet Set,Home & Kitchen,1,1599,10,159.9,60,1499.1,Credit Card,Delivered,Mobile App,Valid
+ORD100464,2025-04-22,CUST1137,31,Female,Gurugram,Haryana,PRD107,Jeans,Fashion,1,1299,0,0,80,1379,Debit Card,Delivered,Website,Valid
+ORD100465,2025-05-08,CUST1182,52,Female,Gurugram,Haryana,PRD104,Laptop Stand,Electronics,1,1499,0,0,80,1579,UPI,Delivered,Mobile App,Valid
+ORD100466,2025-07-10,CUST1161,54,Female,Chennai,Tamil Nadu,PRD109,Backpack,Fashion,1,1799,20,359.8,80,1519.2,Credit Card,Delivered,Website,Valid
+ORD100467,2025-09-27,CUST1216,25,Other,Chennai,Tamil Nadu,PRD118,Novel,Books & Stationery,1,449,0,0,80,529,Cash on Delivery,Cancelled,Marketplace,Valid
+ORD100468,2025-08-24,CUST1161,57,Male,Ahmedabad,Gujarat,PRD101,Wireless Mouse,Electronics,1,799,0,0,80,879,Debit Card,Delivered,Website,Valid
+ORD100469,2025-10-08,CUST1134,45,Female,Mumbai,Maharashtra,PRD109,Backpack,Fashion,1,1799,10,179.9,0,1619.1,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100470,2025-12-25,CUST1190,32,Female,Bengaluru,Karnataka,PRD113,Face Moisturizer,Beauty,1,699,0,0,40,739,Wallet,Processing,Marketplace,Valid
+ORD100471,2025-05-19,CUST1120,29,Male,Kolkata,West Bengal,PRD114,Shampoo,Beauty,3,349,0,0,80,1127,UPI,Delivered,Mobile App,Valid
+ORD100472,2025-03-10,CUST1264,43,Female,Kolkata,West Bengal,PRD111,Water Bottle,Home & Kitchen,3,499,0,0,80,1577,UPI,Returned,Marketplace,Valid
+ORD100473,2025-03-25,CUST1030,34,Male,Mumbai,Maharashtra,PRD109,Backpack,Fashion,1,1799,10,179.9,0,1619.1,Debit Card,Delivered,Mobile App,Valid
+ORD100474,2025-10-14,CUST1131,54,Other,Bengaluru,Karnataka,PRD101,Wireless Mouse,Electronics,1,799,5,39.95,80,839.05,Credit Card,Processing,Marketplace,Valid
+ORD100475,2025-11-29,CUST1275,23,Male,Gurugram,Haryana,PRD110,Bedsheet Set,Home & Kitchen,1,1599,10,159.9,60,1499.1,Cash on Delivery,Cancelled,Marketplace,Valid
+ORD100476,2025-05-27,CUST1237,58,Other,Lucknow,Uttar Pradesh,PRD105,Smart Watch,Electronics,3,3499,10,1049.7,0,9447.3,Cash on Delivery,Shipped,Marketplace,Valid
+ORD100477,2025-07-27,CUST1036,56,Other,Noida,Uttar Pradesh,PRD106,Cotton T-Shirt,Fashion,1,599,0,0,80,679,Debit Card,Delivered,Mobile App,Valid
+ORD100478,2025-05-19,CUST1227,29,Female,Indore,Madhya Pradesh,PRD112,Cookware Set,Home & Kitchen,2,2899,5,289.9,0,5508.1,Credit Card,Delivered,Website,Valid
+ORD100479,2025-05-01,CUST1128,53,Female,Ahmedabad,Gujarat,PRD103,USB-C Cable,Electronics,1,399,5,19.95,40,419.05,Cash on Delivery,Delivered,Website,Valid
+ORD100480,2025-07-23,CUST1268,37,Female,Indore,Madhya Pradesh,PRD103,USB-C Cable,Electronics,1,399,10,39.9,40,399.1,Cash on Delivery,Delivered,Website,Valid
+ORD100481,2025-05-26,CUST1226,40,Male,Lucknow,Uttar Pradesh,PRD105,Smart Watch,Electronics,1,3499,15,524.85,0,2974.15,Wallet,Delivered,Mobile App,Valid
+ORD100482,2025-08-28,CUST1276,29,Other,Patna,Bihar,PRD109,Backpack,Fashion,2,1799,0,0,0,3598,Net Banking,Shipped,Marketplace,Valid
+ORD100483,2025-08-22,CUST1222,46,Male,Kolkata,West Bengal,PRD118,Novel,Books & Stationery,1,449,0,0,80,529,UPI,Delivered,Mobile App,Valid
+ORD100484,2025-07-31,CUST1133,40,Male,Gurugram,Haryana,PRD110,Bedsheet Set,Home & Kitchen,1,1599,5,79.95,0,1519.05,Credit Card,Cancelled,Mobile App,Valid
+ORD100485,2025-10-01,CUST1004,56,Female,Ahmedabad,Gujarat,PRD116,Notebook Pack,Books & Stationery,4,299,5,59.8,40,1176.2,Debit Card,Cancelled,Website,Valid
+ORD100486,2025-10-08,CUST1191,59,Male,Mumbai,Maharashtra,PRD114,Shampoo,Beauty,3,349,5,52.35,40,1034.65,Wallet,Delivered,Mobile App,Valid
+ORD100487,2025-04-23,CUST1134,35,Male,Noida,Uttar Pradesh,PRD114,Shampoo,Beauty,2,349,5,34.9,80,743.1,Wallet,Returned,Marketplace,Valid
+ORD100488,2025-09-30,CUST1137,47,Other,Hyderabad,Telangana,PRD107,Jeans,Fashion,3,1299,0,0,0,3897,Wallet,Delivered,Mobile App,Valid
+ORD100489,2025-05-20,CUST1251,36,Male,Mumbai,Maharashtra,PRD111,Water Bottle,Home & Kitchen,1,499,0,0,80,579,UPI,Delivered,Website,Valid
+ORD100490,2025-08-13,CUST1004,41,Male,Mumbai,Maharashtra,PRD103,USB-C Cable,Electronics,1,399,5,19.95,60,439.05,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100491,2025-01-17,CUST1169,29,Female,Noida,Uttar Pradesh,PRD105,Smart Watch,Electronics,1,3499,10,349.9,0,3149.1,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100492,2025-07-15,CUST1006,30,Male,Noida,Uttar Pradesh,PRD108,Running Shoes,Fashion,1,2499,20,499.8,0,1999.2,UPI,Delivered,Marketplace,Valid
+ORD100493,2025-02-18,CUST1266,58,Other,Lucknow,Uttar Pradesh,PRD107,Jeans,Fashion,1,1299,10,129.9,60,1229.1,Credit Card,Shipped,Website,Valid
+ORD100494,2025-10-09,CUST1266,60,Female,Noida,Uttar Pradesh,PRD109,Backpack,Fashion,1,1799,0,0,0,1799,UPI,Delivered,Website,Valid
+ORD100495,2025-05-01,CUST1222,18,Female,Bengaluru,Karnataka,PRD101,Wireless Mouse,Electronics,1,799,0,0,40,839,Credit Card,Delivered,Marketplace,Valid
+ORD100496,2025-12-20,CUST1243,61,Other,Ahmedabad,Gujarat,PRD105,Smart Watch,Electronics,1,3499,0,0,0,3499,UPI,Delivered,Mobile App,Valid
+ORD100497,2025-11-17,CUST1030,49,Female,Delhi,Delhi,PRD112,Cookware Set,Home & Kitchen,2,2899,10,579.8,0,5218.2,Credit Card,Cancelled,Mobile App,Valid
+ORD100498,2025-10-13,CUST1177,34,Female,Indore,Madhya Pradesh,PRD115,Sunscreen,Beauty,2,599,0,0,60,1258,Credit Card,Delivered,Mobile App,Valid
+ORD100499,2025-12-28,CUST1224,40,Male,Kolkata,West Bengal,PRD110,Bedsheet Set,Home & Kitchen,2,1599,5,159.9,0,3038.1,Net Banking,Delivered,Marketplace,Valid
+ORD100500,2025-08-28,CUST1140,52,Male,Bhopal,Madhya Pradesh,PRD118,Novel,Books & Stationery,1,449,5,22.45,60,486.55,Debit Card,Delivered,Mobile App,Valid
+ORD100501,2025-01-01,CUST1259,33,Male,Hyderabad,Telangana,PRD106,Cotton T-Shirt,Fashion,3,599,10,179.7,0,1617.3,Net Banking,Delivered,Marketplace,Valid
+ORD100502,2025-02-02,CUST1275,38,Male,Bhopal,Madhya Pradesh,PRD113,Face Moisturizer,Beauty,1,699,10,69.9,80,709.1,Debit Card,Delivered,Marketplace,Valid
+ORD100503,2025-06-14,CUST1056,30,Female,Noida,Uttar Pradesh,PRD117,Desk Organizer,Books & Stationery,2,649,0,0,40,1338,UPI,Delivered,Mobile App,Valid
+ORD100504,2025-04-09,CUST1050,41,Female,Delhi,Delhi,PRD113,Face Moisturizer,Beauty,2,699,5,69.9,80,1408.1,UPI,Delivered,Marketplace,Valid
+ORD100505,2025-02-06,CUST1006,58,Female,Patna,Bihar,PRD107,Jeans,Fashion,2,1299,15,389.7,0,2208.3,Cash on Delivery,Returned,Mobile App,Valid
+ORD100506,2025-10-13,CUST1212,20,Other,Bhopal,Madhya Pradesh,PRD112,Cookware Set,Home & Kitchen,3,2899,0,0,0,8697,Net Banking,Delivered,Website,Valid
+ORD100507,2025-06-05,CUST1039,51,Other,Mumbai,Maharashtra,PRD117,Desk Organizer,Books & Stationery,1,649,10,64.9,80,664.1,Credit Card,Delivered,Website,Valid
+ORD100508,2025-10-19,CUST1091,47,Other,Kolkata,West Bengal,PRD118,Novel,Books & Stationery,1,449,0,0,80,529,Wallet,Delivered,Marketplace,Valid
+ORD100509,2025-08-07,CUST1053,46,Male,Gurugram,Haryana,PRD106,Cotton T-Shirt,Fashion,2,599,5,59.9,80,1218.1,Net Banking,Delivered,Mobile App,Valid
+ORD100510,2025-10-09,CUST1166,56,Female,Bhopal,Madhya Pradesh,PRD112,Cookware Set,Home & Kitchen,1,2899,10,289.9,0,2609.1,Debit Card,Returned,Marketplace,Valid
+ORD100511,2025-10-07,CUST1109,43,Female,Hyderabad,Telangana,PRD118,Novel,Books & Stationery,4,449,0,0,0,1796,Cash on Delivery,Processing,Marketplace,Valid
+ORD100512,2025-01-18,CUST1145,31,Male,Jaipur,Rajasthan,PRD101,Wireless Mouse,Electronics,1,799,20,159.8,60,699.2,Credit Card,Delivered,Website,Valid
+ORD100513,2025-12-20,CUST1141,47,Male,Patna,Bihar,PRD118,Novel,Books & Stationery,1,449,10,44.9,80,484.1,UPI,Delivered,Website,Valid
+ORD100514,2025-03-12,CUST1135,54,Female,Bengaluru,Karnataka,PRD108,Running Shoes,Fashion,1,2499,15,374.85,0,2124.15,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100515,2025-02-09,CUST1166,56,Other,Indore,Madhya Pradesh,PRD116,Notebook Pack,Books & Stationery,1,299,15,44.85,80,334.15,UPI,Delivered,Mobile App,Valid
+ORD100516,2025-01-20,CUST1195,44,Female,Noida,Uttar Pradesh,PRD102,Bluetooth Speaker,Electronics,4,2199,0,0,0,8796,Cash on Delivery,Shipped,Website,Valid
+ORD100517,2025-12-01,CUST1005,38,Other,Lucknow,Uttar Pradesh,PRD113,Face Moisturizer,Beauty,1,699,5,34.95,60,724.05,Credit Card,Delivered,Marketplace,Valid
+ORD100518,2025-04-24,CUST1078,32,Male,Delhi,Delhi,PRD113,Face Moisturizer,Beauty,5,699,10,349.5,0,3145.5,UPI,Delivered,Mobile App,Valid
+ORD100519,2025-07-21,CUST1075,23,Male,Gurugram,Haryana,PRD111,Water Bottle,Home & Kitchen,1,499,10,49.9,40,489.1,Debit Card,Delivered,Marketplace,Valid
+ORD100520,2025-08-11,CUST1066,30,Other,Indore,Madhya Pradesh,PRD105,Smart Watch,Electronics,1,3499,0,0,0,3499,Net Banking,Delivered,Marketplace,Valid
+ORD100521,2025-09-26,CUST1126,25,Other,Mumbai,Maharashtra,PRD103,USB-C Cable,Electronics,1,399,5,19.95,80,459.05,UPI,Shipped,Mobile App,Valid
+ORD100522,2025-08-05,CUST1187,40,Other,Bengaluru,Karnataka,PRD107,Jeans,Fashion,1,1299,10,129.9,40,1209.1,Credit Card,Cancelled,Mobile App,Valid
+ORD100523,2025-11-16,CUST1074,64,Female,Chennai,Tamil Nadu,PRD102,Bluetooth Speaker,Electronics,4,2199,0,0,0,8796,Credit Card,Delivered,Website,Valid
+ORD100524,2025-01-28,CUST1124,25,Male,Jaipur,Rajasthan,PRD105,Smart Watch,Electronics,3,3499,15,1574.55,0,8922.45,Wallet,Delivered,Mobile App,Valid
+ORD100525,2025-08-30,CUST1011,53,Male,Bengaluru,Karnataka,PRD107,Jeans,Fashion,2,1299,0,0,0,2598,Debit Card,Delivered,Marketplace,Valid
+ORD100526,2025-03-14,CUST1009,57,Male,Hyderabad,Telangana,PRD117,Desk Organizer,Books & Stationery,1,649,0,0,60,709,Wallet,Delivered,Website,Valid
+ORD100527,2025-08-27,CUST1004,19,Male,Noida,Uttar Pradesh,PRD113,Face Moisturizer,Beauty,2,699,10,139.8,80,1338.2,UPI,Delivered,Marketplace,Valid
+ORD100528,2025-07-17,CUST1118,52,Female,Hyderabad,Telangana,PRD117,Desk Organizer,Books & Stationery,5,649,0,0,0,3245,Net Banking,Delivered,Website,Valid
+ORD100529,2025-04-12,CUST1256,37,Male,Chennai,Tamil Nadu,PRD118,Novel,Books & Stationery,4,449,0,0,0,1796,Net Banking,Delivered,Mobile App,Valid
+ORD100530,2025-07-21,CUST1080,35,Female,Delhi,Delhi,PRD112,Cookware Set,Home & Kitchen,2,2899,5,289.9,0,5508.1,Net Banking,Delivered,Marketplace,Valid
+ORD100531,2025-05-12,CUST1198,43,Other,Patna,Bihar,PRD101,Wireless Mouse,Electronics,4,799,15,479.4,0,2716.6,Debit Card,Delivered,Website,Valid
+ORD100532,2025-02-14,CUST1195,56,Male,Kolkata,West Bengal,PRD108,Running Shoes,Fashion,1,2499,10,249.9,0,2249.1,Debit Card,Delivered,Mobile App,Valid
+ORD100533,2025-10-05,CUST1067,37,Other,Mumbai,Maharashtra,PRD105,Smart Watch,Electronics,2,3499,10,699.8,0,6298.2,Credit Card,Delivered,Marketplace,Valid
+ORD100534,2025-09-26,CUST1069,53,Other,Hyderabad,Telangana,PRD105,Smart Watch,Electronics,2,3499,10,699.8,0,6298.2,UPI,Delivered,Marketplace,Valid
+ORD100535,2025-03-02,CUST1094,44,Male,Bengaluru,Karnataka,PRD105,Smart Watch,Electronics,2,3499,10,699.8,0,6298.2,Cash on Delivery,Shipped,Mobile App,Valid
+ORD100536,2025-11-23,CUST1140,54,Other,Gurugram,Haryana,PRD107,Jeans,Fashion,1,1299,0,0,80,1379,Net Banking,Delivered,Website,Valid
+ORD100537,2025-11-02,CUST1118,48,Other,Mumbai,Maharashtra,PRD101,Wireless Mouse,Electronics,1,799,10,79.9,60,779.1,Net Banking,Delivered,Marketplace,Valid
+ORD100538,2025-07-11,CUST1094,18,Male,Bhopal,Madhya Pradesh,PRD113,Face Moisturizer,Beauty,1,699,0,0,40,739,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100539,2025-04-24,CUST1103,62,Male,Indore,Madhya Pradesh,PRD107,Jeans,Fashion,1,1299,15,194.85,60,1164.15,Cash on Delivery,Returned,Mobile App,Valid
+ORD100540,2025-05-07,CUST1218,57,Other,Hyderabad,Telangana,PRD102,Bluetooth Speaker,Electronics,2,2199,15,659.7,0,3738.3,Cash on Delivery,Cancelled,Marketplace,Valid
+ORD100541,2025-11-01,CUST1274,33,Other,Kolkata,West Bengal,PRD102,Bluetooth Speaker,Electronics,2,2199,5,219.9,0,4178.1,UPI,Returned,Marketplace,Valid
+ORD100542,2025-07-22,CUST1020,43,Male,Kolkata,West Bengal,PRD113,Face Moisturizer,Beauty,1,699,10,69.9,40,669.1,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100543,2025-08-25,CUST1085,47,Other,Hyderabad,Telangana,PRD110,Bedsheet Set,Home & Kitchen,2,1599,0,0,0,3198,Credit Card,Delivered,Mobile App,Valid
+ORD100544,2025-02-16,CUST1256,43,Male,Noida,Uttar Pradesh,PRD106,Cotton T-Shirt,Fashion,3,599,15,269.55,0,1527.45,Credit Card,Delivered,Mobile App,Valid
+ORD100545,2025-08-19,CUST1012,34,Male,Gurugram,Haryana,PRD115,Sunscreen,Beauty,2,599,10,119.8,40,1118.2,UPI,Shipped,Marketplace,Valid
+ORD100546,2025-11-29,CUST1083,63,Male,Ahmedabad,Gujarat,PRD104,Laptop Stand,Electronics,1,1499,10,149.9,80,1429.1,Net Banking,Delivered,Marketplace,Valid
+ORD100547,2025-09-19,CUST1081,27,Female,Hyderabad,Telangana,PRD118,Novel,Books & Stationery,1,449,10,44.9,60,464.1,Wallet,Delivered,Website,Valid
+ORD100548,2025-04-02,CUST1026,25,Female,Hyderabad,Telangana,PRD110,Bedsheet Set,Home & Kitchen,1,1599,10,159.9,60,1499.1,Credit Card,Delivered,Website,Valid
+ORD100549,2025-01-02,CUST1129,33,Female,Delhi,Delhi,PRD115,Sunscreen,Beauty,1,599,5,29.95,40,609.05,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100550,2025-12-04,CUST1243,35,Other,Chennai,Tamil Nadu,PRD114,Shampoo,Beauty,1,349,10,34.9,40,354.1,Net Banking,Delivered,Marketplace,Valid
+ORD100551,2025-10-13,CUST1106,60,Other,Delhi,Delhi,PRD106,Cotton T-Shirt,Fashion,1,599,10,59.9,40,579.1,UPI,Delivered,Marketplace,Valid
+ORD100552,2025-06-02,CUST1169,57,Other,Patna,Bihar,PRD103,USB-C Cable,Electronics,1,399,5,19.95,40,419.05,Debit Card,Delivered,Marketplace,Valid
+ORD100553,2025-12-25,CUST1090,42,Female,Chennai,Tamil Nadu,PRD112,Cookware Set,Home & Kitchen,4,2899,0,0,0,11596,Debit Card,Delivered,Mobile App,Valid
+ORD100554,2025-10-09,CUST1033,51,Female,Pune,Maharashtra,PRD116,Notebook Pack,Books & Stationery,1,299,10,29.9,60,329.1,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100555,2025-04-18,CUST1029,36,Male,Noida,Uttar Pradesh,PRD117,Desk Organizer,Books & Stationery,5,649,5,162.25,0,3082.75,Wallet,Delivered,Marketplace,Valid
+ORD100556,2025-06-12,CUST1132,58,Male,Kolkata,West Bengal,PRD112,Cookware Set,Home & Kitchen,4,2899,10,1159.6,0,10436.4,Wallet,Delivered,Mobile App,Valid
+ORD100557,2025-04-03,CUST1119,25,Other,Ahmedabad,Gujarat,PRD110,Bedsheet Set,Home & Kitchen,5,1599,0,0,0,7995,Wallet,Delivered,Website,Valid
+ORD100558,2025-11-12,CUST1212,58,Female,Hyderabad,Telangana,PRD102,Bluetooth Speaker,Electronics,1,2199,10,219.9,0,1979.1,UPI,Delivered,Marketplace,Valid
+ORD100559,2025-05-25,CUST1130,61,Male,Indore,Madhya Pradesh,PRD103,USB-C Cable,Electronics,1,399,5,19.95,60,439.05,UPI,Cancelled,Mobile App,Valid
+ORD100560,2025-07-22,CUST1014,20,Other,Bhopal,Madhya Pradesh,PRD106,Cotton T-Shirt,Fashion,1,599,15,89.85,80,589.15,Cash on Delivery,Delivered,Website,Valid
+ORD100561,2025-09-04,CUST1079,65,Female,Lucknow,Uttar Pradesh,PRD115,Sunscreen,Beauty,3,599,5,89.85,0,1707.15,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100562,2025-06-03,CUST1161,22,Female,Kolkata,West Bengal,PRD118,Novel,Books & Stationery,1,449,10,44.9,60,464.1,Debit Card,Cancelled,Mobile App,Valid
+ORD100563,2025-01-16,CUST1173,37,Other,Hyderabad,Telangana,PRD118,Novel,Books & Stationery,3,449,10,134.7,60,1272.3,UPI,Delivered,Mobile App,Valid
+ORD100564,2025-12-30,CUST1016,31,Other,Pune,Maharashtra,PRD114,Shampoo,Beauty,1,349,15,52.35,60,356.65,Debit Card,Delivered,Mobile App,Valid
+ORD100565,2025-03-31,CUST1057,48,Other,Bengaluru,Karnataka,PRD102,Bluetooth Speaker,Electronics,3,2199,15,989.55,0,5607.45,UPI,Delivered,Website,Valid
+ORD100566,2025-04-08,CUST1174,51,Other,Patna,Bihar,PRD116,Notebook Pack,Books & Stationery,2,299,5,29.9,60,628.1,UPI,Delivered,Website,Valid
+ORD100567,2025-04-16,CUST1018,61,Other,Chennai,Tamil Nadu,PRD113,Face Moisturizer,Beauty,2,699,5,69.9,40,1368.1,UPI,Delivered,Website,Valid
+ORD100568,2025-06-20,CUST1239,54,Male,Patna,Bihar,PRD102,Bluetooth Speaker,Electronics,1,2199,10,219.9,0,1979.1,UPI,Cancelled,Marketplace,Valid
+ORD100569,2025-04-18,CUST1164,27,Female,Mumbai,Maharashtra,PRD107,Jeans,Fashion,1,1299,5,64.95,60,1294.05,Debit Card,Delivered,Mobile App,Valid
+ORD100570,2025-02-28,CUST1007,27,Other,Jaipur,Rajasthan,PRD118,Novel,Books & Stationery,1,449,0,0,60,509,Debit Card,Delivered,Mobile App,Valid
+ORD100571,2025-10-21,CUST1125,19,Male,Gurugram,Haryana,PRD103,USB-C Cable,Electronics,1,399,15,59.85,80,419.15,Credit Card,Delivered,Marketplace,Valid
+ORD100572,2025-01-26,CUST1054,58,Other,Hyderabad,Telangana,PRD102,Bluetooth Speaker,Electronics,1,2199,5,109.95,0,2089.05,Net Banking,Delivered,Marketplace,Valid
+ORD100573,2025-08-17,CUST1182,47,Other,Pune,Maharashtra,PRD111,Water Bottle,Home & Kitchen,3,499,10,149.7,80,1427.3,UPI,Returned,Website,Valid
+ORD100574,2025-02-17,CUST1239,27,Other,Noida,Uttar Pradesh,PRD115,Sunscreen,Beauty,1,599,10,59.9,60,599.1,Credit Card,Delivered,Mobile App,Valid
+ORD100575,2025-07-06,CUST1200,48,Female,Gurugram,Haryana,PRD111,Water Bottle,Home & Kitchen,3,499,15,224.55,60,1332.45,UPI,Delivered,Mobile App,Valid
+ORD100576,2025-09-03,CUST1236,43,Other,Bhopal,Madhya Pradesh,PRD106,Cotton T-Shirt,Fashion,1,599,0,0,80,679,UPI,Delivered,Website,Valid
+ORD100577,2025-06-16,CUST1036,33,Other,Indore,Madhya Pradesh,PRD110,Bedsheet Set,Home & Kitchen,2,1599,5,159.9,0,3038.1,Net Banking,Delivered,Website,Valid
+ORD100578,2025-09-04,CUST1196,54,Male,Noida,Uttar Pradesh,PRD111,Water Bottle,Home & Kitchen,1,499,10,49.9,60,509.1,Cash on Delivery,Cancelled,Marketplace,Valid
+ORD100579,2025-12-22,CUST1120,47,Male,Gurugram,Haryana,PRD103,USB-C Cable,Electronics,2,399,10,79.8,60,778.2,Net Banking,Delivered,Marketplace,Valid
+ORD100580,2025-02-19,CUST1227,42,Male,Gurugram,Haryana,PRD110,Bedsheet Set,Home & Kitchen,4,1599,0,0,0,6396,Net Banking,Delivered,Mobile App,Valid
+ORD100581,2025-11-27,CUST1031,18,Female,Noida,Uttar Pradesh,PRD107,Jeans,Fashion,3,1299,15,584.55,0,3312.45,Wallet,Shipped,Marketplace,Valid
+ORD100582,2025-03-18,CUST1231,37,Other,Kolkata,West Bengal,PRD110,Bedsheet Set,Home & Kitchen,1,1599,10,159.9,40,1479.1,Debit Card,Delivered,Marketplace,Valid
+ORD100583,2025-06-05,CUST1222,43,Female,Ahmedabad,Gujarat,PRD112,Cookware Set,Home & Kitchen,5,2899,10,1449.5,0,13045.5,Net Banking,Delivered,Mobile App,Valid
+ORD100584,2025-02-01,CUST1189,25,Male,Patna,Bihar,PRD118,Novel,Books & Stationery,4,449,0,0,0,1796,Debit Card,Delivered,Website,Valid
+ORD100585,2025-05-01,CUST1221,31,Other,Ahmedabad,Gujarat,PRD113,Face Moisturizer,Beauty,2,699,10,139.8,60,1318.2,Net Banking,Delivered,Website,Valid
+ORD100586,2025-09-01,CUST1071,26,Female,Mumbai,Maharashtra,PRD118,Novel,Books & Stationery,1,449,15,67.35,60,441.65,Wallet,Delivered,Website,Valid
+ORD100587,2025-02-06,CUST1008,44,Male,Gurugram,Haryana,PRD116,Notebook Pack,Books & Stationery,2,299,20,119.6,40,518.4,Wallet,Delivered,Marketplace,Valid
+ORD100588,2025-11-06,CUST1217,29,Male,Jaipur,Rajasthan,PRD106,Cotton T-Shirt,Fashion,1,599,5,29.95,60,629.05,Credit Card,Delivered,Marketplace,Valid
+ORD100589,2025-01-04,CUST1255,41,Female,Bhopal,Madhya Pradesh,PRD108,Running Shoes,Fashion,2,2499,0,0,0,4998,Net Banking,Shipped,Website,Valid
+ORD100590,2025-10-18,CUST1247,64,Other,Ahmedabad,Gujarat,PRD112,Cookware Set,Home & Kitchen,1,2899,5,144.95,0,2754.05,Credit Card,Delivered,Marketplace,Valid
+ORD100591,2025-05-24,CUST1238,60,Other,Kolkata,West Bengal,PRD103,USB-C Cable,Electronics,2,399,10,79.8,40,758.2,Wallet,Delivered,Website,Valid
+ORD100592,2025-12-17,CUST1276,48,Male,Indore,Madhya Pradesh,PRD110,Bedsheet Set,Home & Kitchen,2,1599,15,479.7,0,2718.3,UPI,Delivered,Marketplace,Valid
+ORD100593,2025-08-29,CUST1169,62,Other,Hyderabad,Telangana,PRD112,Cookware Set,Home & Kitchen,4,2899,10,1159.6,0,10436.4,UPI,Delivered,Marketplace,Valid
+ORD100594,2025-06-05,CUST1133,57,Female,Delhi,Delhi,PRD116,Notebook Pack,Books & Stationery,2,299,10,59.8,80,618.2,Wallet,Processing,Mobile App,Valid
+ORD100595,2025-09-06,CUST1042,35,Male,Gurugram,Haryana,PRD117,Desk Organizer,Books & Stationery,1,649,10,64.9,60,644.1,Debit Card,Delivered,Website,Valid
+ORD100596,2025-02-27,CUST1089,33,Male,Patna,Bihar,PRD105,Smart Watch,Electronics,2,3499,5,349.9,0,6648.1,Wallet,Delivered,Website,Valid
+ORD100597,2025-09-28,CUST1016,42,Female,Bengaluru,Karnataka,PRD103,USB-C Cable,Electronics,4,399,10,159.6,40,1476.4,Cash on Delivery,Returned,Marketplace,Valid
+ORD100598,2025-08-14,CUST1085,28,Male,Mumbai,Maharashtra,PRD112,Cookware Set,Home & Kitchen,1,2899,0,0,0,2899,UPI,Returned,Mobile App,Valid
+ORD100599,2025-09-01,CUST1154,51,Male,Chennai,Tamil Nadu,PRD118,Novel,Books & Stationery,1,449,10,44.9,60,464.1,Credit Card,Delivered,Website,Valid
+ORD100600,2025-05-28,CUST1229,58,Male,Hyderabad,Telangana,PRD111,Water Bottle,Home & Kitchen,4,499,10,199.6,0,1796.4,Net Banking,Delivered,Mobile App,Valid
+ORD100601,2025-11-09,CUST1139,47,Other,Bengaluru,Karnataka,PRD109,Backpack,Fashion,1,1799,0,0,0,1799,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100602,2025-05-04,CUST1099,18,Female,Kolkata,West Bengal,PRD111,Water Bottle,Home & Kitchen,2,499,20,199.6,60,858.4,Wallet,Delivered,Website,Valid
+ORD100603,2025-07-30,CUST1050,30,Female,Kolkata,West Bengal,PRD104,Laptop Stand,Electronics,2,1499,5,149.9,0,2848.1,Debit Card,Cancelled,Website,Valid
+ORD100604,2025-11-14,CUST1047,23,Other,Delhi,Delhi,PRD107,Jeans,Fashion,4,1299,10,519.6,0,4676.4,UPI,Delivered,Website,Valid
+ORD100605,2025-07-12,CUST1094,58,Male,Patna,Bihar,PRD104,Laptop Stand,Electronics,2,1499,0,0,0,2998,UPI,Delivered,Mobile App,Valid
+ORD100606,2025-08-07,CUST1165,39,Female,Pune,Maharashtra,PRD106,Cotton T-Shirt,Fashion,3,599,0,0,0,1797,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100607,2025-05-16,CUST1091,49,Female,Chennai,Tamil Nadu,PRD103,USB-C Cable,Electronics,1,399,15,59.85,80,419.15,Wallet,Delivered,Website,Valid
+ORD100608,2025-10-04,CUST1220,22,Other,Mumbai,Maharashtra,PRD104,Laptop Stand,Electronics,4,1499,10,599.6,0,5396.4,UPI,Delivered,Marketplace,Valid
+ORD100609,2025-05-09,CUST1228,27,Other,Delhi,Delhi,PRD116,Notebook Pack,Books & Stationery,1,299,10,29.9,40,309.1,Debit Card,Delivered,Mobile App,Valid
+ORD100610,2025-07-20,CUST1001,52,Female,Kolkata,West Bengal,PRD116,Notebook Pack,Books & Stationery,1,299,5,14.95,80,364.05,UPI,Cancelled,Website,Valid
+ORD100611,2025-07-16,CUST1246,21,Other,Noida,Uttar Pradesh,PRD118,Novel,Books & Stationery,4,449,5,89.8,0,1706.2,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100612,2025-02-16,CUST1187,53,Female,Kolkata,West Bengal,PRD111,Water Bottle,Home & Kitchen,1,499,5,24.95,60,534.05,Credit Card,Delivered,Mobile App,Valid
+ORD100613,2025-12-05,CUST1097,58,Male,Pune,Maharashtra,PRD113,Face Moisturizer,Beauty,3,699,10,209.7,0,1887.3,UPI,Delivered,Marketplace,Valid
+ORD100614,2025-04-08,CUST1071,52,Other,Delhi,Delhi,PRD107,Jeans,Fashion,1,1299,20,259.8,40,1079.2,UPI,Delivered,Mobile App,Valid
+ORD100615,2025-09-13,CUST1273,64,Female,Bhopal,Madhya Pradesh,PRD115,Sunscreen,Beauty,4,599,0,0,0,2396,Debit Card,Delivered,Mobile App,Valid
+ORD100616,2025-03-02,CUST1108,32,Female,Indore,Madhya Pradesh,PRD117,Desk Organizer,Books & Stationery,1,649,10,64.9,80,664.1,Net Banking,Delivered,Website,Valid
+ORD100617,2025-03-14,CUST1250,26,Female,Lucknow,Uttar Pradesh,PRD101,Wireless Mouse,Electronics,1,799,15,119.85,40,719.15,Wallet,Delivered,Website,Valid
+ORD100618,2025-11-20,CUST1025,22,Female,Patna,Bihar,PRD110,Bedsheet Set,Home & Kitchen,3,1599,0,0,0,4797,Net Banking,Delivered,Website,Valid
+ORD100619,2025-09-12,CUST1112,25,Other,Noida,Uttar Pradesh,PRD107,Jeans,Fashion,1,1299,15,194.85,80,1184.15,Debit Card,Delivered,Marketplace,Valid
+ORD100620,2025-10-07,CUST1070,35,Female,Bengaluru,Karnataka,PRD107,Jeans,Fashion,2,1299,10,259.8,0,2338.2,UPI,Delivered,Mobile App,Valid
+ORD100621,2025-03-28,CUST1189,57,Male,Kolkata,West Bengal,PRD106,Cotton T-Shirt,Fashion,1,599,15,89.85,40,549.15,Wallet,Delivered,Website,Valid
+ORD100622,2025-01-09,CUST1249,44,Other,Noida,Uttar Pradesh,PRD101,Wireless Mouse,Electronics,1,799,15,119.85,80,759.15,Debit Card,Delivered,Mobile App,Valid
+ORD100623,2025-12-21,CUST1064,57,Other,Mumbai,Maharashtra,PRD105,Smart Watch,Electronics,2,3499,5,349.9,0,6648.1,Credit Card,Delivered,Website,Valid
+ORD100624,2025-11-02,CUST1092,53,Female,Ahmedabad,Gujarat,PRD116,Notebook Pack,Books & Stationery,2,299,0,0,60,658,UPI,Delivered,Website,Valid
+ORD100625,2025-03-02,CUST1271,58,Other,Noida,Uttar Pradesh,PRD112,Cookware Set,Home & Kitchen,3,2899,20,1739.4,0,6957.6,Cash on Delivery,Delivered,Website,Valid
+ORD100626,2025-05-22,CUST1027,49,Female,Mumbai,Maharashtra,PRD104,Laptop Stand,Electronics,3,1499,10,449.7,0,4047.3,Cash on Delivery,Processing,Website,Valid
+ORD100627,2025-12-10,CUST1022,20,Female,Delhi,Delhi,PRD112,Cookware Set,Home & Kitchen,1,2899,5,144.95,0,2754.05,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100628,2025-01-27,CUST1275,64,Male,Gurugram,Haryana,PRD106,Cotton T-Shirt,Fashion,3,599,5,89.85,0,1707.15,Credit Card,Delivered,Marketplace,Valid
+ORD100629,2025-10-24,CUST1166,38,Female,Hyderabad,Telangana,PRD107,Jeans,Fashion,2,1299,15,389.7,0,2208.3,UPI,Delivered,Website,Valid
+ORD100630,2025-05-02,CUST1211,45,Female,Bhopal,Madhya Pradesh,PRD107,Jeans,Fashion,1,1299,0,0,60,1359,UPI,Delivered,Website,Valid
+ORD100631,2025-11-09,CUST1232,30,Male,Gurugram,Haryana,PRD113,Face Moisturizer,Beauty,1,699,5,34.95,40,704.05,Debit Card,Delivered,Website,Valid
+ORD100632,2025-01-17,CUST1030,32,Male,Pune,Maharashtra,PRD105,Smart Watch,Electronics,1,3499,5,174.95,0,3324.05,Debit Card,Delivered,Marketplace,Valid
+ORD100633,2025-03-22,CUST1087,55,Male,Jaipur,Rajasthan,PRD118,Novel,Books & Stationery,3,449,0,0,80,1427,Credit Card,Delivered,Mobile App,Valid
+ORD100634,2025-05-23,CUST1007,55,Female,Ahmedabad,Gujarat,PRD114,Shampoo,Beauty,2,349,0,0,60,758,Credit Card,Delivered,Marketplace,Valid
+ORD100635,2025-01-03,CUST1213,51,Male,Delhi,Delhi,PRD102,Bluetooth Speaker,Electronics,5,2199,10,1099.5,0,9895.5,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100636,2025-12-23,CUST1050,31,Female,Chennai,Tamil Nadu,PRD116,Notebook Pack,Books & Stationery,1,299,10,29.9,40,309.1,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100637,2025-06-01,CUST1122,65,Other,Lucknow,Uttar Pradesh,PRD103,USB-C Cable,Electronics,1,399,10,39.9,40,399.1,Net Banking,Delivered,Website,Valid
+ORD100638,2025-08-21,CUST1237,58,Male,Indore,Madhya Pradesh,PRD105,Smart Watch,Electronics,3,3499,5,524.85,0,9972.15,Debit Card,Cancelled,Marketplace,Valid
+ORD100639,2025-11-21,CUST1000,35,Other,Bhopal,Madhya Pradesh,PRD103,USB-C Cable,Electronics,1,399,10,39.9,80,439.1,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100640,2025-10-05,CUST1106,41,Female,Indore,Madhya Pradesh,PRD103,USB-C Cable,Electronics,2,399,0,0,40,838,Wallet,Delivered,Website,Valid
+ORD100641,2025-07-16,CUST1187,53,Other,Chennai,Tamil Nadu,PRD102,Bluetooth Speaker,Electronics,1,2199,0,0,0,2199,UPI,Delivered,Website,Valid
+ORD100642,2025-03-12,CUST1171,31,Other,Mumbai,Maharashtra,PRD118,Novel,Books & Stationery,1,449,5,22.45,80,506.55,Wallet,Shipped,Website,Valid
+ORD100643,2025-06-14,CUST1180,40,Male,Patna,Bihar,PRD109,Backpack,Fashion,1,1799,5,89.95,0,1709.05,Debit Card,Delivered,Mobile App,Valid
+ORD100644,2025-09-14,CUST1269,57,Male,Bhopal,Madhya Pradesh,PRD104,Laptop Stand,Electronics,1,1499,5,74.95,80,1504.05,Cash on Delivery,Shipped,Marketplace,Valid
+ORD100645,2025-12-21,CUST1033,24,Female,Mumbai,Maharashtra,PRD115,Sunscreen,Beauty,1,599,5,29.95,40,609.05,UPI,Delivered,Mobile App,Valid
+ORD100646,2025-02-27,CUST1075,44,Other,Chennai,Tamil Nadu,PRD105,Smart Watch,Electronics,3,3499,5,524.85,0,9972.15,Debit Card,Delivered,Marketplace,Valid
+ORD100647,2025-03-09,CUST1242,32,Other,Bengaluru,Karnataka,PRD114,Shampoo,Beauty,1,349,10,34.9,60,374.1,UPI,Delivered,Marketplace,Valid
+ORD100648,2025-06-21,CUST1210,51,Other,Jaipur,Rajasthan,PRD111,Water Bottle,Home & Kitchen,2,499,10,99.8,60,958.2,Wallet,Delivered,Mobile App,Valid
+ORD100649,2025-08-23,CUST1155,48,Male,Jaipur,Rajasthan,PRD105,Smart Watch,Electronics,3,3499,0,0,0,10497,Credit Card,Cancelled,Mobile App,Valid
+ORD100650,2025-01-25,CUST1075,52,Male,Bengaluru,Karnataka,PRD110,Bedsheet Set,Home & Kitchen,1,1599,0,0,0,1599,Wallet,Shipped,Website,Valid
+ORD100651,2025-03-31,CUST1078,34,Male,Gurugram,Haryana,PRD108,Running Shoes,Fashion,1,2499,20,499.8,0,1999.2,Cash on Delivery,Delivered,Website,Valid
+ORD100652,2025-04-16,CUST1017,52,Male,Lucknow,Uttar Pradesh,PRD111,Water Bottle,Home & Kitchen,5,499,0,0,0,2495,Credit Card,Delivered,Website,Valid
+ORD100653,2025-01-13,CUST1207,52,Other,Patna,Bihar,PRD116,Notebook Pack,Books & Stationery,2,299,15,89.7,60,568.3,Wallet,Delivered,Mobile App,Valid
+ORD100654,2025-11-28,CUST1151,27,Other,Chennai,Tamil Nadu,PRD110,Bedsheet Set,Home & Kitchen,4,1599,10,639.6,0,5756.4,Wallet,Processing,Marketplace,Valid
+ORD100655,2025-08-15,CUST1173,25,Male,Ahmedabad,Gujarat,PRD104,Laptop Stand,Electronics,2,1499,15,449.7,0,2548.3,Net Banking,Delivered,Website,Valid
+ORD100656,2025-07-25,CUST1112,51,Female,Chennai,Tamil Nadu,PRD112,Cookware Set,Home & Kitchen,1,2899,0,0,0,2899,Net Banking,Delivered,Mobile App,Valid
+ORD100657,2025-04-11,CUST1011,30,Male,Noida,Uttar Pradesh,PRD118,Novel,Books & Stationery,3,449,10,134.7,40,1252.3,Cash on Delivery,Processing,Mobile App,Valid
+ORD100658,2025-11-05,CUST1261,41,Female,Delhi,Delhi,PRD112,Cookware Set,Home & Kitchen,1,2899,10,289.9,0,2609.1,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100659,2025-06-26,CUST1179,65,Male,Pune,Maharashtra,PRD115,Sunscreen,Beauty,3,599,0,0,0,1797,Cash on Delivery,Cancelled,Mobile App,Valid
+ORD100660,2025-05-28,CUST1083,31,Male,Indore,Madhya Pradesh,PRD114,Shampoo,Beauty,2,349,5,34.9,80,743.1,Credit Card,Delivered,Mobile App,Valid
+ORD100661,2025-09-26,CUST1171,47,Other,Noida,Uttar Pradesh,PRD113,Face Moisturizer,Beauty,1,699,5,34.95,60,724.05,Net Banking,Delivered,Marketplace,Valid
+ORD100662,2025-03-12,CUST1102,49,Other,Gurugram,Haryana,PRD113,Face Moisturizer,Beauty,1,699,5,34.95,60,724.05,Debit Card,Returned,Marketplace,Valid
+ORD100663,2025-08-26,CUST1114,25,Other,Delhi,Delhi,PRD101,Wireless Mouse,Electronics,1,799,0,0,80,879,Cash on Delivery,Returned,Marketplace,Valid
+ORD100664,2025-05-28,CUST1213,49,Female,Gurugram,Haryana,PRD116,Notebook Pack,Books & Stationery,4,299,10,119.6,40,1116.4,Debit Card,Delivered,Marketplace,Valid
+ORD100665,2025-07-05,CUST1246,41,Other,Jaipur,Rajasthan,PRD114,Shampoo,Beauty,3,349,10,104.7,60,1002.3,UPI,Processing,Marketplace,Valid
+ORD100666,2025-10-22,CUST1008,26,Male,Bhopal,Madhya Pradesh,PRD109,Backpack,Fashion,1,1799,0,0,0,1799,Wallet,Delivered,Website,Valid
+ORD100667,2025-01-28,CUST1139,58,Female,Bengaluru,Karnataka,PRD114,Shampoo,Beauty,2,349,20,139.6,40,598.4,Net Banking,Delivered,Marketplace,Valid
+ORD100668,2025-04-10,CUST1093,61,Male,Indore,Madhya Pradesh,PRD104,Laptop Stand,Electronics,2,1499,0,0,0,2998,Debit Card,Delivered,Mobile App,Valid
+ORD100669,2025-12-17,CUST1185,41,Male,Noida,Uttar Pradesh,PRD118,Novel,Books & Stationery,2,449,15,134.7,40,803.3,Debit Card,Delivered,Mobile App,Valid
+ORD100670,2025-06-24,CUST1083,57,Other,Noida,Uttar Pradesh,PRD107,Jeans,Fashion,1,1299,0,0,40,1339,Net Banking,Cancelled,Marketplace,Valid
+ORD100671,2025-09-30,CUST1058,48,Male,Hyderabad,Telangana,PRD115,Sunscreen,Beauty,4,599,0,0,0,2396,UPI,Delivered,Mobile App,Valid
+ORD100672,2025-12-20,CUST1185,29,Other,Gurugram,Haryana,PRD115,Sunscreen,Beauty,3,599,10,179.7,0,1617.3,Debit Card,Cancelled,Mobile App,Valid
+ORD100673,2025-01-15,CUST1060,31,Female,Mumbai,Maharashtra,PRD105,Smart Watch,Electronics,3,3499,0,0,0,10497,Credit Card,Delivered,Website,Valid
+ORD100674,2025-08-06,CUST1057,20,Other,Noida,Uttar Pradesh,PRD101,Wireless Mouse,Electronics,3,799,10,239.7,0,2157.3,UPI,Delivered,Marketplace,Valid
+ORD100675,2025-10-31,CUST1030,24,Female,Chennai,Tamil Nadu,PRD104,Laptop Stand,Electronics,4,1499,0,0,0,5996,UPI,Delivered,Marketplace,Valid
+ORD100676,2025-04-16,CUST1102,55,Male,Gurugram,Haryana,PRD112,Cookware Set,Home & Kitchen,1,2899,0,0,0,2899,Debit Card,Cancelled,Mobile App,Valid
+ORD100677,2025-03-24,CUST1256,51,Female,Indore,Madhya Pradesh,PRD108,Running Shoes,Fashion,1,2499,0,0,0,2499,UPI,Returned,Marketplace,Valid
+ORD100678,2025-04-09,CUST1144,48,Male,Gurugram,Haryana,PRD118,Novel,Books & Stationery,1,449,10,44.9,40,444.1,Wallet,Shipped,Marketplace,Valid
+ORD100679,2025-10-29,CUST1094,32,Male,Chennai,Tamil Nadu,PRD104,Laptop Stand,Electronics,1,1499,5,74.95,60,1484.05,Net Banking,Delivered,Website,Valid
+ORD100680,2025-06-10,CUST1063,64,Female,Chennai,Tamil Nadu,PRD104,Laptop Stand,Electronics,1,1499,5,74.95,60,1484.05,Net Banking,Delivered,Website,Valid
+ORD100681,2025-06-17,CUST1252,32,Other,Noida,Uttar Pradesh,PRD113,Face Moisturizer,Beauty,1,699,10,69.9,60,689.1,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100682,2025-05-29,CUST1219,61,Male,Mumbai,Maharashtra,PRD103,USB-C Cable,Electronics,3,399,15,179.55,80,1097.45,UPI,Delivered,Marketplace,Valid
+ORD100683,2025-02-23,CUST1202,55,Female,Chennai,Tamil Nadu,PRD117,Desk Organizer,Books & Stationery,2,649,0,0,40,1338,Wallet,Delivered,Marketplace,Valid
+ORD100684,2025-03-28,CUST1033,64,Male,Bengaluru,Karnataka,PRD107,Jeans,Fashion,1,1299,10,129.9,60,1229.1,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100685,2025-10-25,CUST1139,35,Female,Indore,Madhya Pradesh,PRD113,Face Moisturizer,Beauty,1,699,10,69.9,60,689.1,Net Banking,Processing,Mobile App,Valid
+ORD100686,2025-02-25,CUST1062,21,Female,Pune,Maharashtra,PRD116,Notebook Pack,Books & Stationery,1,299,10,29.9,40,309.1,Wallet,Delivered,Mobile App,Valid
+ORD100687,2025-12-14,CUST1013,22,Other,Gurugram,Haryana,PRD113,Face Moisturizer,Beauty,2,699,0,0,60,1458,UPI,Delivered,Marketplace,Valid
+ORD100688,2025-09-10,CUST1238,52,Other,Mumbai,Maharashtra,PRD110,Bedsheet Set,Home & Kitchen,2,1599,5,159.9,0,3038.1,Debit Card,Delivered,Website,Valid
+ORD100689,2025-01-17,CUST1220,20,Female,Patna,Bihar,PRD104,Laptop Stand,Electronics,1,1499,0,0,60,1559,UPI,Delivered,Marketplace,Valid
+ORD100690,2025-12-04,CUST1155,54,Other,Patna,Bihar,PRD106,Cotton T-Shirt,Fashion,1,599,0,0,80,679,UPI,Delivered,Mobile App,Valid
+ORD100691,2025-12-04,CUST1276,49,Other,Jaipur,Rajasthan,PRD116,Notebook Pack,Books & Stationery,1,299,15,44.85,80,334.15,Debit Card,Delivered,Mobile App,Valid
+ORD100692,2025-11-12,CUST1180,40,Other,Indore,Madhya Pradesh,PRD110,Bedsheet Set,Home & Kitchen,1,1599,0,0,0,1599,Debit Card,Delivered,Marketplace,Valid
+ORD100693,2025-01-14,CUST1174,33,Female,Hyderabad,Telangana,PRD104,Laptop Stand,Electronics,1,1499,20,299.8,60,1259.2,Wallet,Delivered,Website,Valid
+ORD100694,2025-11-28,CUST1159,28,Female,Jaipur,Rajasthan,PRD103,USB-C Cable,Electronics,4,399,0,0,0,1596,Debit Card,Delivered,Marketplace,Valid
+ORD100695,2025-06-16,CUST1019,55,Female,Chennai,Tamil Nadu,PRD114,Shampoo,Beauty,2,349,15,104.7,60,653.3,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100696,2025-07-13,CUST1199,49,Other,Bengaluru,Karnataka,PRD104,Laptop Stand,Electronics,3,1499,0,0,0,4497,Debit Card,Delivered,Marketplace,Valid
+ORD100697,2025-06-23,CUST1085,52,Female,Jaipur,Rajasthan,PRD110,Bedsheet Set,Home & Kitchen,1,1599,5,79.95,0,1519.05,UPI,Delivered,Mobile App,Valid
+ORD100698,2025-05-16,CUST1024,55,Female,Pune,Maharashtra,PRD113,Face Moisturizer,Beauty,3,699,10,209.7,0,1887.3,Wallet,Processing,Marketplace,Valid
+ORD100699,2025-06-22,CUST1139,50,Male,Noida,Uttar Pradesh,PRD117,Desk Organizer,Books & Stationery,1,649,0,0,40,689,Debit Card,Delivered,Mobile App,Valid
+ORD100700,2025-12-06,CUST1276,29,Female,Bengaluru,Karnataka,PRD107,Jeans,Fashion,1,1299,0,0,80,1379,Net Banking,Delivered,Marketplace,Valid
+ORD100701,2025-12-27,CUST1264,58,Other,Bhopal,Madhya Pradesh,PRD106,Cotton T-Shirt,Fashion,2,599,0,0,80,1278,Debit Card,Shipped,Marketplace,Valid
+ORD100702,2025-08-11,CUST1030,45,Male,Kolkata,West Bengal,PRD107,Jeans,Fashion,1,1299,0,0,40,1339,Debit Card,Cancelled,Mobile App,Valid
+ORD100703,2025-02-02,CUST1104,33,Male,Bhopal,Madhya Pradesh,PRD114,Shampoo,Beauty,1,349,0,0,40,389,Net Banking,Delivered,Website,Valid
+ORD100704,2025-02-28,CUST1076,45,Other,Mumbai,Maharashtra,PRD101,Wireless Mouse,Electronics,1,799,15,119.85,60,739.15,Cash on Delivery,Delivered,Website,Valid
+ORD100705,2025-04-14,CUST1081,29,Other,Pune,Maharashtra,PRD105,Smart Watch,Electronics,1,3499,10,349.9,0,3149.1,Net Banking,Delivered,Website,Valid
+ORD100706,2025-09-06,CUST1010,41,Other,Delhi,Delhi,PRD103,USB-C Cable,Electronics,1,399,0,0,40,439,Cash on Delivery,Shipped,Marketplace,Valid
+ORD100707,2025-02-16,CUST1203,51,Other,Bhopal,Madhya Pradesh,PRD105,Smart Watch,Electronics,1,3499,10,349.9,0,3149.1,UPI,Delivered,Marketplace,Valid
+ORD100708,2025-09-26,CUST1128,65,Male,Chennai,Tamil Nadu,PRD103,USB-C Cable,Electronics,1,399,0,0,60,459,Net Banking,Delivered,Marketplace,Valid
+ORD100709,2025-05-01,CUST1216,34,Other,Mumbai,Maharashtra,PRD105,Smart Watch,Electronics,1,3499,0,0,0,3499,Cash on Delivery,Delivered,Website,Valid
+ORD100710,2025-09-09,CUST1273,27,Male,Bengaluru,Karnataka,PRD104,Laptop Stand,Electronics,1,1499,5,74.95,80,1504.05,Debit Card,Delivered,Mobile App,Valid
+ORD100711,2025-07-08,CUST1157,60,Female,Delhi,Delhi,PRD102,Bluetooth Speaker,Electronics,3,2199,10,659.7,0,5937.3,Wallet,Shipped,Mobile App,Valid
+ORD100712,2025-10-10,CUST1196,46,Male,Pune,Maharashtra,PRD112,Cookware Set,Home & Kitchen,4,2899,10,1159.6,0,10436.4,Credit Card,Delivered,Website,Valid
+ORD100713,2025-07-21,CUST1130,46,Other,Pune,Maharashtra,PRD103,USB-C Cable,Electronics,4,399,10,159.6,60,1496.4,Credit Card,Delivered,Mobile App,Valid
+ORD100714,2025-11-26,CUST1208,48,Other,Indore,Madhya Pradesh,PRD102,Bluetooth Speaker,Electronics,1,2199,0,0,0,2199,Cash on Delivery,Cancelled,Mobile App,Valid
+ORD100715,2025-06-20,CUST1216,44,Other,Patna,Bihar,PRD104,Laptop Stand,Electronics,3,1499,10,449.7,0,4047.3,Debit Card,Delivered,Marketplace,Valid
+ORD100716,2025-10-08,CUST1167,26,Female,Chennai,Tamil Nadu,PRD101,Wireless Mouse,Electronics,2,799,10,159.8,40,1478.2,Wallet,Delivered,Mobile App,Valid
+ORD100717,2025-04-13,CUST1156,26,Other,Bengaluru,Karnataka,PRD103,USB-C Cable,Electronics,1,399,0,0,80,479,Wallet,Processing,Marketplace,Valid
+ORD100718,2025-07-30,CUST1163,36,Female,Chennai,Tamil Nadu,PRD116,Notebook Pack,Books & Stationery,3,299,0,0,40,937,Debit Card,Delivered,Website,Valid
+ORD100719,2025-08-01,CUST1188,19,Female,Gurugram,Haryana,PRD113,Face Moisturizer,Beauty,3,699,15,314.55,0,1782.45,Credit Card,Shipped,Marketplace,Valid
+ORD100720,2025-11-28,CUST1117,21,Male,Patna,Bihar,PRD103,USB-C Cable,Electronics,5,399,0,0,0,1995,Credit Card,Delivered,Marketplace,Valid
+ORD100721,2025-08-08,CUST1133,63,Other,Gurugram,Haryana,PRD103,USB-C Cable,Electronics,4,399,0,0,0,1596,UPI,Delivered,Mobile App,Valid
+ORD100722,2025-08-21,CUST1253,36,Other,Noida,Uttar Pradesh,PRD108,Running Shoes,Fashion,2,2499,0,0,0,4998,Debit Card,Returned,Mobile App,Valid
+ORD100723,2025-07-15,CUST1066,30,Male,Hyderabad,Telangana,PRD107,Jeans,Fashion,2,1299,20,519.6,0,2078.4,Wallet,Delivered,Website,Valid
+ORD100724,2025-07-29,CUST1074,41,Other,Delhi,Delhi,PRD110,Bedsheet Set,Home & Kitchen,5,1599,0,0,0,7995,Credit Card,Delivered,Marketplace,Valid
+ORD100725,2025-11-28,CUST1234,63,Male,Noida,Uttar Pradesh,PRD101,Wireless Mouse,Electronics,1,799,15,119.85,80,759.15,Credit Card,Delivered,Marketplace,Valid
+ORD100726,2025-08-05,CUST1131,40,Other,Noida,Uttar Pradesh,PRD104,Laptop Stand,Electronics,2,1499,0,0,0,2998,Cash on Delivery,Shipped,Marketplace,Valid
+ORD100727,2025-11-03,CUST1023,41,Female,Delhi,Delhi,PRD109,Backpack,Fashion,1,1799,5,89.95,0,1709.05,Wallet,Processing,Marketplace,Valid
+ORD100728,2025-01-22,CUST1091,63,Other,Pune,Maharashtra,PRD106,Cotton T-Shirt,Fashion,1,599,15,89.85,60,569.15,Debit Card,Delivered,Mobile App,Valid
+ORD100729,2025-03-14,CUST1133,36,Male,Noida,Uttar Pradesh,PRD111,Water Bottle,Home & Kitchen,1,499,0,0,60,559,Cash on Delivery,Cancelled,Marketplace,Valid
+ORD100730,2025-05-16,CUST1264,53,Other,Bengaluru,Karnataka,PRD114,Shampoo,Beauty,3,349,0,0,60,1107,Credit Card,Cancelled,Marketplace,Valid
+ORD100731,2025-08-14,CUST1027,63,Male,Mumbai,Maharashtra,PRD105,Smart Watch,Electronics,1,3499,0,0,0,3499,Credit Card,Delivered,Mobile App,Valid
+ORD100732,2025-03-01,CUST1253,64,Female,Delhi,Delhi,PRD115,Sunscreen,Beauty,1,599,10,59.9,60,599.1,UPI,Delivered,Website,Valid
+ORD100733,2025-06-28,CUST1047,54,Other,Mumbai,Maharashtra,PRD110,Bedsheet Set,Home & Kitchen,1,1599,0,0,0,1599,Debit Card,Delivered,Marketplace,Valid
+ORD100734,2025-04-19,CUST1002,19,Male,Kolkata,West Bengal,PRD106,Cotton T-Shirt,Fashion,1,599,0,0,60,659,Debit Card,Delivered,Marketplace,Valid
+ORD100735,2025-12-15,CUST1062,19,Female,Hyderabad,Telangana,PRD112,Cookware Set,Home & Kitchen,2,2899,20,1159.6,0,4638.4,Credit Card,Returned,Mobile App,Valid
+ORD100736,2025-12-29,CUST1245,57,Male,Chennai,Tamil Nadu,PRD109,Backpack,Fashion,2,1799,0,0,0,3598,Wallet,Processing,Mobile App,Valid
+ORD100737,2025-10-19,CUST1066,22,Other,Mumbai,Maharashtra,PRD102,Bluetooth Speaker,Electronics,3,2199,0,0,0,6597,Wallet,Cancelled,Marketplace,Valid
+ORD100738,2025-07-15,CUST1047,28,Male,Hyderabad,Telangana,PRD109,Backpack,Fashion,1,1799,20,359.8,60,1499.2,Credit Card,Delivered,Mobile App,Valid
+ORD100739,2025-05-26,CUST1078,61,Other,Noida,Uttar Pradesh,PRD110,Bedsheet Set,Home & Kitchen,1,1599,5,79.95,0,1519.05,Debit Card,Returned,Website,Valid
+ORD100740,2025-07-03,CUST1049,35,Other,Bhopal,Madhya Pradesh,PRD112,Cookware Set,Home & Kitchen,1,2899,5,144.95,0,2754.05,Cash on Delivery,Shipped,Marketplace,Valid
+ORD100741,2025-08-05,CUST1046,20,Other,Indore,Madhya Pradesh,PRD114,Shampoo,Beauty,3,349,10,104.7,60,1002.3,UPI,Delivered,Mobile App,Valid
+ORD100742,2025-08-26,CUST1114,36,Male,Lucknow,Uttar Pradesh,PRD105,Smart Watch,Electronics,4,3499,5,699.8,0,13296.2,UPI,Delivered,Mobile App,Valid
+ORD100743,2025-02-10,CUST1244,51,Male,Pune,Maharashtra,PRD105,Smart Watch,Electronics,5,3499,10,1749.5,0,15745.5,Credit Card,Delivered,Mobile App,Valid
+ORD100744,2025-10-19,CUST1024,24,Male,Kolkata,West Bengal,PRD103,USB-C Cable,Electronics,4,399,5,79.8,0,1516.2,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100745,2025-10-19,CUST1129,60,Male,Bengaluru,Karnataka,PRD109,Backpack,Fashion,2,1799,10,359.8,0,3238.2,Wallet,Delivered,Website,Valid
+ORD100746,2025-04-04,CUST1201,60,Male,Delhi,Delhi,PRD103,USB-C Cable,Electronics,1,399,10,39.9,60,419.1,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100747,2025-05-16,CUST1174,24,Male,Patna,Bihar,PRD106,Cotton T-Shirt,Fashion,1,599,0,0,80,679,Wallet,Delivered,Marketplace,Valid
+ORD100748,2025-01-10,CUST1002,65,Other,Hyderabad,Telangana,PRD104,Laptop Stand,Electronics,1,1499,10,149.9,60,1409.1,Wallet,Delivered,Marketplace,Valid
+ORD100749,2025-09-07,CUST1155,23,Female,Jaipur,Rajasthan,PRD112,Cookware Set,Home & Kitchen,2,2899,20,1159.6,0,4638.4,Debit Card,Delivered,Website,Valid
+ORD100750,2025-01-08,CUST1097,59,Female,Noida,Uttar Pradesh,PRD101,Wireless Mouse,Electronics,2,799,0,0,0,1598,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100751,2025-05-04,CUST1223,19,Female,Bhopal,Madhya Pradesh,PRD118,Novel,Books & Stationery,1,449,0,0,60,509,Cash on Delivery,Delivered,Website,Valid
+ORD100752,2025-03-20,CUST1227,43,Female,Chennai,Tamil Nadu,PRD116,Notebook Pack,Books & Stationery,1,299,5,14.95,40,324.05,Net Banking,Delivered,Mobile App,Valid
+ORD100753,2025-01-05,CUST1052,53,Male,Lucknow,Uttar Pradesh,PRD114,Shampoo,Beauty,5,349,15,261.75,80,1563.25,Wallet,Delivered,Website,Valid
+ORD100754,2025-09-07,CUST1204,32,Other,Chennai,Tamil Nadu,PRD117,Desk Organizer,Books & Stationery,2,649,10,129.8,80,1248.2,Cash on Delivery,Shipped,Website,Valid
+ORD100755,2025-09-28,CUST1009,25,Male,Hyderabad,Telangana,PRD111,Water Bottle,Home & Kitchen,2,499,0,0,80,1078,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100756,2025-11-27,CUST1177,32,Other,Chennai,Tamil Nadu,PRD114,Shampoo,Beauty,1,349,0,0,40,389,Cash on Delivery,Delivered,Website,Valid
+ORD100757,2025-10-28,CUST1173,61,Other,Patna,Bihar,PRD115,Sunscreen,Beauty,1,599,0,0,80,679,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100758,2025-07-04,CUST1241,26,Female,Indore,Madhya Pradesh,PRD106,Cotton T-Shirt,Fashion,2,599,0,0,80,1278,Cash on Delivery,Delivered,Website,Valid
+ORD100759,2025-03-22,CUST1251,19,Male,Noida,Uttar Pradesh,PRD114,Shampoo,Beauty,4,349,5,69.8,40,1366.2,UPI,Delivered,Mobile App,Valid
+ORD100760,2025-07-02,CUST1081,25,Other,Gurugram,Haryana,PRD117,Desk Organizer,Books & Stationery,1,649,0,0,60,709,Credit Card,Delivered,Website,Valid
+ORD100761,2025-09-07,CUST1132,62,Other,Bengaluru,Karnataka,PRD112,Cookware Set,Home & Kitchen,2,2899,10,579.8,0,5218.2,Credit Card,Delivered,Marketplace,Valid
+ORD100762,2025-12-09,CUST1053,24,Other,Ahmedabad,Gujarat,PRD102,Bluetooth Speaker,Electronics,4,2199,5,439.8,0,8356.2,UPI,Delivered,Marketplace,Valid
+ORD100763,2025-02-22,CUST1021,64,Male,Kolkata,West Bengal,PRD104,Laptop Stand,Electronics,1,1499,0,0,40,1539,Credit Card,Shipped,Marketplace,Valid
+ORD100764,2025-08-15,CUST1259,46,Male,Chennai,Tamil Nadu,PRD104,Laptop Stand,Electronics,1,1499,5,74.95,40,1464.05,Credit Card,Delivered,Website,Valid
+ORD100765,2025-05-06,CUST1242,41,Other,Bengaluru,Karnataka,PRD110,Bedsheet Set,Home & Kitchen,1,1599,0,0,0,1599,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100766,2025-05-06,CUST1077,47,Other,Indore,Madhya Pradesh,PRD117,Desk Organizer,Books & Stationery,1,649,0,0,60,709,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100767,2025-07-05,CUST1015,23,Male,Chennai,Tamil Nadu,PRD105,Smart Watch,Electronics,3,3499,10,1049.7,0,9447.3,UPI,Delivered,Mobile App,Valid
+ORD100768,2025-07-25,CUST1084,54,Female,Hyderabad,Telangana,PRD102,Bluetooth Speaker,Electronics,1,2199,0,0,0,2199,Credit Card,Shipped,Marketplace,Valid
+ORD100769,2025-12-05,CUST1266,65,Male,Pune,Maharashtra,PRD114,Shampoo,Beauty,1,349,10,34.9,80,394.1,Wallet,Shipped,Mobile App,Valid
+ORD100770,2025-01-05,CUST1143,52,Other,Patna,Bihar,PRD117,Desk Organizer,Books & Stationery,2,649,0,0,60,1358,Credit Card,Delivered,Marketplace,Valid
+ORD100771,2025-11-30,CUST1226,37,Female,Ahmedabad,Gujarat,PRD112,Cookware Set,Home & Kitchen,3,2899,10,869.7,0,7827.3,Credit Card,Delivered,Website,Valid
+ORD100772,2025-10-03,CUST1171,53,Male,Hyderabad,Telangana,PRD105,Smart Watch,Electronics,2,3499,5,349.9,0,6648.1,Net Banking,Delivered,Marketplace,Valid
+ORD100773,2025-06-24,CUST1081,64,Male,Delhi,Delhi,PRD101,Wireless Mouse,Electronics,3,799,5,119.85,0,2277.15,Debit Card,Delivered,Marketplace,Valid
+ORD100774,2025-02-26,CUST1030,25,Male,Bhopal,Madhya Pradesh,PRD112,Cookware Set,Home & Kitchen,1,2899,5,144.95,0,2754.05,Wallet,Delivered,Mobile App,Valid
+ORD100775,2025-10-21,CUST1002,63,Other,Chennai,Tamil Nadu,PRD111,Water Bottle,Home & Kitchen,5,499,15,374.25,0,2120.75,Net Banking,Processing,Marketplace,Valid
+ORD100776,2025-10-01,CUST1119,63,Male,Bengaluru,Karnataka,PRD110,Bedsheet Set,Home & Kitchen,1,1599,10,159.9,80,1519.1,Credit Card,Delivered,Marketplace,Valid
+ORD100777,2025-05-07,CUST1053,63,Male,Bengaluru,Karnataka,PRD117,Desk Organizer,Books & Stationery,2,649,15,194.7,60,1163.3,Credit Card,Delivered,Mobile App,Valid
+ORD100778,2025-02-11,CUST1047,51,Male,Delhi,Delhi,PRD114,Shampoo,Beauty,3,349,5,52.35,60,1054.65,Wallet,Delivered,Marketplace,Valid
+ORD100779,2025-10-14,CUST1265,62,Male,Indore,Madhya Pradesh,PRD113,Face Moisturizer,Beauty,3,699,10,209.7,0,1887.3,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100780,2025-08-02,CUST1083,51,Female,Gurugram,Haryana,PRD117,Desk Organizer,Books & Stationery,1,649,10,64.9,40,624.1,Net Banking,Processing,Marketplace,Valid
+ORD100781,2025-04-19,CUST1233,56,Male,Chennai,Tamil Nadu,PRD102,Bluetooth Speaker,Electronics,2,2199,15,659.7,0,3738.3,UPI,Delivered,Website,Valid
+ORD100782,2025-03-03,CUST1189,37,Male,Jaipur,Rajasthan,PRD110,Bedsheet Set,Home & Kitchen,1,1599,0,0,0,1599,Debit Card,Delivered,Mobile App,Valid
+ORD100783,2025-01-15,CUST1073,49,Female,Gurugram,Haryana,PRD114,Shampoo,Beauty,1,349,15,52.35,60,356.65,Wallet,Delivered,Website,Valid
+ORD100784,2025-10-08,CUST1178,42,Male,Noida,Uttar Pradesh,PRD102,Bluetooth Speaker,Electronics,1,2199,10,219.9,0,1979.1,Debit Card,Delivered,Marketplace,Valid
+ORD100785,2025-11-07,CUST1067,27,Other,Indore,Madhya Pradesh,PRD105,Smart Watch,Electronics,1,3499,5,174.95,0,3324.05,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100786,2025-02-15,CUST1209,46,Other,Hyderabad,Telangana,PRD108,Running Shoes,Fashion,4,2499,0,0,0,9996,Wallet,Delivered,Mobile App,Valid
+ORD100787,2025-11-27,CUST1045,25,Other,Bhopal,Madhya Pradesh,PRD106,Cotton T-Shirt,Fashion,2,599,10,119.8,80,1158.2,Wallet,Delivered,Marketplace,Valid
+ORD100788,2025-02-13,CUST1098,50,Female,Jaipur,Rajasthan,PRD118,Novel,Books & Stationery,2,449,0,0,80,978,Cash on Delivery,Delivered,Website,Valid
+ORD100789,2025-12-04,CUST1272,46,Female,Gurugram,Haryana,PRD101,Wireless Mouse,Electronics,1,799,0,0,80,879,Net Banking,Returned,Marketplace,Valid
+ORD100790,2025-11-07,CUST1164,44,Female,Hyderabad,Telangana,PRD102,Bluetooth Speaker,Electronics,1,2199,15,329.85,0,1869.15,Credit Card,Delivered,Marketplace,Valid
+ORD100791,2025-06-12,CUST1195,34,Female,Pune,Maharashtra,PRD103,USB-C Cable,Electronics,1,399,0,0,40,439,Credit Card,Delivered,Website,Valid
+ORD100792,2025-06-07,CUST1208,37,Male,Lucknow,Uttar Pradesh,PRD106,Cotton T-Shirt,Fashion,1,599,20,119.8,40,519.2,UPI,Delivered,Website,Valid
+ORD100793,2025-06-13,CUST1072,56,Other,Hyderabad,Telangana,PRD111,Water Bottle,Home & Kitchen,1,499,15,74.85,40,464.15,Credit Card,Delivered,Website,Valid
+ORD100794,2025-09-10,CUST1260,44,Female,Indore,Madhya Pradesh,PRD117,Desk Organizer,Books & Stationery,1,649,0,0,40,689,Net Banking,Delivered,Mobile App,Valid
+ORD100795,2025-01-15,CUST1208,61,Female,Lucknow,Uttar Pradesh,PRD108,Running Shoes,Fashion,4,2499,0,0,0,9996,Net Banking,Delivered,Website,Valid
+ORD100796,2025-10-12,CUST1064,41,Other,Pune,Maharashtra,PRD114,Shampoo,Beauty,1,349,15,52.35,80,376.65,Credit Card,Delivered,Website,Valid
+ORD100797,2025-05-06,CUST1275,36,Other,Hyderabad,Telangana,PRD118,Novel,Books & Stationery,1,449,0,0,60,509,Net Banking,Processing,Website,Valid
+ORD100798,2025-01-01,CUST1030,58,Female,Patna,Bihar,PRD116,Notebook Pack,Books & Stationery,1,299,0,0,80,379,Debit Card,Delivered,Marketplace,Valid
+ORD100799,2025-09-19,CUST1144,25,Female,Delhi,Delhi,PRD106,Cotton T-Shirt,Fashion,2,599,10,119.8,60,1138.2,Wallet,Delivered,Marketplace,Valid
+ORD100800,2025-10-12,CUST1143,58,Male,Patna,Bihar,PRD114,Shampoo,Beauty,1,349,5,17.45,60,391.55,Debit Card,Shipped,Marketplace,Valid
+ORD100801,2025-08-20,CUST1139,26,Other,Mumbai,Maharashtra,PRD111,Water Bottle,Home & Kitchen,1,499,5,24.95,80,554.05,Wallet,Delivered,Website,Valid
+ORD100802,2025-11-08,CUST1243,49,Male,Delhi,Delhi,PRD101,Wireless Mouse,Electronics,2,799,5,79.9,0,1518.1,Wallet,Shipped,Marketplace,Valid
+ORD100803,2025-02-11,CUST1039,40,Male,Kolkata,West Bengal,PRD101,Wireless Mouse,Electronics,3,799,15,359.55,0,2037.45,UPI,Delivered,Marketplace,Valid
+ORD100804,2025-07-03,CUST1198,65,Female,Gurugram,Haryana,PRD101,Wireless Mouse,Electronics,1,799,5,39.95,40,799.05,Credit Card,Delivered,Mobile App,Valid
+ORD100805,2025-12-15,CUST1183,41,Female,Mumbai,Maharashtra,PRD103,USB-C Cable,Electronics,3,399,10,119.7,80,1157.3,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100806,2025-09-10,CUST1107,54,Other,Delhi,Delhi,PRD107,Jeans,Fashion,5,1299,10,649.5,0,5845.5,Debit Card,Delivered,Mobile App,Valid
+ORD100807,2025-03-29,CUST1099,32,Other,Lucknow,Uttar Pradesh,PRD106,Cotton T-Shirt,Fashion,1,599,0,0,40,639,Net Banking,Delivered,Marketplace,Valid
+ORD100808,2025-05-21,CUST1098,61,Other,Bhopal,Madhya Pradesh,PRD101,Wireless Mouse,Electronics,5,799,10,399.5,0,3595.5,Debit Card,Delivered,Mobile App,Valid
+ORD100809,2025-01-02,CUST1218,35,Female,Lucknow,Uttar Pradesh,PRD102,Bluetooth Speaker,Electronics,3,2199,0,0,0,6597,Cash on Delivery,Returned,Marketplace,Valid
+ORD100810,2025-09-23,CUST1238,35,Male,Chennai,Tamil Nadu,PRD112,Cookware Set,Home & Kitchen,1,2899,0,0,0,2899,UPI,Cancelled,Marketplace,Valid
+ORD100811,2025-08-18,CUST1161,32,Other,Delhi,Delhi,PRD113,Face Moisturizer,Beauty,1,699,0,0,80,779,Wallet,Returned,Mobile App,Valid
+ORD100812,2025-02-08,CUST1127,45,Female,Mumbai,Maharashtra,PRD106,Cotton T-Shirt,Fashion,1,599,0,0,80,679,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100813,2025-11-17,CUST1171,39,Other,Bhopal,Madhya Pradesh,PRD109,Backpack,Fashion,1,1799,5,89.95,0,1709.05,UPI,Processing,Website,Valid
+ORD100814,2025-02-07,CUST1224,20,Male,Indore,Madhya Pradesh,PRD104,Laptop Stand,Electronics,2,1499,10,299.8,0,2698.2,UPI,Delivered,Mobile App,Valid
+ORD100815,2025-12-22,CUST1033,58,Male,Indore,Madhya Pradesh,PRD105,Smart Watch,Electronics,1,3499,15,524.85,0,2974.15,Net Banking,Delivered,Website,Valid
+ORD100816,2025-02-22,CUST1028,32,Other,Kolkata,West Bengal,PRD102,Bluetooth Speaker,Electronics,1,2199,5,109.95,0,2089.05,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100817,2025-11-16,CUST1005,59,Other,Chennai,Tamil Nadu,PRD113,Face Moisturizer,Beauty,1,699,5,34.95,80,744.05,Debit Card,Delivered,Website,Valid
+ORD100818,2025-08-21,CUST1264,54,Female,Bengaluru,Karnataka,PRD107,Jeans,Fashion,1,1299,0,0,80,1379,Credit Card,Delivered,Marketplace,Valid
+ORD100819,2025-09-18,CUST1131,21,Female,Bengaluru,Karnataka,PRD114,Shampoo,Beauty,1,349,10,34.9,40,354.1,UPI,Delivered,Mobile App,Valid
+ORD100820,2025-10-27,CUST1223,48,Male,Kolkata,West Bengal,PRD112,Cookware Set,Home & Kitchen,1,2899,15,434.85,0,2464.15,Credit Card,Cancelled,Marketplace,Valid
+ORD100821,2025-06-25,CUST1149,53,Female,Bengaluru,Karnataka,PRD101,Wireless Mouse,Electronics,1,799,10,79.9,40,759.1,Net Banking,Delivered,Mobile App,Valid
+ORD100822,2025-06-26,CUST1100,62,Male,Mumbai,Maharashtra,PRD107,Jeans,Fashion,3,1299,0,0,0,3897,Wallet,Delivered,Marketplace,Valid
+ORD100823,2025-12-21,CUST1169,49,Female,Bhopal,Madhya Pradesh,PRD111,Water Bottle,Home & Kitchen,2,499,5,49.9,40,988.1,UPI,Delivered,Website,Valid
+ORD100824,2025-11-24,CUST1114,65,Male,Ahmedabad,Gujarat,PRD108,Running Shoes,Fashion,1,2499,0,0,0,2499,Debit Card,Delivered,Website,Valid
+ORD100825,2025-07-24,CUST1094,36,Male,Bhopal,Madhya Pradesh,PRD101,Wireless Mouse,Electronics,1,799,0,0,40,839,Credit Card,Delivered,Website,Valid
+ORD100826,2025-11-20,CUST1184,29,Male,Delhi,Delhi,PRD101,Wireless Mouse,Electronics,1,799,0,0,40,839,Wallet,Shipped,Marketplace,Valid
+ORD100827,2025-05-06,CUST1091,26,Male,Mumbai,Maharashtra,PRD101,Wireless Mouse,Electronics,1,799,0,0,40,839,Wallet,Delivered,Marketplace,Valid
+ORD100828,2025-02-26,CUST1173,57,Male,Patna,Bihar,PRD107,Jeans,Fashion,1,1299,0,0,60,1359,Net Banking,Delivered,Marketplace,Valid
+ORD100829,2025-02-03,CUST1060,38,Other,Gurugram,Haryana,PRD105,Smart Watch,Electronics,3,3499,0,0,0,10497,Debit Card,Delivered,Mobile App,Valid
+ORD100830,2025-11-22,CUST1125,27,Male,Patna,Bihar,PRD102,Bluetooth Speaker,Electronics,2,2199,10,439.8,0,3958.2,Debit Card,Returned,Website,Valid
+ORD100831,2025-01-28,CUST1143,64,Female,Bhopal,Madhya Pradesh,PRD105,Smart Watch,Electronics,3,3499,20,2099.4,0,8397.6,Credit Card,Shipped,Mobile App,Valid
+ORD100832,2025-12-06,CUST1033,47,Female,Gurugram,Haryana,PRD117,Desk Organizer,Books & Stationery,1,649,15,97.35,80,631.65,Net Banking,Delivered,Mobile App,Valid
+ORD100833,2025-12-31,CUST1191,55,Other,Kolkata,West Bengal,PRD116,Notebook Pack,Books & Stationery,2,299,5,29.9,60,628.1,Wallet,Delivered,Website,Valid
+ORD100834,2025-04-17,CUST1112,54,Female,Patna,Bihar,PRD107,Jeans,Fashion,1,1299,0,0,40,1339,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100835,2025-05-11,CUST1043,50,Other,Gurugram,Haryana,PRD103,USB-C Cable,Electronics,1,399,5,19.95,40,419.05,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100836,2025-08-07,CUST1230,29,Male,Chennai,Tamil Nadu,PRD114,Shampoo,Beauty,1,349,15,52.35,60,356.65,UPI,Delivered,Website,Valid
+ORD100837,2025-05-16,CUST1038,32,Female,Bengaluru,Karnataka,PRD103,USB-C Cable,Electronics,1,399,5,19.95,80,459.05,Debit Card,Delivered,Website,Valid
+ORD100838,2025-02-06,CUST1184,61,Male,Delhi,Delhi,PRD118,Novel,Books & Stationery,1,449,0,0,60,509,Wallet,Delivered,Website,Valid
+ORD100839,2025-12-28,CUST1070,43,Male,Bhopal,Madhya Pradesh,PRD118,Novel,Books & Stationery,4,449,0,0,0,1796,Debit Card,Delivered,Marketplace,Valid
+ORD100840,2025-12-02,CUST1006,32,Other,Chennai,Tamil Nadu,PRD117,Desk Organizer,Books & Stationery,5,649,20,649,0,2596,Credit Card,Returned,Marketplace,Valid
+ORD100841,2025-04-18,CUST1242,39,Female,Mumbai,Maharashtra,PRD117,Desk Organizer,Books & Stationery,2,649,10,129.8,60,1228.2,Cash on Delivery,Cancelled,Mobile App,Valid
+ORD100842,2025-04-07,CUST1219,54,Female,Indore,Madhya Pradesh,PRD114,Shampoo,Beauty,1,349,5,17.45,80,411.55,Credit Card,Delivered,Mobile App,Valid
+ORD100843,2025-01-05,CUST1255,62,Other,Indore,Madhya Pradesh,PRD112,Cookware Set,Home & Kitchen,1,2899,5,144.95,0,2754.05,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100844,2025-06-16,CUST1011,54,Other,Jaipur,Rajasthan,PRD102,Bluetooth Speaker,Electronics,4,2199,0,0,0,8796,Debit Card,Processing,Marketplace,Valid
+ORD100845,2025-11-08,CUST1200,24,Male,Hyderabad,Telangana,PRD107,Jeans,Fashion,4,1299,0,0,0,5196,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100846,2025-08-20,CUST1155,49,Female,Noida,Uttar Pradesh,PRD106,Cotton T-Shirt,Fashion,1,599,10,59.9,40,579.1,Net Banking,Returned,Website,Valid
+ORD100847,2025-04-12,CUST1035,21,Male,Patna,Bihar,PRD113,Face Moisturizer,Beauty,1,699,0,0,80,779,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100848,2025-01-06,CUST1087,65,Female,Bengaluru,Karnataka,PRD114,Shampoo,Beauty,1,349,20,69.8,40,319.2,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100849,2025-04-16,CUST1066,54,Male,Bhopal,Madhya Pradesh,PRD107,Jeans,Fashion,1,1299,15,194.85,80,1184.15,Net Banking,Delivered,Marketplace,Valid
+ORD100850,2025-04-14,CUST1257,56,Female,Ahmedabad,Gujarat,PRD115,Sunscreen,Beauty,1,599,0,0,40,639,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100851,2025-06-18,CUST1251,40,Other,Chennai,Tamil Nadu,PRD115,Sunscreen,Beauty,2,599,10,119.8,60,1138.2,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100852,2025-06-02,CUST1200,42,Other,Jaipur,Rajasthan,PRD106,Cotton T-Shirt,Fashion,1,599,0,0,80,679,Cash on Delivery,Cancelled,Website,Valid
+ORD100853,2025-12-24,CUST1048,52,Male,Hyderabad,Telangana,PRD102,Bluetooth Speaker,Electronics,1,2199,15,329.85,0,1869.15,Wallet,Delivered,Marketplace,Valid
+ORD100854,2025-02-04,CUST1111,24,Other,Patna,Bihar,PRD116,Notebook Pack,Books & Stationery,1,299,10,29.9,40,309.1,UPI,Processing,Mobile App,Valid
+ORD100855,2025-07-29,CUST1230,62,Other,Gurugram,Haryana,PRD109,Backpack,Fashion,1,1799,0,0,0,1799,Wallet,Delivered,Marketplace,Valid
+ORD100856,2025-08-25,CUST1195,63,Female,Bengaluru,Karnataka,PRD113,Face Moisturizer,Beauty,3,699,5,104.85,0,1992.15,UPI,Delivered,Mobile App,Valid
+ORD100857,2025-12-10,CUST1237,26,Male,Chennai,Tamil Nadu,PRD115,Sunscreen,Beauty,1,599,5,29.95,40,609.05,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100858,2025-03-24,CUST1087,43,Female,Bhopal,Madhya Pradesh,PRD101,Wireless Mouse,Electronics,2,799,0,0,0,1598,Wallet,Delivered,Website,Valid
+ORD100859,2025-12-10,CUST1005,61,Other,Lucknow,Uttar Pradesh,PRD109,Backpack,Fashion,1,1799,5,89.95,0,1709.05,UPI,Delivered,Website,Valid
+ORD100860,2025-08-15,CUST1024,46,Female,Bhopal,Madhya Pradesh,PRD117,Desk Organizer,Books & Stationery,2,649,10,129.8,40,1208.2,Debit Card,Delivered,Marketplace,Valid
+ORD100861,2025-01-03,CUST1024,23,Female,Indore,Madhya Pradesh,PRD113,Face Moisturizer,Beauty,2,699,15,209.7,60,1248.3,Credit Card,Shipped,Mobile App,Valid
+ORD100862,2025-01-15,CUST1007,60,Female,Bengaluru,Karnataka,PRD107,Jeans,Fashion,2,1299,0,0,0,2598,UPI,Processing,Marketplace,Valid
+ORD100863,2025-03-27,CUST1022,31,Other,Hyderabad,Telangana,PRD117,Desk Organizer,Books & Stationery,1,649,0,0,80,729,Net Banking,Delivered,Mobile App,Valid
+ORD100864,2025-08-08,CUST1061,18,Male,Mumbai,Maharashtra,PRD107,Jeans,Fashion,1,1299,0,0,40,1339,Debit Card,Delivered,Website,Valid
+ORD100865,2025-08-23,CUST1112,44,Male,Noida,Uttar Pradesh,PRD109,Backpack,Fashion,2,1799,5,179.9,0,3418.1,Credit Card,Delivered,Marketplace,Valid
+ORD100866,2025-09-13,CUST1052,56,Male,Ahmedabad,Gujarat,PRD118,Novel,Books & Stationery,3,449,15,202.05,80,1224.95,UPI,Delivered,Marketplace,Valid
+ORD100867,2025-12-23,CUST1198,60,Male,Lucknow,Uttar Pradesh,PRD105,Smart Watch,Electronics,1,3499,10,349.9,0,3149.1,Debit Card,Shipped,Website,Valid
+ORD100868,2025-06-21,CUST1009,18,Female,Jaipur,Rajasthan,PRD115,Sunscreen,Beauty,1,599,10,59.9,40,579.1,Wallet,Delivered,Website,Valid
+ORD100869,2025-11-12,CUST1063,26,Male,Pune,Maharashtra,PRD108,Running Shoes,Fashion,2,2499,10,499.8,0,4498.2,UPI,Delivered,Mobile App,Valid
+ORD100870,2025-06-01,CUST1103,65,Male,Gurugram,Haryana,PRD113,Face Moisturizer,Beauty,1,699,0,0,80,779,Cash on Delivery,Delivered,Website,Valid
+ORD100871,2025-05-23,CUST1162,19,Female,Lucknow,Uttar Pradesh,PRD102,Bluetooth Speaker,Electronics,2,2199,20,879.6,0,3518.4,Debit Card,Delivered,Marketplace,Valid
+ORD100872,2025-06-19,CUST1175,61,Other,Mumbai,Maharashtra,PRD107,Jeans,Fashion,2,1299,15,389.7,0,2208.3,Credit Card,Delivered,Marketplace,Valid
+ORD100873,2025-04-24,CUST1195,30,Female,Kolkata,West Bengal,PRD111,Water Bottle,Home & Kitchen,1,499,10,49.9,40,489.1,UPI,Returned,Marketplace,Valid
+ORD100874,2025-03-14,CUST1104,45,Other,Gurugram,Haryana,PRD103,USB-C Cable,Electronics,1,399,5,19.95,40,419.05,UPI,Delivered,Mobile App,Valid
+ORD100875,2025-06-09,CUST1084,46,Other,Ahmedabad,Gujarat,PRD107,Jeans,Fashion,1,1299,0,0,40,1339,Net Banking,Delivered,Website,Valid
+ORD100876,2025-05-20,CUST1246,57,Other,Noida,Uttar Pradesh,PRD112,Cookware Set,Home & Kitchen,1,2899,0,0,0,2899,Net Banking,Delivered,Mobile App,Valid
+ORD100877,2025-03-21,CUST1246,53,Other,Delhi,Delhi,PRD113,Face Moisturizer,Beauty,1,699,0,0,60,759,Credit Card,Delivered,Website,Valid
+ORD100878,2025-05-12,CUST1194,39,Female,Chennai,Tamil Nadu,PRD110,Bedsheet Set,Home & Kitchen,1,1599,5,79.95,0,1519.05,UPI,Delivered,Marketplace,Valid
+ORD100879,2025-08-29,CUST1100,43,Male,Gurugram,Haryana,PRD107,Jeans,Fashion,1,1299,15,194.85,80,1184.15,Cash on Delivery,Cancelled,Mobile App,Valid
+ORD100880,2025-07-11,CUST1196,25,Male,Chennai,Tamil Nadu,PRD110,Bedsheet Set,Home & Kitchen,2,1599,10,319.8,0,2878.2,UPI,Delivered,Marketplace,Valid
+ORD100881,2025-03-25,CUST1099,49,Other,Indore,Madhya Pradesh,PRD114,Shampoo,Beauty,4,349,10,139.6,80,1336.4,Wallet,Delivered,Marketplace,Valid
+ORD100882,2025-07-08,CUST1029,41,Other,Lucknow,Uttar Pradesh,PRD113,Face Moisturizer,Beauty,4,699,10,279.6,0,2516.4,UPI,Delivered,Marketplace,Valid
+ORD100883,2025-12-13,CUST1014,33,Other,Ahmedabad,Gujarat,PRD105,Smart Watch,Electronics,1,3499,5,174.95,0,3324.05,Debit Card,Delivered,Marketplace,Valid
+ORD100884,2025-12-06,CUST1082,63,Other,Delhi,Delhi,PRD104,Laptop Stand,Electronics,3,1499,10,449.7,0,4047.3,Cash on Delivery,Shipped,Website,Valid
+ORD100885,2025-09-23,CUST1096,60,Male,Patna,Bihar,PRD114,Shampoo,Beauty,1,349,5,17.45,80,411.55,Net Banking,Delivered,Marketplace,Valid
+ORD100886,2025-06-07,CUST1210,65,Female,Indore,Madhya Pradesh,PRD103,USB-C Cable,Electronics,1,399,10,39.9,60,419.1,Debit Card,Returned,Marketplace,Valid
+ORD100887,2025-07-23,CUST1157,44,Other,Delhi,Delhi,PRD106,Cotton T-Shirt,Fashion,3,599,0,0,0,1797,Wallet,Delivered,Mobile App,Valid
+ORD100888,2025-12-02,CUST1147,29,Other,Ahmedabad,Gujarat,PRD114,Shampoo,Beauty,1,349,5,17.45,80,411.55,Cash on Delivery,Delivered,Website,Valid
+ORD100889,2025-08-19,CUST1108,46,Other,Gurugram,Haryana,PRD107,Jeans,Fashion,1,1299,0,0,40,1339,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100890,2025-02-25,CUST1085,55,Female,Noida,Uttar Pradesh,PRD110,Bedsheet Set,Home & Kitchen,1,1599,0,0,0,1599,UPI,Delivered,Mobile App,Valid
+ORD100891,2025-09-06,CUST1051,24,Female,Delhi,Delhi,PRD102,Bluetooth Speaker,Electronics,1,2199,20,439.8,0,1759.2,UPI,Delivered,Marketplace,Valid
+ORD100892,2025-01-04,CUST1192,39,Other,Jaipur,Rajasthan,PRD117,Desk Organizer,Books & Stationery,5,649,10,324.5,0,2920.5,Cash on Delivery,Shipped,Mobile App,Valid
+ORD100893,2025-06-22,CUST1189,43,Male,Lucknow,Uttar Pradesh,PRD111,Water Bottle,Home & Kitchen,5,499,15,374.25,0,2120.75,Wallet,Shipped,Marketplace,Valid
+ORD100894,2025-01-30,CUST1182,19,Other,Bhopal,Madhya Pradesh,PRD111,Water Bottle,Home & Kitchen,3,499,0,0,80,1577,Credit Card,Delivered,Website,Valid
+ORD100895,2025-09-29,CUST1143,50,Male,Ahmedabad,Gujarat,PRD108,Running Shoes,Fashion,1,2499,10,249.9,0,2249.1,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100896,2025-04-07,CUST1001,38,Other,Lucknow,Uttar Pradesh,PRD111,Water Bottle,Home & Kitchen,1,499,5,24.95,40,514.05,Wallet,Processing,Mobile App,Valid
+ORD100897,2025-04-30,CUST1248,24,Other,Hyderabad,Telangana,PRD103,USB-C Cable,Electronics,1,399,15,59.85,60,399.15,Wallet,Processing,Mobile App,Valid
+ORD100898,2025-05-31,CUST1099,50,Female,Ahmedabad,Gujarat,PRD105,Smart Watch,Electronics,3,3499,15,1574.55,0,8922.45,Wallet,Cancelled,Website,Valid
+ORD100899,2025-09-12,CUST1044,48,Other,Pune,Maharashtra,PRD118,Novel,Books & Stationery,5,449,5,112.25,0,2132.75,UPI,Shipped,Marketplace,Valid
+ORD100900,2025-05-04,CUST1124,19,Female,Mumbai,Maharashtra,PRD106,Cotton T-Shirt,Fashion,2,599,10,119.8,40,1118.2,Wallet,Delivered,Mobile App,Valid
+ORD100901,2025-07-16,CUST1143,26,Other,Mumbai,Maharashtra,PRD109,Backpack,Fashion,2,1799,20,719.6,0,2878.4,Wallet,Delivered,Marketplace,Valid
+ORD100902,2025-09-09,CUST1046,42,Other,Indore,Madhya Pradesh,PRD111,Water Bottle,Home & Kitchen,3,499,15,224.55,80,1352.45,Debit Card,Delivered,Marketplace,Valid
+ORD100903,2025-07-15,CUST1223,39,Other,Indore,Madhya Pradesh,PRD108,Running Shoes,Fashion,1,2499,0,0,0,2499,UPI,Delivered,Marketplace,Valid
+ORD100904,2025-04-07,CUST1059,18,Male,Jaipur,Rajasthan,PRD112,Cookware Set,Home & Kitchen,1,2899,0,0,0,2899,Wallet,Delivered,Website,Valid
+ORD100905,2025-10-30,CUST1274,26,Other,Mumbai,Maharashtra,PRD113,Face Moisturizer,Beauty,5,699,0,0,0,3495,Wallet,Delivered,Marketplace,Valid
+ORD100906,2025-11-05,CUST1113,32,Male,Noida,Uttar Pradesh,PRD113,Face Moisturizer,Beauty,1,699,15,104.85,60,654.15,Debit Card,Delivered,Marketplace,Valid
+ORD100907,2025-08-22,CUST1075,37,Other,Jaipur,Rajasthan,PRD110,Bedsheet Set,Home & Kitchen,1,1599,10,159.9,80,1519.1,Debit Card,Delivered,Marketplace,Valid
+ORD100908,2025-03-05,CUST1140,21,Male,Bhopal,Madhya Pradesh,PRD116,Notebook Pack,Books & Stationery,2,299,0,0,60,658,Cash on Delivery,Delivered,Website,Valid
+ORD100909,2025-04-18,CUST1115,43,Male,Ahmedabad,Gujarat,PRD102,Bluetooth Speaker,Electronics,4,2199,10,879.6,0,7916.4,Wallet,Returned,Marketplace,Valid
+ORD100910,2025-03-23,CUST1011,22,Other,Kolkata,West Bengal,PRD113,Face Moisturizer,Beauty,1,699,10,69.9,60,689.1,Cash on Delivery,Cancelled,Marketplace,Valid
+ORD100911,2025-05-25,CUST1144,55,Female,Ahmedabad,Gujarat,PRD107,Jeans,Fashion,2,1299,5,129.9,0,2468.1,Debit Card,Delivered,Marketplace,Valid
+ORD100912,2025-06-05,CUST1234,31,Female,Lucknow,Uttar Pradesh,PRD106,Cotton T-Shirt,Fashion,2,599,5,59.9,60,1198.1,Credit Card,Delivered,Marketplace,Valid
+ORD100913,2025-04-11,CUST1004,61,Female,Bengaluru,Karnataka,PRD104,Laptop Stand,Electronics,2,1499,20,599.6,0,2398.4,Cash on Delivery,Delivered,Website,Valid
+ORD100914,2025-02-19,CUST1182,55,Male,Chennai,Tamil Nadu,PRD106,Cotton T-Shirt,Fashion,4,599,0,0,0,2396,Debit Card,Delivered,Website,Valid
+ORD100915,2025-11-18,CUST1206,29,Other,Mumbai,Maharashtra,PRD102,Bluetooth Speaker,Electronics,1,2199,5,109.95,0,2089.05,Net Banking,Delivered,Marketplace,Valid
+ORD100916,2025-07-12,CUST1045,46,Male,Indore,Madhya Pradesh,PRD115,Sunscreen,Beauty,3,599,10,179.7,0,1617.3,Wallet,Delivered,Website,Valid
+ORD100917,2025-03-03,CUST1059,54,Other,Noida,Uttar Pradesh,PRD104,Laptop Stand,Electronics,1,1499,10,149.9,80,1429.1,Net Banking,Delivered,Mobile App,Valid
+ORD100918,2025-05-21,CUST1048,26,Female,Indore,Madhya Pradesh,PRD106,Cotton T-Shirt,Fashion,1,599,20,119.8,80,559.2,Net Banking,Delivered,Mobile App,Valid
+ORD100919,2025-02-02,CUST1275,51,Male,Gurugram,Haryana,PRD113,Face Moisturizer,Beauty,3,699,0,0,0,2097,Net Banking,Delivered,Website,Valid
+ORD100920,2025-09-23,CUST1275,29,Other,Ahmedabad,Gujarat,PRD104,Laptop Stand,Electronics,2,1499,0,0,0,2998,UPI,Delivered,Marketplace,Valid
+ORD100921,2025-04-03,CUST1002,59,Female,Kolkata,West Bengal,PRD115,Sunscreen,Beauty,3,599,0,0,0,1797,Credit Card,Delivered,Website,Valid
+ORD100922,2025-10-15,CUST1131,28,Male,Bhopal,Madhya Pradesh,PRD102,Bluetooth Speaker,Electronics,1,2199,0,0,0,2199,Net Banking,Delivered,Marketplace,Valid
+ORD100923,2025-01-01,CUST1127,52,Male,Pune,Maharashtra,PRD102,Bluetooth Speaker,Electronics,4,2199,5,439.8,0,8356.2,Wallet,Cancelled,Website,Valid
+ORD100924,2025-10-23,CUST1251,31,Other,Ahmedabad,Gujarat,PRD111,Water Bottle,Home & Kitchen,2,499,20,199.6,60,858.4,Net Banking,Delivered,Website,Valid
+ORD100925,2025-12-06,CUST1022,56,Other,Mumbai,Maharashtra,PRD102,Bluetooth Speaker,Electronics,1,2199,0,0,0,2199,Credit Card,Returned,Website,Valid
+ORD100926,2025-10-30,CUST1183,42,Other,Pune,Maharashtra,PRD105,Smart Watch,Electronics,2,3499,5,349.9,0,6648.1,Debit Card,Delivered,Website,Valid
+ORD100927,2025-07-24,CUST1233,22,Other,Noida,Uttar Pradesh,PRD109,Backpack,Fashion,2,1799,15,539.7,0,3058.3,Credit Card,Delivered,Marketplace,Valid
+ORD100928,2025-05-18,CUST1098,44,Female,Ahmedabad,Gujarat,PRD112,Cookware Set,Home & Kitchen,2,2899,10,579.8,0,5218.2,Credit Card,Delivered,Mobile App,Valid
+ORD100929,2025-08-11,CUST1194,44,Female,Delhi,Delhi,PRD108,Running Shoes,Fashion,1,2499,0,0,0,2499,Net Banking,Delivered,Mobile App,Valid
+ORD100930,2025-11-24,CUST1045,42,Female,Bengaluru,Karnataka,PRD111,Water Bottle,Home & Kitchen,3,499,0,0,40,1537,UPI,Delivered,Mobile App,Valid
+ORD100931,2025-02-23,CUST1063,62,Other,Gurugram,Haryana,PRD117,Desk Organizer,Books & Stationery,2,649,0,0,60,1358,Debit Card,Delivered,Mobile App,Valid
+ORD100932,2025-10-10,CUST1138,29,Male,Jaipur,Rajasthan,PRD104,Laptop Stand,Electronics,3,1499,0,0,0,4497,Cash on Delivery,Shipped,Marketplace,Valid
+ORD100933,2025-12-14,CUST1272,27,Other,Kolkata,West Bengal,PRD113,Face Moisturizer,Beauty,1,699,0,0,40,739,Wallet,Delivered,Website,Valid
+ORD100934,2025-03-15,CUST1193,33,Other,Jaipur,Rajasthan,PRD109,Backpack,Fashion,1,1799,10,179.9,0,1619.1,Wallet,Processing,Marketplace,Valid
+ORD100935,2025-08-03,CUST1234,45,Other,Gurugram,Haryana,PRD115,Sunscreen,Beauty,5,599,10,299.5,0,2695.5,Debit Card,Delivered,Marketplace,Valid
+ORD100936,2025-04-28,CUST1156,58,Female,Lucknow,Uttar Pradesh,PRD103,USB-C Cable,Electronics,4,399,5,79.8,0,1516.2,UPI,Delivered,Website,Valid
+ORD100937,2025-05-03,CUST1047,45,Other,Gurugram,Haryana,PRD102,Bluetooth Speaker,Electronics,1,2199,0,0,0,2199,UPI,Shipped,Marketplace,Valid
+ORD100938,2025-03-11,CUST1245,18,Other,Chennai,Tamil Nadu,PRD117,Desk Organizer,Books & Stationery,2,649,10,129.8,80,1248.2,Cash on Delivery,Delivered,Website,Valid
+ORD100939,2025-01-04,CUST1217,61,Other,Ahmedabad,Gujarat,PRD118,Novel,Books & Stationery,2,449,0,0,80,978,Net Banking,Delivered,Website,Valid
+ORD100940,2025-11-07,CUST1229,50,Male,Gurugram,Haryana,PRD117,Desk Organizer,Books & Stationery,4,649,0,0,0,2596,Credit Card,Delivered,Website,Valid
+ORD100941,2025-08-05,CUST1253,25,Male,Hyderabad,Telangana,PRD106,Cotton T-Shirt,Fashion,1,599,0,0,80,679,Net Banking,Delivered,Mobile App,Valid
+ORD100942,2025-09-05,CUST1150,59,Other,Pune,Maharashtra,PRD107,Jeans,Fashion,1,1299,10,129.9,60,1229.1,Debit Card,Delivered,Website,Valid
+ORD100943,2025-08-26,CUST1249,18,Male,Delhi,Delhi,PRD112,Cookware Set,Home & Kitchen,1,2899,5,144.95,0,2754.05,UPI,Delivered,Marketplace,Valid
+ORD100944,2025-04-06,CUST1205,44,Female,Bengaluru,Karnataka,PRD101,Wireless Mouse,Electronics,1,799,5,39.95,40,799.05,Credit Card,Delivered,Mobile App,Valid
+ORD100945,2025-01-04,CUST1079,29,Other,Indore,Madhya Pradesh,PRD109,Backpack,Fashion,1,1799,5,89.95,0,1709.05,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100946,2025-02-25,CUST1224,30,Female,Lucknow,Uttar Pradesh,PRD115,Sunscreen,Beauty,1,599,5,29.95,60,629.05,Wallet,Delivered,Website,Valid
+ORD100947,2025-05-26,CUST1020,48,Other,Gurugram,Haryana,PRD113,Face Moisturizer,Beauty,1,699,0,0,40,739,Credit Card,Delivered,Mobile App,Valid
+ORD100948,2025-03-02,CUST1215,50,Other,Chennai,Tamil Nadu,PRD118,Novel,Books & Stationery,1,449,10,44.9,40,444.1,Cash on Delivery,Delivered,Marketplace,Valid
+ORD100949,2025-07-19,CUST1067,61,Female,Noida,Uttar Pradesh,PRD104,Laptop Stand,Electronics,3,1499,0,0,0,4497,UPI,Delivered,Website,Valid
+ORD100950,2025-12-14,CUST1175,33,Other,Hyderabad,Telangana,PRD101,Wireless Mouse,Electronics,1,799,0,0,60,859,Cash on Delivery,Delivered,Website,Valid
+ORD100951,2025-09-19,CUST1095,60,Male,Mumbai,Maharashtra,PRD109,Backpack,Fashion,2,1799,15,539.7,0,3058.3,Credit Card,Processing,Website,Valid
+ORD100952,2025-08-31,CUST1052,32,Female,Ahmedabad,Gujarat,PRD117,Desk Organizer,Books & Stationery,2,649,0,0,80,1378,Credit Card,Delivered,Website,Valid
+ORD100953,2025-07-25,CUST1019,21,Male,Pune,Maharashtra,PRD107,Jeans,Fashion,4,1299,5,259.8,0,4936.2,UPI,Delivered,Mobile App,Valid
+ORD100954,2025-09-26,CUST1156,59,Female,Ahmedabad,Gujarat,PRD108,Running Shoes,Fashion,1,2499,5,124.95,0,2374.05,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100955,2025-02-26,CUST1137,29,Female,Bengaluru,Karnataka,PRD109,Backpack,Fashion,4,1799,10,719.6,0,6476.4,UPI,Delivered,Website,Valid
+ORD100956,2025-01-27,CUST1164,49,Male,Mumbai,Maharashtra,PRD110,Bedsheet Set,Home & Kitchen,1,1599,15,239.85,40,1399.15,Debit Card,Delivered,Mobile App,Valid
+ORD100957,2025-06-05,CUST1057,41,Other,Noida,Uttar Pradesh,PRD101,Wireless Mouse,Electronics,2,799,10,159.8,40,1478.2,Wallet,Delivered,Marketplace,Valid
+ORD100958,2025-09-28,CUST1190,58,Other,Mumbai,Maharashtra,PRD109,Backpack,Fashion,1,1799,5,89.95,0,1709.05,Credit Card,Shipped,Marketplace,Valid
+ORD100959,2025-03-03,CUST1021,57,Male,Jaipur,Rajasthan,PRD107,Jeans,Fashion,1,1299,5,64.95,40,1274.05,Net Banking,Delivered,Mobile App,Valid
+ORD100960,2025-08-31,CUST1103,53,Male,Kolkata,West Bengal,PRD105,Smart Watch,Electronics,1,3499,0,0,0,3499,Debit Card,Delivered,Mobile App,Valid
+ORD100961,2025-08-18,CUST1060,56,Male,Patna,Bihar,PRD114,Shampoo,Beauty,1,349,5,17.45,80,411.55,Credit Card,Cancelled,Marketplace,Valid
+ORD100962,2025-03-08,CUST1148,49,Other,Delhi,Delhi,PRD102,Bluetooth Speaker,Electronics,3,2199,10,659.7,0,5937.3,Cash on Delivery,Cancelled,Marketplace,Valid
+ORD100963,2025-09-20,CUST1038,31,Female,Gurugram,Haryana,PRD115,Sunscreen,Beauty,2,599,5,59.9,60,1198.1,Debit Card,Delivered,Website,Valid
+ORD100964,2025-03-23,CUST1111,64,Other,Jaipur,Rajasthan,PRD101,Wireless Mouse,Electronics,3,799,10,239.7,0,2157.3,Wallet,Delivered,Mobile App,Valid
+ORD100965,2025-06-05,CUST1112,36,Female,Pune,Maharashtra,PRD109,Backpack,Fashion,2,1799,0,0,0,3598,Credit Card,Delivered,Marketplace,Valid
+ORD100966,2025-03-17,CUST1142,31,Other,Patna,Bihar,PRD105,Smart Watch,Electronics,1,3499,10,349.9,0,3149.1,Credit Card,Delivered,Website,Valid
+ORD100967,2025-01-01,CUST1177,64,Female,Lucknow,Uttar Pradesh,PRD112,Cookware Set,Home & Kitchen,1,2899,15,434.85,0,2464.15,Debit Card,Shipped,Mobile App,Valid
+ORD100968,2025-11-10,CUST1150,35,Female,Bengaluru,Karnataka,PRD102,Bluetooth Speaker,Electronics,2,2199,0,0,0,4398,Wallet,Delivered,Mobile App,Valid
+ORD100969,2025-01-09,CUST1275,58,Other,Lucknow,Uttar Pradesh,PRD104,Laptop Stand,Electronics,2,1499,10,299.8,0,2698.2,Debit Card,Shipped,Marketplace,Valid
+ORD100970,2025-10-10,CUST1105,27,Male,Bhopal,Madhya Pradesh,PRD115,Sunscreen,Beauty,1,599,0,0,80,679,Cash on Delivery,Delivered,Website,Valid
+ORD100971,2025-08-11,CUST1188,30,Other,Gurugram,Haryana,PRD116,Notebook Pack,Books & Stationery,1,299,0,0,40,339,Credit Card,Returned,Mobile App,Valid
+ORD100972,2025-04-03,CUST1144,30,Female,Delhi,Delhi,PRD110,Bedsheet Set,Home & Kitchen,1,1599,0,0,0,1599,Net Banking,Delivered,Website,Valid
+ORD100973,2025-02-06,CUST1218,26,Other,Mumbai,Maharashtra,PRD115,Sunscreen,Beauty,4,599,20,479.2,0,1916.8,Net Banking,Delivered,Website,Valid
+ORD100974,2025-11-05,CUST1051,33,Female,Hyderabad,Telangana,PRD113,Face Moisturizer,Beauty,1,699,15,104.85,80,674.15,Credit Card,Shipped,Mobile App,Valid
+ORD100975,2025-03-15,CUST1006,63,Female,Indore,Madhya Pradesh,PRD101,Wireless Mouse,Electronics,4,799,0,0,0,3196,Debit Card,Cancelled,Website,Valid
+ORD100976,2025-03-13,CUST1245,21,Other,Indore,Madhya Pradesh,PRD115,Sunscreen,Beauty,3,599,0,0,0,1797,Credit Card,Delivered,Marketplace,Valid
+ORD100977,2025-05-17,CUST1278,44,Female,Noida,Uttar Pradesh,PRD101,Wireless Mouse,Electronics,3,799,0,0,0,2397,Net Banking,Delivered,Website,Valid
+ORD100978,2025-04-25,CUST1012,42,Other,Mumbai,Maharashtra,PRD114,Shampoo,Beauty,1,349,5,17.45,60,391.55,Wallet,Delivered,Marketplace,Valid
+ORD100979,2025-02-27,CUST1251,39,Female,Gurugram,Haryana,PRD104,Laptop Stand,Electronics,1,1499,20,299.8,60,1259.2,Net Banking,Delivered,Mobile App,Valid
+ORD100980,2025-02-13,CUST1022,45,Female,Jaipur,Rajasthan,PRD105,Smart Watch,Electronics,1,3499,5,174.95,0,3324.05,Wallet,Delivered,Marketplace,Valid
+ORD100981,2025-12-18,CUST1154,41,Male,Jaipur,Rajasthan,PRD110,Bedsheet Set,Home & Kitchen,1,1599,0,0,0,1599,Wallet,Shipped,Marketplace,Valid
+ORD100982,2025-02-09,CUST1001,64,Male,Bhopal,Madhya Pradesh,PRD105,Smart Watch,Electronics,3,3499,0,0,0,10497,Cash on Delivery,Delivered,Website,Valid
+ORD100983,2025-02-27,CUST1218,40,Male,Ahmedabad,Gujarat,PRD109,Backpack,Fashion,1,1799,0,0,0,1799,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100984,2025-08-06,CUST1246,33,Male,Ahmedabad,Gujarat,PRD114,Shampoo,Beauty,2,349,10,69.8,40,668.2,Wallet,Returned,Mobile App,Valid
+ORD100985,2025-10-09,CUST1254,63,Male,Kolkata,West Bengal,PRD118,Novel,Books & Stationery,1,449,5,22.45,40,466.55,Net Banking,Delivered,Marketplace,Valid
+ORD100986,2025-10-23,CUST1112,26,Female,Ahmedabad,Gujarat,PRD103,USB-C Cable,Electronics,1,399,0,0,40,439,Cash on Delivery,Delivered,Website,Valid
+ORD100987,2025-06-28,CUST1184,33,Female,Bhopal,Madhya Pradesh,PRD105,Smart Watch,Electronics,1,3499,0,0,0,3499,Cash on Delivery,Returned,Website,Valid
+ORD100988,2025-01-29,CUST1070,21,Other,Noida,Uttar Pradesh,PRD105,Smart Watch,Electronics,1,3499,0,0,0,3499,Debit Card,Processing,Website,Valid
+ORD100989,2025-12-06,CUST1037,54,Male,Chennai,Tamil Nadu,PRD106,Cotton T-Shirt,Fashion,1,599,5,29.95,40,609.05,UPI,Delivered,Website,Valid
+ORD100990,2025-04-04,CUST1240,64,Male,Ahmedabad,Gujarat,PRD105,Smart Watch,Electronics,2,3499,10,699.8,0,6298.2,Cash on Delivery,Delivered,Mobile App,Valid
+ORD100991,2025-11-27,CUST1006,50,Female,Pune,Maharashtra,PRD104,Laptop Stand,Electronics,1,1499,15,224.85,40,1314.15,Credit Card,Delivered,Website,Valid
+ORD100992,2025-07-22,CUST1216,32,Male,Lucknow,Uttar Pradesh,PRD115,Sunscreen,Beauty,2,599,15,179.7,80,1098.3,Wallet,Delivered,Website,Valid
+ORD100993,2025-05-20,CUST1047,21,Female,Kolkata,West Bengal,PRD113,Face Moisturizer,Beauty,5,699,0,0,0,3495,Net Banking,Delivered,Mobile App,Valid
+ORD100994,2025-04-05,CUST1039,21,Male,Bhopal,Madhya Pradesh,PRD115,Sunscreen,Beauty,1,599,10,59.9,60,599.1,Credit Card,Returned,Marketplace,Valid
+ORD100995,2025-08-06,CUST1099,28,Other,Pune,Maharashtra,PRD104,Laptop Stand,Electronics,1,1499,5,74.95,60,1484.05,Debit Card,Delivered,Website,Valid
+ORD100996,2025-02-03,CUST1108,20,Female,Jaipur,Rajasthan,PRD101,Wireless Mouse,Electronics,2,799,0,0,0,1598,Wallet,Delivered,Mobile App,Valid
+ORD100997,2025-02-13,CUST1022,36,Male,Jaipur,Rajasthan,PRD116,Notebook Pack,Books & Stationery,1,299,0,0,60,359,Debit Card,Delivered,Marketplace,Valid
+ORD100998,2025-04-10,CUST1161,44,Other,Indore,Madhya Pradesh,PRD113,Face Moisturizer,Beauty,2,699,20,279.6,80,1198.4,Debit Card,Delivered,Marketplace,Valid
+ORD100999,2025-02-21,CUST1257,36,Female,Indore,Madhya Pradesh,PRD105,Smart Watch,Electronics,1,3499,10,349.9,0,3149.1,UPI,Delivered,Website,Valid
+ORD101000,2025-12-16,CUST1237,59,Female,Noida,Uttar Pradesh,PRD103,USB-C Cable,Electronics,4,399,0,0,0,1596,Wallet,Delivered,Marketplace,Valid
